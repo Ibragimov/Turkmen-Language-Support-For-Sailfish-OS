@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="omp.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_about_inoi-la-source_code_offerThis product includes certain free/open source software. The exact terms of the related licenses, disclaimers, acknowledgements and notices are reproduced in the materials provided with this product. For any further details please send a request to: info@inoi.com">
+        <source>This product includes certain free/open source software. The exact terms of the related licenses, disclaimers, acknowledgements and notices are reproduced in the materials provided with this product. For any further details please send a request to: info@inoi.com</source><seg-source><mrk mtype="seg" mid="1">This product includes certain free/open source software. The exact terms of the related licenses, disclaimers, acknowledgements and notices are reproduced in the materials provided with this product. For any further details please send a request to: info@inoi.com</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Bu önüm belli mugt/açyk çeşmeli programma üpjünçiligini öz içine alýar. Degişli ygtyýarnamalaryň, jogapkärçilikden ýüz öwürmeleriniň, kabul etmeleriniň we bildirişleriň takyk terminleri bu önüm bilen üpjün edilen materiallarda täzeden döredilen. Islendik başga jikme-jiklik barada talaby şu salgysyna iberiň:  info@inoi.com</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_about_omp-la-source_code_offerThis product includes certain free/open source software. The exact terms of the related licenses, disclaimers, acknowledgements and notices are reproduced in the materials provided with this product. For any further details please send a request to: info@omprussia.ru">
+        <source>This product includes certain free/open source software. The exact terms of the related licenses, disclaimers, acknowledgements and notices are reproduced in the materials provided with this product. For any further details please send a request to: info@omprussia.ru</source><seg-source><mrk mtype="seg" mid="2">This product includes certain free/open source software. The exact terms of the related licenses, disclaimers, acknowledgements and notices are reproduced in the materials provided with this product. For any further details please send a request to: info@omprussia.ru</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Bu önüm belli mugt/açyk çeşmeli programma üpjünçiligini öz içine alýar. Degişli ygtyýarnamalaryň, jogapkärçilikden ýüz öwürmeleriniň, kabul etmeleriniň we bildirişleriň takyk terminleri bu önüm bilen üpjün edilen materiallarda täzeden döredilen. Islendik başga jikme-jiklik barada talaby şu salgysyna iberiň: info@omprussia.ru</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_about_omp-la-trademark_notificationOpen Mobile Platform is a trademark of Open Mobile Platform LLC.">
+        <source>Open Mobile Platform is a trademark of Open Mobile Platform LLC.</source><seg-source><mrk mtype="seg" mid="3">Open Mobile Platform is a trademark of Open Mobile Platform LLC.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Open Mobile Platform söwda belgisi Open Mobile Platform LLC-niň we onuň dahylly şahslarynyň bellige alnan söwda belgisidir.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_about_inoi-la-trademark_notificationINOI is the registered trademark of Inoi Ltd.">
+        <source>INOI is the registered trademark of Inoi Ltd.</source><seg-source><mrk mtype="seg" mid="4">INOI is the registered trademark of Inoi Ltd.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">INOI söwda belgisi Inoi Ltd-niň we onuň dahylly şahslarynyň bellige alnan söwda belgisidir.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="la-default_signature_textSent from my INOI">
+        <source>Sent from my INOI</source><seg-source><mrk mtype="seg" mid="5">Sent from my INOI</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">INOI-ymdan iberildi</mrk></target>
+        
+      <note from="developer">The default text for email account signature lines</note></trans-unit>
+    </body>
+  </file>
+</xliff>
