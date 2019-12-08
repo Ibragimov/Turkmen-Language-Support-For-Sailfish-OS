@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
-  <file original="lipstick-jolla-home-twitter.ts" source-language="en-US" datatype="plaintext" target-language="en_GB">
+  <file original="lipstick-jolla-home-twitter.ts" source-language="en-US" datatype="plaintext" target-language="tk">
     <header>
       <phase-group>
         <phase date="2019-12-02" phase-name="translation-1" process-name="translation" contact-name="Victor Ibragimov" tool-id="lokalize-19.04.3" contact-email="victor.ibragimov@gmail.com"/>
