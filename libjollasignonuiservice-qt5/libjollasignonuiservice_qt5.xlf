@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file original="libjollasignonuiservice_qt5.ts" target-language="tk" source-language="en-US" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase process-name="translation" contact-email="victor.ibragimov@gmail.com" tool-id="lokalize-19.04.3" contact-name="Victor Ibragimov" phase-name="translation-1" date="2019-11-29"/>
+      </phase-group>
+      <tool tool-name="Lokalize" tool-version="19.04.3" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="signonui-la-usernameUsername" xml:space="preserve" approved="yes">
+        <source>Username</source>
+        <target state="translated" phase-name="translation-1">Ulanyjy ady</target>
+      </trans-unit>
+      <trans-unit id="signonui-ph-usernameEnter Username" xml:space="preserve" approved="yes">
+        <source>Enter Username</source>
+        <target state="translated" phase-name="translation-1">Ulanyjy ady giriz</target>
+      </trans-unit>
+      <trans-unit id="signonui-la-passwordPassword" xml:space="preserve" approved="yes">
+        <source>Password</source>
+        <target state="translated" phase-name="translation-1">Parol</target>
+      </trans-unit>
+      <trans-unit id="signonui-ph-passwordEnter Password" xml:space="preserve" approved="yes">
+        <source>Enter Password</source>
+        <target state="translated" phase-name="translation-1">Parol giriz</target>
+      </trans-unit>
+      <trans-unit id="signonui-bt-cancelCancel" xml:space="preserve" approved="yes">
+        <source>Cancel</source>
+        <target state="translated" phase-name="translation-1">Ýatyr</target>
+      </trans-unit>
+      <trans-unit id="signonui-bt-acceptAccept" xml:space="preserve" approved="yes">
+        <source>Accept</source>
+        <target state="translated" phase-name="translation-1">Kabul et</target>
+      </trans-unit>
+      <trans-unit id="signonui-la-signon_in_progress_in_browserSign-in via Browser app" xml:space="preserve" approved="yes">
+        <source>Sign-in via Browser app</source>
+        <target state="translated" phase-name="translation-1">Browser goýma arkaly hasaba gir</target>
+        <note from="developer">Placeholder label which is displayed while the user should be signing in via browser application</note>
+      </trans-unit>
+      <trans-unit id="signonui-la-external_browser_redirectRedirecting, please wait..." xml:space="preserve" approved="yes">
+        <source>Redirecting, please wait...</source>
+        <target state="translated" phase-name="translation-1">Gönükdirýär, garaşyň...</target>
+        <note from="developer">The message which is displayed in the browser application when another redirect is required to extract auth data.</note>
+      </trans-unit>
+      <trans-unit id="signonui-la-external_browser_signon_successSuccess! Please close this browser window." xml:space="preserve" approved="yes">
+        <source>Success! Please close this browser window.</source>
+        <target state="translated" phase-name="translation-1">Hasaba giriş şowly boldy. Bu brauzer penjiresini ýapyň.</target>
+        <note from="developer">The message which is displayed in the browser application when signon succeeds.</note>
+      </trans-unit>
+      <trans-unit id="signonui-la-external_browser_signon_failedFailed! Please close this browser window." xml:space="preserve" approved="yes">
+        <source>Failed! Please close this browser window.</source>
+        <target state="translated" phase-name="translation-1">Hasaba girip bolmady. Bu brauzer penjiresini ýapyň.</target>
+        <note from="developer">The message which is displayed in the browser application when signon fails.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

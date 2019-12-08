@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file original="gallery-ambience.ts" datatype="plaintext" target-language="tk" source-language="en-US">
+    <header>
+      <phase-group>
+        <phase tool-id="lokalize-19.04.3" process-name="translation" phase-name="translation-1" contact-email="victor.ibragimov@gmail.com" contact-name="Victor Ibragimov" date="2019-12-04"/>
+      </phase-group>
+      <tool tool-id="lokalize-19.04.3" tool-version="19.04.3" tool-name="Lokalize"/>
+    </header>
+    <body>
+      <trans-unit id="jolla-gallery-ambience-he-ambiencesAmbiences" approved="yes" xml:space="preserve">
+        <source>Ambiences</source>
+        <target phase-name="translation-1" state="translated">Gurşawlar</target>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-sounds_and_feedbackSounds and feedback" approved="yes" xml:space="preserve">
+        <source>Sounds and feedback</source>
+        <target phase-name="translation-1" state="translated">Sesler we seslenme</target>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-tonesTones" approved="yes" xml:space="preserve">
+        <source>Tones</source>
+        <target phase-name="translation-1" state="translated">Tonlar</target>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-ringtone-volumeRingtone volume" approved="yes" xml:space="preserve">
+        <source>Ringtone volume</source>
+        <target phase-name="translation-1" state="translated">Jaň sazy sesi</target>
+      </trans-unit>
+      <trans-unit id=" jolla-gallery-ambience-sound-la-ringtoneRingtone" approved="yes" xml:space="preserve">
+        <source>Ringtone</source>
+        <target phase-name="translation-1" state="translated">Jaň sazy</target>
+      </trans-unit>
+      <trans-unit id=" jolla-gallery-ambience-sound-la-current-ringtoneCurrent ringtone" approved="yes" xml:space="preserve">
+        <source>Current ringtone</source>
+        <target phase-name="translation-1" state="translated">Häzirki rington</target>
+      </trans-unit>
+      <trans-unit id=" jolla-gallery-ambiencesound-la-messageMessage" approved="yes" xml:space="preserve">
+        <source>Message</source>
+        <target phase-name="translation-1" state="translated">Hat</target>
+      </trans-unit>
+      <trans-unit id=" jolla-gallery-ambience-sound-la-current-message-toneCurrent message tone" approved="yes" xml:space="preserve">
+        <source>Current message tone</source>
+        <target phase-name="translation-1" state="translated">Häzirki hat sesi</target>
+      </trans-unit>
+      <trans-unit id=" jolla-gallery-ambience-sound-la-chatChat" approved="yes" xml:space="preserve">
+        <source>Chat</source>
+        <target phase-name="translation-1" state="translated">Söhbet</target>
+      </trans-unit>
+      <trans-unit id=" jolla-gallery-ambience-sound-la-current-chat-toneCurrent chat tone" approved="yes" xml:space="preserve">
+        <source>Current chat tone</source>
+        <target phase-name="translation-1" state="translated">Häzirki söhbet sesi</target>
+      </trans-unit>
+      <trans-unit id=" jolla-gallery-ambience-sound-la-mailMail" approved="yes" xml:space="preserve">
+        <source>Mail</source>
+        <target phase-name="translation-1" state="translated">E-poçta</target>
+      </trans-unit>
+      <trans-unit id=" jolla-gallery-ambience-sound-la-current-mail-toneCurrent mail tone" approved="yes" xml:space="preserve">
+        <source>Current mail tone</source>
+        <target phase-name="translation-1" state="translated">Häzirki e-poçta sesi</target>
+      </trans-unit>
+      <trans-unit id=" jolla-gallery-ambience-sound-la-calendarCalendar" approved="yes" xml:space="preserve">
+        <source>Calendar</source>
+        <target phase-name="translation-1" state="translated">Senenama</target>
+      </trans-unit>
+      <trans-unit id=" jolla-gallery-ambience-sound-la-current-calendar-toneCurrent calendar alarm tone" approved="yes" xml:space="preserve">
+        <source>Current calendar alarm tone</source>
+        <target phase-name="translation-1" state="translated">Häzirki senenama oýaryjy sesi</target>
+      </trans-unit>
+      <trans-unit id=" jolla-gallery-ambience-sound-la-clockClock alarm" approved="yes" xml:space="preserve">
+        <source>Clock alarm</source>
+        <target phase-name="translation-1" state="translated">Sagat</target>
+      </trans-unit>
+      <trans-unit id=" jolla-gallery-ambience-sound-la-current-clock-toneCurrent clock alarm tone" approved="yes" xml:space="preserve">
+        <source>Current clock alarm tone</source>
+        <target phase-name="translation-1" state="translated">Häzirki sagat oýaryjy sesi</target>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-me-set_ambienceSet Ambience" approved="yes" xml:space="preserve">
+        <source>Set Ambience</source>
+        <target phase-name="translation-1" state="translated">Gurşawy belle</target>
+        <note from="developer">Active the ambience</note>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-me-remove_from_favoritesRemove from favorites" approved="yes" xml:space="preserve">
+        <source>Remove from favorites</source>
+        <target phase-name="translation-1" state="translated">Halanýanlardan aýyr</target>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-me-add_to_favoritesAdd to favorites" approved="yes" xml:space="preserve">
+        <source>Add to favorites</source>
+        <target phase-name="translation-1" state="translated">Halanýanlara goş</target>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-me-remove_ambienceRemove ambience" approved="yes" xml:space="preserve">
+        <source>Remove ambience</source>
+        <target phase-name="translation-1" state="translated">Gurşawy poz</target>
+        <note from="developer">Remove ambience from the ambience list</note>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-delete-ambienceDeleting Ambience" approved="yes" xml:space="preserve">
+        <source>Deleting Ambience</source>
+        <target phase-name="translation-1" state="translated">Gurşawy pozmak</target>
+        <note from="developer">Remorse popup text for ambience deletion</note>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-image-thumbnail-loading-failedOops, can't display the thumbnail!" approved="yes" xml:space="preserve">
+        <source>Oops, can't display the thumbnail!</source>
+        <target phase-name="translation-1" state="translated">Wiý, suratjygy görkezip bolmaýar</target>
+        <note from="developer">Thumbnail Image loading failed</note>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-create-ambienceCreate ambience" approved="yes" xml:space="preserve">
+        <source>Create ambience</source>
+        <target phase-name="translation-1" state="translated">Gurşaw döret</target>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-ambience-colorAmbience color" approved="yes" xml:space="preserve">
+        <source>Ambience color</source>
+        <target phase-name="translation-1" state="translated">Gurşaw reňki</target>
+        <note from="developer">Text to indicate color changes
+----------
+Highlight color for ambience</note>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-reset-colorTap to reset" approved="yes" xml:space="preserve">
+        <source>Tap to reset</source>
+        <target phase-name="translation-1" state="translated">Nol etmek üçin bas</target>
+        <note from="developer">Text to indicate color changes</note>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-styleStyle" approved="yes" xml:space="preserve">
+        <source>Style</source>
+        <target phase-name="translation-1" state="translated">Stil</target>
+        <note from="developer">Style of ambience, either Light or Dark.</note>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-darkDark" approved="yes" xml:space="preserve">
+        <source>Dark</source>
+        <target phase-name="translation-1" state="translated">Garaňky</target>
+        <note from="developer">Dark ambience color scheme</note>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-lightLight" approved="yes" xml:space="preserve">
+        <source>Light</source>
+        <target phase-name="translation-1" state="translated">Çyra</target>
+        <note from="developer">Light ambience color scheme</note>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-ambience-nameAmbience name" approved="yes" xml:space="preserve">
+        <source>Ambience name</source>
+        <target phase-name="translation-1" state="translated">Gurşaw ady</target>
+        <note from="developer">Write a name label for ambience in read-only mode</note>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-ph_write_nameAmbience name" approved="yes" xml:space="preserve">
+        <source>Ambience name</source>
+        <target phase-name="translation-1" state="translated">Gurşaw ady</target>
+        <note from="developer">Placeholder text for the write a name text field</note>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-select-as-favoriteSelect as favorite" approved="yes" xml:space="preserve">
+        <source>Select as favorite</source>
+        <target phase-name="translation-1" state="translated">Halanýan edip saýla</target>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-actionsActions" approved="yes" xml:space="preserve">
+        <source>Actions</source>
+        <target phase-name="translation-1" state="translated">Hereketler</target>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-actions-explanationYou can define a set of actions to trigger when this ambience is selected" approved="yes" xml:space="preserve">
+        <source>You can define a set of actions to trigger when this ambience is selected</source>
+        <target phase-name="translation-1" state="translated">Bu gurşaw saýlanylanda, işletmeli hereketleriň toplumy kesgitläp bilersiňiz.</target>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-la-add-actionsAdd actions" approved="yes" xml:space="preserve">
+        <source>Add actions</source>
+        <target phase-name="translation-1" state="translated">Hereketleri goş</target>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-he-select actionSelect action" approved="yes" xml:space="preserve">
+        <source>Select action</source>
+        <target phase-name="translation-1" state="translated">Hereket saýla</target>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-sound-la-no-alarm-soundNo sound" approved="yes" xml:space="preserve">
+        <source>No sound</source>
+        <target phase-name="translation-1" state="translated">Ses ýok</target>
+      </trans-unit>
+      <trans-unit id="jolla-gallery-ambience-sound-la-volume_text%1%" approved="yes" xml:space="preserve">
+        <source>%1%</source>
+        <target phase-name="translation-1" state="translated">%1%</target>
+        <note from="developer">Volume as a percentage.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

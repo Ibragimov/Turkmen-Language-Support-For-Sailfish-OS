@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish-archive.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-archive-he-extract_folderExtracted folder">
+        <source>Extracted folder</source>
+        <target state="translated">Çykarylan bukja</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-archive-he-no_open_archiveNo archive open">
+        <source>No archive open</source>
+        <target state="translated">Açyk arhiw ýok</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-archive-la-quiting_applicationClosing...">
+        <source>Closing...</source>
+        <target state="translated">Ýapylýar...</target>
+        <note from="developer">Shown when application is fading away</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-archive-la-extracted_archive_folder_deletedExtracted archive folder is deleted">
+        <source>Extracted archive folder is deleted</source>
+        <target state="translated">Çykarylan arhiw bukja pozulan</target>
+        <note from="developer">Shown when extracted archive folder is deleted by user.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-archive-la-app_quit_hintPull down to quit the application">
+        <source>Pull down to quit the application</source>
+        <target state="translated">Goýmadan çykmak üçin aşak çekiň</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-archive-me-quit_applicationQuit">
+        <source>Quit</source>
+        <target state="translated">Çykmak</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-archive-ap-nameSailfish Archive">
+        <source>Sailfish Archive</source>
+        <target state="translated">Sailfish arhiwy</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

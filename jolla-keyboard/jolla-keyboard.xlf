@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file source-language="en-US" original="jolla-keyboard.ts" datatype="plaintext" target-language="en_GB">
+    <header>
+      <phase-group>
+        <phase tool-id="lokalize-19.04.3" contact-email="victor.ibragimov@gmail.com" process-name="translation" contact-name="Victor Ibragimov" phase-name="translation-1" date="2019-11-27"/>
+      </phase-group>
+      <tool tool-id="lokalize-19.04.3" tool-version="19.04.3" tool-name="Lokalize"/>
+    </header>
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="text_input-la-swipe_close_gesture_hintSwipe down to close the keyboard">
+        <source>Swipe down to close the keyboard</source>
+        <target state="translated" phase-name="translation-1">Klawiatura ýapmak üçin, aşak syryň</target>
+        <note from="developer">Hint for first time users that explains you can close the keyboard by swiping down.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="text_input-la-swipe_change_keyboard_gesture_hintSwipe to change keyboard">
+        <source>Swipe to change keyboard</source>
+        <target state="translated" phase-name="translation-1">Klawiatura üýtgetmek üçin syryň</target>
+        <note from="developer">Hint for first time users that explains that the keyboard layout can be changed by swiping.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="text_input-la-clear_clipboardClear clipboard">
+        <source>Clear clipboard</source>
+        <target state="translated" phase-name="translation-1">Çalşyk buferi arassala</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_text_input-he-warning_too_few_keyboardsYou must have at least one keyboard selected">
+        <source>You must have at least one keyboard selected</source>
+        <target state="translated" phase-name="translation-1">Sizde iň azyndan bir saýlanan klawiatura bolmaly</target>
+        <note from="developer">System notification advising user who is trying to disable all the keyboard layouts</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_text_input-he-enabled_keyboardsKeyboards">
+        <source>Keyboards</source>
+        <target state="translated" phase-name="translation-1">Klawiaturalar</target>
+        <note from="developer">Page header in enabled keyboards settings page</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_text_input-he-text_inputText input">
+        <source>Text input</source>
+        <target state="translated" phase-name="translation-1">Tekst girizme</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_text_input-bt-active_keyboardActive keyboard">
+        <source>Active keyboard</source>
+        <target state="translated" phase-name="translation-1">Işjeň klawiatura</target>
+        <note from="developer">Active layout combobox in settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_text_input-la-keyboard_change_hintYou can also change the active keyboard quickly by dragging horizontally between the keyboards, or pressing the spacebar of keyboard until language options appear, moving your finger on top of the option you want to choose and releasing your finger.">
+        <source>You can also change the active keyboard quickly by dragging horizontally between the keyboards, or pressing the spacebar of keyboard until language options appear, moving your finger on top of the option you want to choose and releasing your finger.</source>
+        <target state="translated" phase-name="translation-1">Siz klawiaturalaryň arasyndan keselikde çykip ýa-da dil opsiýalar görünýänçä, barmagyňyzy saýlamak isleýän opsiýanyň üstünde geçirmek we aýyrmak bilen klawiatura zolagyny basyp işjeň klawiatura çalt üýtgedip hem bilersiňiz.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_text_input-la-split_keyboardAllow splitting keyboard in landscape orientation">
+        <source>Allow splitting keyboard in landscape orientation</source>
+        <target state="translated" phase-name="translation-1">Bölünen klawiatura kese tertibinde rugsat beriň</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_text_input-bt-enabled_keyboardsKeyboards">
+        <source>Keyboards</source>
+        <target state="translated" phase-name="translation-1">Klawiaturalar</target>
+        <note from="developer">Shows list view for selecting active keyboards</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_text_input-bt-clear_wordsClear learned words">
+        <source>Clear learned words</source>
+        <target state="translated" phase-name="translation-1">Öwrenen sözleri arassala</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_text_input-la-cleared_words_remorse_bannerCleared learned words">
+        <source>Cleared learned words</source>
+        <target state="translated" phase-name="translation-1">Öwrenen sözler arassalanyldy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_text_input-la-chinese_virtual_keyboard_sectionChinese virtual keyboard">
+        <source>Chinese virtual keyboard</source>
+        <target state="translated" phase-name="translation-1">Hytaýça wirtual klawiatura</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_text_input-la-fuzzy_pinyinFuzzy pinyin">
+        <source>Fuzzy pinyin</source>
+        <target state="translated" phase-name="translation-1">Çeýe pinýin</target>
+        <note from="developer">Aka "mohu"</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="setings_text_input-la-hardware_keyboards_sectionHardware keyboards">
+        <source>Hardware keyboards</source>
+        <target state="translated" phase-name="translation-1">Fiziki klawiaturalar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_text_input-bt-active_physical_keyboardActive layout">
+        <source>Active layout</source>
+        <target state="translated" phase-name="translation-1">Işjeň maket</target>
+        <note from="developer">Active physical keyboard layout combobox in settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_text_input-text_inputText input">
+        <source>Text input</source>
+        <target state="translated" phase-name="translation-1">Tekst girizme</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="text_input_emojisEmojis">
+        <source>Emojis</source>
+        <target state="translated" phase-name="translation-1">Emoji</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

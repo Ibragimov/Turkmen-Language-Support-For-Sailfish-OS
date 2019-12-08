@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="omp_sdk.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_about_sdk_omp-la-source_code_offerThis product includes certain free/open source software. The exact terms of the related licenses, disclaimers, acknowledgements and notices are reproduced in the materials provided with this product. For any further details please send a request to: info@omprussia.ru">
+        <source>This product includes certain free/open source software. The exact terms of the related licenses, disclaimers, acknowledgements and notices are reproduced in the materials provided with this product. For any further details please send a request to: info@omprussia.ru</source>
+        <target state="translated">Bu önüm belli mugt/açyk çeşmeli programma üpjünçiligini öz içine alýar. Degişli ygtyýarnamalaryň, jogapkärçilikden ýüz öwürmeleriniň, kabul etmeleriniň we bildirişleriň takyk terminleri bu önüm bilen üpjün edilen materiallarda täzeden döredilen. Islendik başga jikme-jiklik barada talaby şu salgysyna iberiň: info@omprussia.ru</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_about_sdk_omp-la-trademark_notificationOpen Mobile Platform and Sailfish Mobile OS RUS are trademarks or registered trademarks of Open Mobile Platform Ltd.">
+        <source>Open Mobile Platform and Sailfish Mobile OS RUS are trademarks or registered trademarks of Open Mobile Platform Ltd.</source>
+        <target state="translated">Open Mobile Platform we Sailfish Mobile OS RUS söwda bellikleridir, ýa-da Open Mobile Platform Ltd-nyň bellige alnan söwda bellikleri.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

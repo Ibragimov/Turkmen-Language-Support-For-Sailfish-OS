@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file original="store-categories.po" target-language="tk" source-language="en-US" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase process-name="translation" contact-email="victor.ibragimov@gmail.com" tool-id="lokalize-19.04.3" contact-name="Victor Ibragimov" phase-name="translation-1" date="2019-11-29"/>
+      </phase-group>
+      <tool tool-name="Lokalize" tool-version="19.04.3" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="Utilities" xml:space="preserve" approved="yes">
+        <source>Utilities</source>
+        <target state="translated" phase-name="translation-1">Hyzmat programmalary</target>
+      </trans-unit>
+      <trans-unit id="Science" xml:space="preserve" approved="yes">
+        <source>Science</source>
+        <target state="translated" phase-name="translation-1">Ylym</target>
+      </trans-unit>
+      <trans-unit id="Network" xml:space="preserve" approved="yes">
+        <source>Network</source>
+        <target state="translated" phase-name="translation-1">Tor</target>
+      </trans-unit>
+      <trans-unit id="Multimedia" xml:space="preserve" approved="yes">
+        <source>Multimedia</source>
+        <target state="translated" phase-name="translation-1">Multimedia</target>
+      </trans-unit>
+      <trans-unit id="Location and Navigation" xml:space="preserve" approved="yes">
+        <source>Location and Navigation</source>
+        <target state="translated" phase-name="translation-1">Ýerleşiş we nawigasiýa</target>
+      </trans-unit>
+      <trans-unit id="Internet" xml:space="preserve" approved="yes">
+        <source>Internet</source>
+        <target state="translated" phase-name="translation-1">Internet</target>
+      </trans-unit>
+      <trans-unit id="Graphics" xml:space="preserve" approved="yes">
+        <source>Graphics</source>
+        <target state="translated" phase-name="translation-1">Grafikler</target>
+      </trans-unit>
+      <trans-unit id="Education" xml:space="preserve" approved="yes">
+        <source>Education</source>
+        <target state="translated" phase-name="translation-1">Bilim</target>
+      </trans-unit>
+      <trans-unit id="Development" xml:space="preserve" approved="yes">
+        <source>Development</source>
+        <target state="translated" phase-name="translation-1">Döredijilik</target>
+      </trans-unit>
+      <trans-unit id="Accessibility" xml:space="preserve" approved="yes">
+        <source>Accessibility</source>
+        <target state="translated" phase-name="translation-1">Giriş ukyby</target>
+      </trans-unit>
+      <trans-unit id="Office" xml:space="preserve" approved="yes">
+        <source>Office</source>
+        <target state="translated" phase-name="translation-1">Office</target>
+      </trans-unit>
+      <trans-unit id="Games" xml:space="preserve" approved="yes">
+        <source>Games</source>
+        <target state="translated" phase-name="translation-1">Oýunlar</target>
+      </trans-unit>
+      <trans-unit id="Sports" xml:space="preserve" approved="yes">
+        <source>Sports</source>
+        <target state="translated" phase-name="translation-1">Sportlar</target>
+      </trans-unit>
+      <trans-unit id="Simulation" xml:space="preserve" approved="yes">
+        <source>Simulation</source>
+        <target state="translated" phase-name="translation-1">Emulýasiýa</target>
+      </trans-unit>
+      <trans-unit id="Children" xml:space="preserve" approved="yes">
+        <source>Children</source>
+        <target state="translated" phase-name="translation-1">Çagalar</target>
+      </trans-unit>
+      <trans-unit id="Casual" xml:space="preserve" approved="yes">
+        <source>Casual</source>
+        <target state="translated" phase-name="translation-1">Çem gelen</target>
+      </trans-unit>
+      <trans-unit id="Action" xml:space="preserve" approved="yes">
+        <source>Action</source>
+        <target state="translated" phase-name="translation-1">Hereket</target>
+      </trans-unit>
+      <trans-unit id="Adventure" xml:space="preserve" approved="yes">
+        <source>Adventure</source>
+        <target state="translated" phase-name="translation-1">Başdan geçirme</target>
+      </trans-unit>
+      <trans-unit id="Puzzle" xml:space="preserve" approved="yes">
+        <source>Puzzle</source>
+        <target state="translated" phase-name="translation-1">Tapmaça</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

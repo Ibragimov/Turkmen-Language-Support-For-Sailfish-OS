@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file original="settings-bluetooth.ts" target-language="tk" source-language="en-US" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase process-name="translation" contact-email="victor.ibragimov@gmail.com" tool-id="lokalize-19.04.3" contact-name="Victor Ibragimov" phase-name="translation-1" date="2019-11-29"/>
+      </phase-group>
+      <tool tool-name="Lokalize" tool-version="19.04.3" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="settings_bluetooth-me-stop_searchingStop searching" xml:space="preserve" approved="yes">
+        <source>Stop searching</source>
+        <target state="translated" phase-name="translation-1">Gözlemegi duruz</target>
+        <note from="developer">Stop bluetooth device discovery</note>
+      </trans-unit>
+      <trans-unit id="settings_bluetooth-me-search-for-devicesSearch for devices" xml:space="preserve" approved="yes">
+        <source>Search for devices</source>
+        <target state="translated" phase-name="translation-1">Enjamlary gözle</target>
+        <note from="developer">Start bluetooth device discovery</note>
+      </trans-unit>
+      <trans-unit id="settings_bluetooth-he-bluetoothBluetooth" xml:space="preserve" approved="yes">
+        <source>Bluetooth</source>
+        <target state="translated" phase-name="translation-1">Bluetooth</target>
+      </trans-unit>
+      <trans-unit id="settings_bluetooth-la-bluetoothBluetooth" xml:space="preserve" approved="yes">
+        <source>Bluetooth</source>
+        <target state="translated" phase-name="translation-1">Bluetooth</target>
+      </trans-unit>
+      <trans-unit id="settings_bluetooth-la-device_nameDevice Name" xml:space="preserve" approved="yes">
+        <source>Device Name</source>
+        <target state="translated" phase-name="translation-1">Enjam ady</target>
+        <note from="developer">Name of bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="settings_bluetooth-la-device-visibilityVisibility:" xml:space="preserve" approved="yes">
+        <source>Visibility:</source>
+        <target state="translated" phase-name="translation-1">Görünme ukyby</target>
+        <note from="developer">Whether this bluetooth device is visible to other bluetooth devices</note>
+      </trans-unit>
+      <trans-unit id="settings_bluetooth-va-visibility_on_with_timeOn (%1)" xml:space="preserve" approved="yes">
+        <source>On (%1)</source>
+        <target state="translated" phase-name="translation-1">Açyk (%1)</target>
+        <note from="developer">Indicates the bluetooth device is visible, with %1 = time remaining. E.g. "On (0:29)" if in 29 seconds the visibility will change from "on" to "off".</note>
+      </trans-unit>
+      <trans-unit id="settings_bluetooth-va-visibility_offOff" xml:space="preserve" approved="yes">
+        <source>Off</source>
+        <target state="translated" phase-name="translation-1">Ýapyk</target>
+        <note from="developer">Turn off the bluetooth device visibility</note>
+      </trans-unit>
+      <trans-unit id="settings_bluetooth-va-for_3_minutesOn for 3 minutes" xml:space="preserve" approved="yes">
+        <source>On for 3 minutes</source>
+        <target state="translated" phase-name="translation-1">3 minutlap açyk</target>
+        <note from="developer">Turn on the bluetooth device visibility for 3 minutes</note>
+      </trans-unit>
+      <trans-unit id="settings_bluetooth-va-for_15_minutesOn for 15 minutes" xml:space="preserve" approved="yes">
+        <source>On for 15 minutes</source>
+        <target state="translated" phase-name="translation-1">15 minutlap açyk</target>
+        <note from="developer">Turn on the bluetooth device visibility for 15 minutes</note>
+      </trans-unit>
+      <trans-unit id="settings_bluetooth-va-visibility_onOn" xml:space="preserve" approved="yes">
+        <source>On</source>
+        <target state="translated" phase-name="translation-1">Açyk</target>
+        <note from="developer">Turn on the bluetooth device visibility</note>
+      </trans-unit>
+      <trans-unit id="settings_bluetooth-la-connection_count%n connections" xml:space="preserve" approved="yes">
+        <source>%n connections</source>
+        <target state="translated" phase-name="translation-1">%n birikme</target>
+        <note from="developer">Number of connected Bluetooth devices</note>
+      </trans-unit>
+      <trans-unit id="settings_networking-connectivityConnectivity" xml:space="preserve" approved="yes">
+        <source>Connectivity</source>
+        <target state="translated" phase-name="translation-1">Birikme ukyby</target>
+      </trans-unit>
+      <trans-unit id="settings_bluetooth-bluetoothBluetooth" xml:space="preserve" approved="yes">
+        <source>Bluetooth</source>
+        <target state="translated" phase-name="translation-1">Bluetooth</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

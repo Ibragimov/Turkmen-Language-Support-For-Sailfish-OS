@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file source-language="en-US" original="weather.ts" datatype="plaintext" target-language="en_GB">
+    <header>
+      <phase-group>
+        <phase tool-id="lokalize-19.04.3" contact-email="victor.ibragimov@gmail.com" process-name="translation" contact-name="Victor Ibragimov" phase-name="translation-1" date="2019-11-27"/>
+      </phase-group>
+      <tool tool-id="lokalize-19.04.3" tool-version="19.04.3" tool-name="Lokalize"/>
+    </header>
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-loading_failedLoading failed">
+        <source>Loading failed</source>
+        <target state="translated" phase-name="translation-1">Maglumaty ýüklemekde bir näsazlyk ýüze çykdy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-select_location_to_check_weatherSelect location to check weather">
+        <source>Select location to check weather</source>
+        <target state="translated" phase-name="translation-1">Howa barlamak üçin, ýerleşişi saýlaň</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-unable_to_connect_try_againUnable to connect, try again">
+        <source>Unable to connect, try again</source>
+        <target state="translated" phase-name="translation-1">Birikdirip bolmady. Täzeden synanyşyň.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-new_locationNew location">
+        <source>New location</source>
+        <target state="translated" phase-name="translation-1">Täze ýerleşiş</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-search_locationsSearch locations">
+        <source>Search locations</source>
+        <target state="translated" phase-name="translation-1">Ýerleşişleri gözläň</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-search_and_select_locationSearch and select new location">
+        <source>Search and select new location</source>
+        <target state="translated" phase-name="translation-1">Täze ýerleşişi gözläp saýlaň</target>
+        <note from="developer">Placeholder displayed when user hasn't yet typed a search string</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-search_three_characters_requiredCould not find the location. Type at least three characters to perform a partial word search.">
+        <source>Could not find the location. Type at least three characters to perform a partial word search.</source>
+        <target state="translated" phase-name="translation-1">Ýerleşişi tapyp bolmady. Bölekleýin söz gözlegi ýerine ýetirmek üçin, iň azyndan üç nyşan ýazyň.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-could_not_find_anythingSorry, we couldn't find anything">
+        <source>Sorry, we couldn't find anything</source>
+        <target state="translated" phase-name="translation-1">Bagyşlaň, biz hiç zat tapyp bilmedik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-try_againTry again">
+        <source>Try again</source>
+        <target state="translated" phase-name="translation-1">Täzeden synanyşyň</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-bt-save_currentSave current">
+        <source>Save current</source>
+        <target state="translated" phase-name="translation-1">Häzirki ýerleşişi ýazdyryň</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-me-new_locationNew location">
+        <source>New location</source>
+        <target state="translated" phase-name="translation-1">Täze ýerleşiş</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-me-updateUpdate">
+        <source>Update</source>
+        <target state="translated" phase-name="translation-1">Täzele</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-pull_down_to_add_another_locationPull down to add another weather location">
+        <source>Pull down to add another weather location</source>
+        <target state="translated" phase-name="translation-1">Başga ýerleşişi goşmak üçin aşak çekiň</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-pull_down_to_select_your_locationPull down to select your location">
+        <source>Pull down to select your location</source>
+        <target state="translated" phase-name="translation-1">Öz ýerleşişiňizi goşmak üçin aşak çekiň</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-loadingLoading">
+        <source>Loading</source>
+        <target state="translated" phase-name="translation-1">Ýüklenilýär</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-loading_current_conditions_failedLoading current conditions failed">
+        <source>Loading current conditions failed</source>
+        <target state="translated" phase-name="translation-1">Häzirki şertleri ýüklemekde bir näsazlyk ýüze çykdy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-me-removeRemove">
+        <source>Remove</source>
+        <target state="translated" phase-name="translation-1">Aýyr</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-me-set_as_currentSet as current">
+        <source>Set as current</source>
+        <target state="translated" phase-name="translation-1">Häzirki ýerleşiş hökmünde belläň</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-me-move_to_topMove to top">
+        <source>Move to top</source>
+        <target state="translated" phase-name="translation-1">Ýokaryk geçiň</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather_settings-he-weatherWeather">
+        <source>Weather</source>
+        <target state="translated" phase-name="translation-1">Howa</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather_settings-la-temperature_unitsTemperature units">
+        <source>Temperature units</source>
+        <target state="translated" phase-name="translation-1">Temperatura birligi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather_settings-me-celsiusCelsius">
+        <source>Celsius</source>
+        <target state="translated" phase-name="translation-1">Selsiý</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather_settings-me-fahrenheitFahrenheit">
+        <source>Fahrenheit</source>
+        <target state="translated" phase-name="translation-1">Farengeýt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-ap-nameWeather">
+        <source>Weather</source>
+        <target state="translated" phase-name="translation-1">Howa</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

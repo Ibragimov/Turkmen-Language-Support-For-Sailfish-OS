@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="ambience-angrybirds.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-angrybirds-nameAngry Birds">
+        <source>Angry Birds</source>
+        <target state="translated">Angry Birds</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="angrybirds-ringtoneAngry Birds Theme">
+        <source>Angry Birds Theme</source>
+        <target state="translated">Angry Birds mowzuk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="angrybirds-imtoneAngry Birds IM">
+        <source>Angry Birds IM</source>
+        <target state="translated">Angry Birds IM</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="angrybirds-chattoneAngry Birds Chat">
+        <source>Angry Birds Chat</source>
+        <target state="translated">Angry Birds söhbet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="angrybirds-emailtoneAngry Birds Email">
+        <source>Angry Birds Email</source>
+        <target state="translated">Angry Birds e-poçta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="angrybirds-messagetoneAngry Birds Message">
+        <source>Angry Birds Message</source>
+        <target state="translated">Angry Birds hat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="angrybirds-calendar-alarmAngry Birds Calendar">
+        <source>Angry Birds Calendar</source>
+        <target state="translated">Angry Birds senenama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="angrybirds-clock-alarmAngry Birds Clock">
+        <source>Angry Birds Clock</source>
+        <target state="translated">Angry Birds sagat</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

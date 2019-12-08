@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish-mdm.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-mdm-he-sailfish_device_manager%1 Device Manager">
+        <source>%1 Device Manager</source>
+        <target state="translated">% 1 enjam dolandyryjy</target>
+        <note from="developer">%1 is operating system name without OS suffix</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-mdm-la-mdm_installedMobile Device Management (MDM) services have been installed on this device, which can be used to remotely manage the device.">
+        <source>Mobile Device Management (MDM) services have been installed on this device, which can be used to remotely manage the device.</source>
+        <target state="translated">Mobil enjam dolandyryş (MDM) hyzmatlary bu enjamda gurnaldy we ony enjamy uzakdan dolandyrmak üçin ulanyp bolýar.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-mdm-la-if_remove_mdmIf you wish to remove the Device Management services please contact a system administrator.">
+        <source>If you wish to remove the Device Management services please contact a system administrator.</source>
+        <target state="translated">Enjam dolandyryş hyzmatlary aýyrmak isleýärseňiz, ulgam administratoryna ýüz tutuň.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-mdm-bt-i_understandI understand">
+        <source>I understand</source>
+        <target state="translated">Düşünýärin</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

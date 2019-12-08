@@ -1,0 +1,897 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="pootle-terminology.po" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="Ambience">
+        <source>Ambience</source>
+        <target state="translated">Gurşaw</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear">
+        <source>Clear</source>
+        <target state="translated">Arssalamak</target>
+        <note from="developer">clear away items&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="3G">
+        <source>3G</source>
+        <target state="translated">3G</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Accept">
+        <source>Accept</source>
+        <target state="translated">Kabul etmek</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Account">
+        <source>Account</source>
+        <target state="translated">Hasap</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Airplane mode">
+        <source>Airplane mode</source>
+        <target state="translated">Uçar tertibi</target>
+        <note from="developer">The correct format is "flight mode".&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Alarm">
+        <source>Alarm</source>
+        <target state="translated">Oýaryjy</target>
+        <note from="developer">This term is a noun.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Album">
+        <source>Album</source>
+        <target state="translated">Albom</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ambiance">
+        <source>Ambiance</source>
+        <target state="translated">Gurşaw</target>
+        <note from="developer">The correct format is "ambience".&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="App">
+        <source>App</source>
+        <target state="translated">Goýma</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Application">
+        <source>Application</source>
+        <target state="translated">Goýma</target>
+        <note from="developer">The correct format is "app".&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Attachment">
+        <source>Attachment</source>
+        <target state="translated">Goşundy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Authentication">
+        <source>Authentication</source>
+        <target state="translated">Hakykylyk barlagy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Automatic">
+        <source>Automatic</source>
+        <target state="translated">Awtomatik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="B">
+        <source>B</source>
+        <target state="translated">B</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Back up">
+        <source>Back up</source>
+        <target state="translated">Ätiýaçlamak</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Backup">
+        <source>Backup</source>
+        <target state="translated">Ätiýaç nusga</target>
+        <note from="developer">This term is a noun.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bluetooth">
+        <source>Bluetooth</source>
+        <target state="translated">Bluetooth</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Browser">
+        <source>Browser</source>
+        <target state="translated">Brauzer</target>
+        <note from="developer">This term can be a noun (browser) or app name (Browser).&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calendar">
+        <source>Calendar</source>
+        <target state="translated">Senenama</target>
+        <note from="developer">This term can be a noun (calendar) or app name (Calendar).&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Call">
+        <source>Call</source>
+        <target state="translated">Jaň etmek</target>
+        <note from="developer">This term can be a noun or a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Camera">
+        <source>Camera</source>
+        <target state="translated">Kamera</target>
+        <note from="developer">This term can be a noun (camera) or an app name (Camera).&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cancel">
+        <source>Cancel</source>
+        <target state="translated">Ýatyrmak</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Chat">
+        <source>Chat</source>
+        <target state="translated">Söhbet et</target>
+        <note from="developer">This term can be a noun or a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clock">
+        <source>Clock</source>
+        <target state="translated">Sagat</target>
+        <note from="developer">This term is an app name.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Connect">
+        <source>Connect</source>
+        <target state="translated">Birikmek</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Connection">
+        <source>Connection</source>
+        <target state="translated">Birikme</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Continue">
+        <source>Continue</source>
+        <target state="translated">Dowam etmek</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cover">
+        <source>Cover</source>
+        <target state="translated">Gapak</target>
+        <note from="developer">Application covers, small representations of open apps displayed on the Home.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Decline">
+        <source>Decline</source>
+        <target state="translated">Ret etmek</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Default">
+        <source>Default</source>
+        <target state="translated">Standart</target>
+        <note from="developer">This term is a noun.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete">
+        <source>Delete</source>
+        <target state="translated">Pozmak</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Device">
+        <source>Device</source>
+        <target state="translated">Enjam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Device nickname">
+        <source>Device nickname</source>
+        <target state="translated">Enjam lakam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Disconnect">
+        <source>Disconnect</source>
+        <target state="translated">Birikme kesmek</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="DNS">
+        <source>DNS</source>
+        <target state="translated">DNS</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Documents">
+        <source>Documents</source>
+        <target state="translated">Resminamalar</target>
+        <note from="developer">This term is an app name.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Download">
+        <source>Download</source>
+        <target state="translated">Göçürip almak</target>
+        <note from="developer">This term can be a noun or a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Edit">
+        <source>Edit</source>
+        <target state="translated">Düzetmek</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Email">
+        <source>Email</source>
+        <target state="translated">E-poçta</target>
+        <note from="developer">This term can be a noun (email) or an app name (Email).&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Email address">
+        <source>Email address</source>
+        <target state="translated">E-poçta salgysy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enter">
+        <source>Enter</source>
+        <target state="translated">Giriz</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Event">
+        <source>Event</source>
+        <target state="translated">Çäre</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Facebook">
+        <source>Facebook</source>
+        <target state="translated">Facebook</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Favourite">
+        <source>Favourite</source>
+        <target state="translated">Halanýan</target>
+        <note from="developer">This term is a noun.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Feedback">
+        <source>Feedback</source>
+        <target state="translated">Seslenme</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Feeds">
+        <source>Feeds</source>
+        <target state="translated">Web-kanallar</target>
+        <note from="developer">This term is an app name.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File">
+        <source>File</source>
+        <target state="translated">Faýl</target>
+        <note from="developer">This term is a noun.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File name">
+        <source>File name</source>
+        <target state="translated">Faýl ady</target>
+        <note from="developer">The correct format is "filename".&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Filename">
+        <source>Filename</source>
+        <target state="translated">Faýl ady</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flight mode">
+        <source>Flight mode</source>
+        <target state="translated">Uçuş tertibi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fluorescent">
+        <source>Fluorescent</source>
+        <target state="translated">Fluoressent</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Folder">
+        <source>Folder</source>
+        <target state="translated">Bukja</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Forget">
+        <source>Forget</source>
+        <target state="translated">Ýatdan çykar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Forward">
+        <source>Forward</source>
+        <target state="translated">Ugrat</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FTP">
+        <source>FTP</source>
+        <target state="translated">FTP</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Full screen">
+        <source>Full screen</source>
+        <target state="translated">Doly ekran</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gallery">
+        <source>Gallery</source>
+        <target state="translated">Galereýa</target>
+        <note from="developer">This term is an app name.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="GB">
+        <source>GB</source>
+        <target state="translated">GB</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="GSM">
+        <source>GSM</source>
+        <target state="translated">GSM</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Home">
+        <source>Home</source>
+        <target state="translated">Öý</target>
+        <note from="developer">Name for the phone's home view.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Home screen">
+        <source>Home screen</source>
+        <target state="translated">Baş ekran</target>
+        <note from="developer">Translate like "Home".&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="HTTP">
+        <source>HTTP</source>
+        <target state="translated">HTTP</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="HTTPS">
+        <source>HTTPS</source>
+        <target state="translated">HTTPS</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Image">
+        <source>Image</source>
+        <target state="translated">Surat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Inbox">
+        <source>Inbox</source>
+        <target state="translated">Gelen gutusy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Incandescent">
+        <source>Incandescent</source>
+        <target state="translated">Ýyladyjy lampa</target>
+        <note from="developer">This term is an adjective.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Incoming server">
+        <source>Incoming server</source>
+        <target state="translated">Gelýän serwer</target>
+        <note from="developer">This is the short form of "incoming mail server".&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Internet">
+        <source>Internet</source>
+        <target state="translated">Internet</target>
+        <note from="developer">The correct format is "Internet".&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Internet call">
+        <source>Internet call</source>
+        <target state="translated">Internet jaň</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="KB">
+        <source>KB</source>
+        <target state="translated">KB</target>
+        <note from="developer">The correct format is "kB".&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lock Screen">
+        <source>Lock Screen</source>
+        <target state="translated">Gulply ekran</target>
+        <note from="developer">This term is an app name.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Loudspeaker">
+        <source>Loudspeaker</source>
+        <target state="translated">Dinamik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mail">
+        <source>Mail</source>
+        <target state="translated">Poçta</target>
+        <note from="developer">The correct format is "email".&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Maps">
+        <source>Maps</source>
+        <target state="translated">Kartalar</target>
+        <note from="developer">This term is an app name.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mark">
+        <source>Mark</source>
+        <target state="translated">Bellemek</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mass storage">
+        <source>Mass storage</source>
+        <target state="translated">Ýygnaýjy enjam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="MB">
+        <source>MB</source>
+        <target state="translated">MB</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Media">
+        <source>Media</source>
+        <target state="translated">Media</target>
+        <note from="developer">This term is an app name.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Messaging">
+        <source>Messaging</source>
+        <target state="translated">Hat alyşmak</target>
+        <note from="developer">This term is an app name.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Metadata">
+        <source>Metadata</source>
+        <target state="translated">Meta-maglumat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="MMS">
+        <source>MMS</source>
+        <target state="translated">MMS</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Move">
+        <source>Move</source>
+        <target state="translated">Geçirmek</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mute">
+        <source>Mute</source>
+        <target state="translated">Sessiz</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Nickname">
+        <source>Nickname</source>
+        <target state="translated">Lakam</target>
+        <note from="developer">This term is a noun.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Note">
+        <source>Note</source>
+        <target state="translated">Bellik</target>
+        <note from="developer">This term is a noun.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Notes">
+        <source>Notes</source>
+        <target state="translated">Bellikler</target>
+        <note from="developer">This term is an app name.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Notification">
+        <source>Notification</source>
+        <target state="translated">Habarnama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Offline">
+        <source>Offline</source>
+        <target state="translated">Awtonom</target>
+        <note from="developer">This term is an adjective.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="OK">
+        <source>OK</source>
+        <target state="translated">OK</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="On hold">
+        <source>On hold</source>
+        <target state="translated">Garaşýar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open">
+        <source>Open</source>
+        <target state="translated">Açmak</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Original settings">
+        <source>Original settings</source>
+        <target state="translated">Asyl sazlamalar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Outgoing server">
+        <source>Outgoing server</source>
+        <target state="translated">Gidýän serwer</target>
+        <note from="developer">This is the short form of "outgoing mail server".&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pair">
+        <source>Pair</source>
+        <target state="translated">Jübütlemek</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paired device">
+        <source>Paired device</source>
+        <target state="translated">Jübütlenen enjam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Panning">
+        <source>Panning</source>
+        <target state="translated">Pyrlaýyş</target>
+        <note from="developer">One of the movement gestures used.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Passcode">
+        <source>Passcode</source>
+        <target state="translated">Geçiş kod</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Passphrase">
+        <source>Passphrase</source>
+        <target state="translated">Geçiş frazasy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Password">
+        <source>Password</source>
+        <target state="translated">Parol</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="People">
+        <source>People</source>
+        <target state="translated">Adamlar</target>
+        <note from="developer">This term can be a noun (people) or an app name (People).&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Phone">
+        <source>Phone</source>
+        <target state="translated">Telefon</target>
+        <note from="developer">This term can be a noun (phone) or an app name (Phone).&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Phone number">
+        <source>Phone number</source>
+        <target state="translated">Telefon belgi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Photo">
+        <source>Photo</source>
+        <target state="translated">Fotosurat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="PIN code">
+        <source>PIN code</source>
+        <target state="translated">PIN kody</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Play">
+        <source>Play</source>
+        <target state="translated">Goýbermek</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Play queue">
+        <source>Play queue</source>
+        <target state="translated">Nobat goýber</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Playing queue">
+        <source>Playing queue</source>
+        <target state="translated">Nobat goýberilýär</target>
+        <note from="developer">The correct format is "play queue".&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Playlist">
+        <source>Playlist</source>
+        <target state="translated">Pleýlist</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Postal code">
+        <source>Postal code</source>
+        <target state="translated">Poçta indeksi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Power saving mode">
+        <source>Power saving mode</source>
+        <target state="translated">Güýç tygşytlaýjy tertip</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Preview">
+        <source>Preview</source>
+        <target state="translated">Deslapky synlama</target>
+        <note from="developer">This term is a noun.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Profile">
+        <source>Profile</source>
+        <target state="translated">Profil</target>
+        <note from="developer">This term is a noun.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Read">
+        <source>Read</source>
+        <target state="translated">Okalan</target>
+        <note from="developer">This term is an adjective.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Recipient">
+        <source>Recipient</source>
+        <target state="translated">Alyjy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reject">
+        <source>Reject</source>
+        <target state="translated">Ret et</target>
+        <note from="developer">Translate like "decline".&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Remove">
+        <source>Remove</source>
+        <target state="translated">Aýyrmak</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Repeat">
+        <source>Repeat</source>
+        <target state="translated">Gaýtalamak</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reply">
+        <source>Reply</source>
+        <target state="translated">Jogap</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ringtone">
+        <source>Ringtone</source>
+        <target state="translated">Rington</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Roaming">
+        <source>Roaming</source>
+        <target state="translated">Rouming</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save">
+        <source>Save</source>
+        <target state="translated">Ýazdyrmak</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Search">
+        <source>Search</source>
+        <target state="translated">Gözlemek</target>
+        <note from="developer">This term can be a noun or a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select">
+        <source>Select</source>
+        <target state="translated">Saýlamak</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Send">
+        <source>Send</source>
+        <target state="translated">Ibermek</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pulley">
+        <source>Pulley</source>
+        <target state="translated">Çekilýän menýu</target>
+        <note from="developer">A pulley is a pull-and-release menu used on the Jolla UI screens.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Settings">
+        <source>Settings</source>
+        <target state="translated">Sazlamalar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Share">
+        <source>Share</source>
+        <target state="translated">Paýlaşmak</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Show">
+        <source>Show</source>
+        <target state="translated">Görkezmek</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Silence">
+        <source>Silence</source>
+        <target state="translated">Ümsümlik</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SIM card">
+        <source>SIM card</source>
+        <target state="translated">SIM kart</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SMS">
+        <source>SMS</source>
+        <target state="translated">SMS</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Snooze">
+        <source>Snooze</source>
+        <target state="translated">Soňa goýmak</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Song">
+        <source>Song</source>
+        <target state="translated">Aýdym</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sound">
+        <source>Sound</source>
+        <target state="translated">Ses</target>
+        <note from="developer">This term is a noun.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Speaker">
+        <source>Speaker</source>
+        <target state="translated">Dinamik</target>
+        <note from="developer">Translate like "loudspeaker".&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SSID">
+        <source>SSID</source>
+        <target state="translated">SSID</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Start">
+        <source>Start</source>
+        <target state="translated">Başlamak</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Status">
+        <source>Status</source>
+        <target state="translated">Ýagdaý</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Subject">
+        <source>Subject</source>
+        <target state="translated">Mowzuk</target>
+        <note from="developer">This term is a noun.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sync">
+        <source>Sync</source>
+        <target state="translated">Sinhronla</target>
+        <note from="developer">This term can be a noun or a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tap">
+        <source>Tap</source>
+        <target state="translated">Bas</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="TB">
+        <source>TB</source>
+        <target state="translated">TB</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Transfer">
+        <source>Transfer</source>
+        <target state="translated">Geçiriş</target>
+        <note from="developer">This term is a noun.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tutorial">
+        <source>Tutorial</source>
+        <target state="translated">Öwrediji</target>
+        <note from="developer">This term is an app name.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unplug">
+        <source>Unplug</source>
+        <target state="translated">Aýryň</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unread">
+        <source>Unread</source>
+        <target state="translated">Okalmadyk</target>
+        <note from="developer">This term is an adjective.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Update">
+        <source>Update</source>
+        <target state="translated">Täzelemek</target>
+        <note from="developer">This term can be a noun or a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upload">
+        <source>Upload</source>
+        <target state="translated">Ýüklemek</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="USB">
+        <source>USB</source>
+        <target state="translated">USB</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="USB cable">
+        <source>USB cable</source>
+        <target state="translated">USB kabeli</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Username">
+        <source>Username</source>
+        <target state="translated">Ulanyjy ady</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Video">
+        <source>Video</source>
+        <target state="translated">Wideo</target>
+        <note from="developer">This term is a noun.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="View">
+        <source>View</source>
+        <target state="translated">Görmek</target>
+        <note from="developer">This term is a verb.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="WAP">
+        <source>WAP</source>
+        <target state="translated">WAP</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Website">
+        <source>Website</source>
+        <target state="translated">Web-saýt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="WEP">
+        <source>WEP</source>
+        <target state="translated">WEP</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="White balance">
+        <source>White balance</source>
+        <target state="translated">Ak balans</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="WLAN">
+        <source>WLAN</source>
+        <target state="translated">WLAN</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="WPS">
+        <source>WPS</source>
+        <target state="translated">WPS</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="YouTube">
+        <source>YouTube</source>
+        <target state="translated">YouTube</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ZIP code">
+        <source>ZIP code</source>
+        <target state="translated">Poçta indeks</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="PUK code">
+        <source>PUK code</source>
+        <target state="translated">PIN kody</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Unlock code">
+        <source>Unlock code</source>
+        <target state="translated">Açýan kody</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Jolla Store">
+        <source>Jolla Store</source>
+        <target state="translated">Sailfish Dükany</target>
+        <note from="developer">This term is an app name.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Calculator">
+        <source>Calculator</source>
+        <target state="translated">Hasaplaýjy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pull">
+        <source>Pull</source>
+        <target state="translated">Çek</target>
+        <note from="developer">This term is a gesture name. &#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Push">
+        <source>Push</source>
+        <target state="translated">Itekle</target>
+        <note from="developer">This term is a gesture name. &#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flick">
+        <source>Flick</source>
+        <target state="translated">Kak</target>
+        <note from="developer">This term is a gesture name. &#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Security code">
+        <source>Security code</source>
+        <target state="translated">Howpsuzlyk kody</target>
+        <note from="developer">Security code is Device lock code set in Settings System settings&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Timer">
+        <source>Timer</source>
+        <target state="translated">Taýmer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stopwatch">
+        <source>Stopwatch</source>
+        <target state="translated">Wagtölçär</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Voicemail">
+        <source>Voicemail</source>
+        <target state="translated">Sesli poçta</target>
+        <note from="developer">Service name, items under the service.&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fixed dialing">
+        <source>Fixed dialing</source>
+        <target state="translated">Bellenen belgiler</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sailfish OS">
+        <source>Sailfish OS</source>
+        <target state="translated">Sailfish OS</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Jolla Terms of Service">
+        <source>Jolla Terms of Service</source>
+        <target state="translated">Sailfish hyzmat şertleri</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Jolla Privacy Policy">
+        <source>Jolla Privacy Policy</source>
+        <target state="translated">Sailfish gizlinlik syýasaty</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Launcher">
+        <source>Launcher</source>
+        <target state="translated">Işlediji</target>
+        <note from="developer">Application launcher, application grid. &#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Peek">
+        <source>Peek</source>
+        <target state="translated">Peek</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="System settings">
+        <source>System settings</source>
+        <target state="translated">Ulgam sazlamalary</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tethering">
+        <source>Tethering</source>
+        <target state="translated">Baglama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Camera roll">
+        <source>Camera roll</source>
+        <target state="translated">Kamera galereýa</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Swipe">
+        <source>Swipe</source>
+        <target state="translated">Syr</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Jolla Launcher">
+        <source>Jolla Launcher</source>
+        <target state="translated">Sailfish Açyk</target>
+        <note from="developer">This is an app name, similar to a normal launcher but shown on non-Sailfish devices.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="IM">
+        <source>IM</source>
+        <target state="translated">IM</target>
+        <note from="developer">IM, Instant Messaging</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reboot">
+        <source>Reboot</source>
+        <target state="translated">Açyp ýap</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Restart">
+        <source>Restart</source>
+        <target state="translated">Ýapyp açmak</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Top menu">
+        <source>Top menu</source>
+        <target state="translated">Ýokary mený</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Action">
+        <source>Action</source>
+        <target state="translated">Hereket</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Orientation">
+        <source>Orientation</source>
+        <target state="translated">Duruş ugry</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tweet">
+        <source>Tweet</source>
+        <target state="translated">Twit</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tone">
+        <source>Tone</source>
+        <target state="translated">Ton</target>
+        <note from="developer">as in ringtone, email tone</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Location">
+        <source>Location</source>
+        <target state="translated">Ýerleşiş</target>
+        <note from="developer">used in Settings for Location services</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Contacts">
+        <source>Contacts</source>
+        <target state="translated">Kontaktlar</target>
+        <note from="developer">Refers to the whole app, also called Phonebook in some other OS's</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import">
+        <source>Import</source>
+        <target state="translated">Import</target>
+        <note from="developer">verb for importing e.g. files, contacts</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Avatar">
+        <source>Avatar</source>
+        <target state="translated">Awatar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Secret storage">
+        <source>Secret storage</source>
+        <target state="translated">Ammar howpsuzlygy</target>
+        <note from="developer">There are certain kinds of plugins that can store data. It can either be an encrypted storage plugin (mostly intended to use with secure hardware), or a storage plugin paired with an encryption plugin.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Secrets data">
+        <source>Secrets data</source>
+        <target state="translated">Maglumat howpsuzlygy</target>
+        <note from="developer">Each collection can store a number of secrets. Each secret has some metadata ( eg. name) and contents (eg. a key).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Collection (secrets collection)">
+        <source>Collection (secrets collection)</source>
+        <target state="translated">Kolleksiýa (kolleksiýa howpsuzlygy)</target>
+        <note from="developer">Each storage can store a number of collections.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

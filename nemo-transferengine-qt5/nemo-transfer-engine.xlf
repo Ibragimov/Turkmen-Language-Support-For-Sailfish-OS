@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file original="nemo-transfer-engine.ts" target-language="tk" source-language="en-US" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase process-name="translation" contact-email="victor.ibragimov@gmail.com" tool-id="lokalize-19.04.3" contact-name="Victor Ibragimov" phase-name="translation-1" date="2019-11-29"/>
+      </phase-group>
+      <tool tool-name="Lokalize" tool-version="19.04.3" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="transferengine-ap-transfersTransfers" xml:space="preserve" approved="yes">
+        <source>Transfers</source>
+        <target state="translated" phase-name="translation-1">Geçirimleri</target>
+      </trans-unit>
+      <trans-unit id="transferengine-no-file-upload-successFile uploaded" xml:space="preserve" approved="yes">
+        <source>File uploaded</source>
+        <target state="translated" phase-name="translation-1">Faýl ýüklenildi</target>
+        <note from="developer">Notification for successful file upload</note>
+      </trans-unit>
+      <trans-unit id="transferengine-no-file-download-successFile downloaded" xml:space="preserve" approved="yes">
+        <source>File downloaded</source>
+        <target state="translated" phase-name="translation-1">Faýl göçürip alyndy</target>
+        <note from="developer">Notification for successful file download</note>
+      </trans-unit>
+      <trans-unit id="transferengine-la-file_upload_failedUpload failed" xml:space="preserve" approved="yes">
+        <source>Upload failed</source>
+        <target state="translated" phase-name="translation-1">Wiý, ýükläp bolmady</target>
+        <note from="developer">Notification for failed file upload</note>
+      </trans-unit>
+      <trans-unit id="transferengine-la-file_download_failedDownload failed" xml:space="preserve" approved="yes">
+        <source>Download failed</source>
+        <target state="translated" phase-name="translation-1">Wiý, göçürip alyp bolmady</target>
+        <note from="developer">Notification for failed file download</note>
+      </trans-unit>
+      <trans-unit id="transferengine-no-file-uploadingFile uploading" xml:space="preserve" approved="yes">
+        <source>File uploading</source>
+        <target state="translated" phase-name="translation-1">Faýl ýüklemek</target>
+        <note from="developer">Notification for ongoing upload</note>
+      </trans-unit>
+      <trans-unit id="transferengine-no-file-downloadingFile downloading" xml:space="preserve" approved="yes">
+        <source>File downloading</source>
+        <target state="translated" phase-name="translation-1">Faýl göçürip almak</target>
+        <note from="developer">Notification for ongoing file download</note>
+      </trans-unit>
+      <trans-unit id="transferengine-notification_groupTransfers" xml:space="preserve" approved="yes">
+        <source>Transfers</source>
+        <target state="translated" phase-name="translation-1">Geçirimler</target>
+        <note from="developer">Group name for notifications of successful transfers</note>
+      </trans-unit>
+      <trans-unit id="transferengine-notification_errors_groupWarnings" xml:space="preserve" approved="yes">
+        <source>Warnings</source>
+        <target state="translated" phase-name="translation-1">Duýduryşlar</target>
+        <note from="developer">Group name for notifications of failed transfers</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

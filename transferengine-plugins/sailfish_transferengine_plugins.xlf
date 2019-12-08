@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file datatype="plaintext" target-language="tk" source-language="en-US" original="sailfish_transferengine_plugins.ts">
+    <header>
+      <phase-group>
+        <phase phase-name="translation-1" date="2019-12-07" contact-email="victor.ibragimov@gmail.com" process-name="translation" contact-name="Victor Ibragimov" tool-id="lokalize-19.04.3"/>
+      </phase-group>
+      <tool tool-version="19.04.3" tool-name="Lokalize" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="webshare-he-upload_headingUpload" approved="yes" xml:space="preserve">
+        <source>Upload</source>
+        <target phase-name="translation-1" state="translated">Ýüklenmek</target>
+        <note from="developer">Title for page enabling user to upload files to cloud service</note>
+      </trans-unit>
+      <trans-unit id="webshare-la-destination_fileFile" approved="yes" xml:space="preserve">
+        <source>File</source>
+        <target phase-name="translation-1" state="translated">Faýl</target>
+      </trans-unit>
+      <trans-unit id="facebookshare-he-share_headingShare" approved="yes" xml:space="preserve">
+        <source>Share</source>
+        <target phase-name="translation-1" state="translated">Paýlaş</target>
+        <note from="developer">Share to facebook dialog header</note>
+      </trans-unit>
+      <trans-unit id="facebookshare-la-statusStatus" approved="yes" xml:space="preserve">
+        <source>Status</source>
+        <target phase-name="translation-1" state="translated">Status</target>
+        <note from="developer">Label indicating text field is used for entering facebook status</note>
+      </trans-unit>
+      <trans-unit id="facebookshare-ph-my_statusMy status" approved="yes" xml:space="preserve">
+        <source>My status</source>
+        <target phase-name="translation-1" state="translated">Statusym</target>
+        <note from="developer">Placeholder text for facebook status text area</note>
+      </trans-unit>
+      <trans-unit id="webshare-he-share_headingShare" approved="yes" xml:space="preserve">
+        <source>Share</source>
+        <target phase-name="translation-1" state="translated">Paýlaş</target>
+        <note from="developer">Title for page enabling user to share files with others</note>
+      </trans-unit>
+      <trans-unit id="webshare-la-descriptionDescription" approved="yes" xml:space="preserve">
+        <source>Description</source>
+        <target phase-name="translation-1" state="translated">Suratlandyrma</target>
+        <note from="developer">Image description</note>
+      </trans-unit>
+      <trans-unit id="webshare-ph-descriptionAdd a description" approved="yes" xml:space="preserve">
+        <source>Add a description</source>
+        <target phase-name="translation-1" state="translated">Suratlandyrma goş</target>
+        <note from="developer">Placeholder text for image description</note>
+      </trans-unit>
+      <trans-unit id="webshare-la-scale_imageScale image" approved="yes" xml:space="preserve">
+        <source>Scale image</source>
+        <target phase-name="translation-1" state="translated">Suraty şkalirlemek</target>
+        <note from="developer">Image scale</note>
+      </trans-unit>
+      <trans-unit id="webshare-va-25_percent25 %" approved="yes" xml:space="preserve">
+        <source>25 %</source>
+        <target state="translated">25%</target>
+        <note from="developer">Image scale is 25%</note>
+      </trans-unit>
+      <trans-unit id="webshare-va-50_percent50 %" approved="yes" xml:space="preserve">
+        <source>50 %</source>
+        <target state="translated">50%</target>
+        <note from="developer">Image scale is 50%</note>
+      </trans-unit>
+      <trans-unit id="webshare-va-75_percent75 %" approved="yes" xml:space="preserve">
+        <source>75 %</source>
+        <target state="translated">75%</target>
+        <note from="developer">Image scale is 75%</note>
+      </trans-unit>
+      <trans-unit id="webshare-va-originaloriginal" approved="yes" xml:space="preserve">
+        <source>original</source>
+        <target phase-name="translation-1" state="translated">Asyl</target>
+        <note from="developer">Image scale is original</note>
+      </trans-unit>
+      <trans-unit id="webshare-me-include_metadataInclude metadata" approved="yes" xml:space="preserve">
+        <source>Include metadata</source>
+        <target phase-name="translation-1" state="translated">Metamaglumaty goş</target>
+        <note from="developer">Include image metadata</note>
+      </trans-unit>
+      <trans-unit id="webshare-la-destination_folderDestination folder" approved="yes" xml:space="preserve">
+        <source>Destination folder</source>
+        <target phase-name="translation-1" state="translated">Alyjy bukja</target>
+        <note from="developer">Destination folder name for FB sharing
+----------
+Destination folder name for OneDrive upload</note>
+      </trans-unit>
+      <trans-unit id="webshare-la-uploads-textMobile uploads from %1" approved="yes" xml:space="preserve">
+        <source>Mobile uploads from %1</source>
+        <target phase-name="translation-1" state="translated">%1-dan mobil ýüklemeleri</target>
+        <note from="developer">Describes where mobile uploads will go. %1 is an operating system name</note>
+      </trans-unit>
+      <trans-unit id="mms-share-roaming-errorYour data settings prevent sending MMS while roaming" approved="yes" xml:space="preserve">
+        <source>Your data settings prevent sending MMS while roaming</source>
+        <target phase-name="translation-1" state="translated">Roumingde bolýarkaňyz, mobil maglumatlary sazlamalaryňyz MMS ibermegine ýol bermeýär</target>
+      </trans-unit>
+      <trans-unit id="mms-share-roaming-warningSending MMS messages while roaming may result in data charges" approved="yes" xml:space="preserve">
+        <source>Sending MMS messages while roaming may result in data charges</source>
+        <target phase-name="translation-1" state="translated">Roumingde bolýarkaňyz MMS ibermek maglumat çykdaýjylaryny köpeldip biler</target>
+      </trans-unit>
+      <trans-unit id="mms-share-la-multimedia_messageMultimedia message" approved="yes" xml:space="preserve">
+        <source>Multimedia message</source>
+        <target phase-name="translation-1" state="translated">MMS</target>
+      </trans-unit>
+      <trans-unit id="webshare-la-onedrive-uploads-videosCamera Roll" approved="yes" xml:space="preserve">
+        <source>Camera Roll</source>
+        <target phase-name="translation-1" state="translated">Fotodisk</target>
+        <note from="developer">Target folder in OneDrive. OneDrive has a special folder called Camera Roll where images are upload. Localization should match that.</note>
+      </trans-unit>
+      <trans-unit id="twittershare-he-share_headingShare" approved="yes" xml:space="preserve">
+        <source>Share</source>
+        <target phase-name="translation-1" state="translated">Paýlaş</target>
+        <note from="developer">Share to twitter dialog header
+----------
+Title for page enabling user to share files with others</note>
+      </trans-unit>
+      <trans-unit id="twittershare-la-descriptionTweet" approved="yes" xml:space="preserve">
+        <source>Tweet</source>
+        <target phase-name="translation-1" state="translated">Twit</target>
+        <note from="developer">Label indicating text area is used for entering tweet.</note>
+      </trans-unit>
+      <trans-unit id="twittershare-ph-descriptionMy tweet" approved="yes" xml:space="preserve">
+        <source>My tweet</source>
+        <target phase-name="translation-1" state="translated">Twitim</target>
+        <note from="developer">Placeholder text for tweet text area</note>
+      </trans-unit>
+      <trans-unit id="twittershare-la-scale_imageScale image" approved="yes" xml:space="preserve">
+        <source>Scale image</source>
+        <target phase-name="translation-1" state="translated">Suraty şkalirlemek</target>
+        <note from="developer">Image scale</note>
+      </trans-unit>
+      <trans-unit id="twittershare-va-25_percent25 %" approved="yes" xml:space="preserve">
+        <source>25 %</source>
+        <target state="translated">25%</target>
+        <note from="developer">Image scale is 25%</note>
+      </trans-unit>
+      <trans-unit id="twittershare-va-50_percent50 %" approved="yes" xml:space="preserve">
+        <source>50 %</source>
+        <target state="translated">50%</target>
+        <note from="developer">Image scale is 50%</note>
+      </trans-unit>
+      <trans-unit id="twittershare-va-75_percent75 %" approved="yes" xml:space="preserve">
+        <source>75 %</source>
+        <target state="translated">75%</target>
+        <note from="developer">Image scale is 75%</note>
+      </trans-unit>
+      <trans-unit id="twittershare-va-originaloriginal" approved="yes" xml:space="preserve">
+        <source>original</source>
+        <target phase-name="translation-1" state="translated">Asyl</target>
+        <note from="developer">Image scale is original</note>
+      </trans-unit>
+      <trans-unit id="twittershare-me-include_metadataInclude metadata" approved="yes" xml:space="preserve">
+        <source>Include metadata</source>
+        <target phase-name="translation-1" state="translated">Metamaglumaty goş</target>
+        <note from="developer">Include image metadata</note>
+      </trans-unit>
+      <trans-unit id="vkshare-he-share_headingShare" approved="yes" xml:space="preserve">
+        <source>Share</source>
+        <target phase-name="translation-1" state="translated">Paýlaş</target>
+        <note from="developer">Share to VK dialog header</note>
+      </trans-unit>
+      <trans-unit id="vkshare-la-statusStatus" approved="yes" xml:space="preserve">
+        <source>Status</source>
+        <target phase-name="translation-1" state="translated">Status</target>
+        <note from="developer">Label indicating text field is used for entering vk status</note>
+      </trans-unit>
+      <trans-unit id="vkshare-ph-my_statusMy status" approved="yes" xml:space="preserve">
+        <source>My status</source>
+        <target phase-name="translation-1" state="translated">Statusym</target>
+        <note from="developer">Placeholder text for VK status text area</note>
+      </trans-unit>
+      <trans-unit id="vk-share-he-share_headingShare" approved="yes" xml:space="preserve">
+        <source>Share</source>
+        <target phase-name="translation-1" state="translated">Paýlaş</target>
+        <note from="developer">Title for page enabling user to share files with others</note>
+      </trans-unit>
+      <trans-unit id="vk-share-la-descriptionDescription" approved="yes" xml:space="preserve">
+        <source>Description</source>
+        <target phase-name="translation-1" state="translated">Suratlandyrma</target>
+        <note from="developer">Image description</note>
+      </trans-unit>
+      <trans-unit id="vk-share-ph-descriptionAdd a description" approved="yes" xml:space="preserve">
+        <source>Add a description</source>
+        <target phase-name="translation-1" state="translated">Suratlandyrma goş</target>
+        <note from="developer">Placeholder text for image description</note>
+      </trans-unit>
+      <trans-unit id="vk-share-la-scale_imageScale image" approved="yes" xml:space="preserve">
+        <source>Scale image</source>
+        <target phase-name="translation-1" state="translated">Suraty şkalirlemek</target>
+        <note from="developer">Image scale</note>
+      </trans-unit>
+      <trans-unit id="vk-share-va-25_percent25 %" approved="yes" xml:space="preserve">
+        <source>25 %</source>
+        <target state="translated">25%</target>
+        <note from="developer">Image scale is 25%</note>
+      </trans-unit>
+      <trans-unit id="vk-share-va-50_percent50 %" approved="yes" xml:space="preserve">
+        <source>50 %</source>
+        <target state="translated">50%</target>
+        <note from="developer">Image scale is 50%</note>
+      </trans-unit>
+      <trans-unit id="vk-share-va-75_percent75 %" approved="yes" xml:space="preserve">
+        <source>75 %</source>
+        <target state="translated">75%</target>
+        <note from="developer">Image scale is 75%</note>
+      </trans-unit>
+      <trans-unit id="vk-share-va-originaloriginal" approved="yes" xml:space="preserve">
+        <source>original</source>
+        <target phase-name="translation-1" state="translated">Asyl</target>
+        <note from="developer">Image scale is original</note>
+      </trans-unit>
+      <trans-unit id="vk-share-me-include_metadataInclude metadata" approved="yes" xml:space="preserve">
+        <source>Include metadata</source>
+        <target phase-name="translation-1" state="translated">Metamaglumaty goş</target>
+        <note from="developer">Include image metadata</note>
+      </trans-unit>
+      <trans-unit id="vk-share-la-destination_folderDestination folder" approved="yes" xml:space="preserve">
+        <source>Destination folder</source>
+        <target phase-name="translation-1" state="translated">Alyjy bukja</target>
+        <note from="developer">Destination folder name for FB sharing</note>
+      </trans-unit>
+      <trans-unit id="vk-share-la-uploads-textMobile uploads from %1" approved="yes" xml:space="preserve">
+        <source>Mobile uploads from %1</source>
+        <target phase-name="translation-1" state="translated">%1-dan mobil ýüklemeleri</target>
+        <note from="developer">Describes where mobile uploads will go. %1 is an operating system name</note>
+      </trans-unit>
+      <trans-unit id="bt-share-li-displaynameBluetooth" approved="yes" xml:space="preserve">
+        <source>Bluetooth</source>
+        <target phase-name="translation-1" state="translated">Bluetooth</target>
+      </trans-unit>
+      <trans-unit id="email-share-li-displaynameEmail" approved="yes" xml:space="preserve">
+        <source>Email</source>
+        <target phase-name="translation-1" state="translated">E-poçta</target>
+        <note from="developer">Display name for the Email share method</note>
+      </trans-unit>
+      <trans-unit id="mms-share-li-displaynameMMS" approved="yes" xml:space="preserve">
+        <source>MMS</source>
+        <target phase-name="translation-1" state="translated">MMS</target>
+        <note from="developer">Display name for the MMS share method</note>
+      </trans-unit>
+      <trans-unit id="twitteruploader-li-twitterTwitter" approved="yes" xml:space="preserve">
+        <source>Twitter</source>
+        <target phase-name="translation-1" state="translated">Twitter</target>
+        <note from="developer">Twitter share plugin display name</note>
+      </trans-unit>
+      <trans-unit id="BluetoothUploaderBluetooth" approved="yes" xml:space="preserve">
+        <source>Bluetooth</source>
+        <target phase-name="translation-1" state="translated">Bluetooth</target>
+      </trans-unit>
+      <trans-unit id="DropboxUploaderDropbox" approved="yes" xml:space="preserve">
+        <source>Dropbox</source>
+        <target phase-name="translation-1" state="translated">Dropbox</target>
+      </trans-unit>
+      <trans-unit id="EmailUploaderEmail" approved="yes" xml:space="preserve">
+        <source>Email</source>
+        <target phase-name="translation-1" state="translated">E-poçta</target>
+      </trans-unit>
+      <trans-unit id="FacebookUploaderFacebook" approved="yes" xml:space="preserve">
+        <source>Facebook</source>
+        <target state="translated">Facebook</target>
+      </trans-unit>
+      <trans-unit id="FlickrUploaderFlickr" approved="yes" xml:space="preserve">
+        <source>Flickr</source>
+        <target state="translated">Flickr</target>
+      </trans-unit>
+      <trans-unit id="MmsUploaderMMS" approved="yes" xml:space="preserve">
+        <source>MMS</source>
+        <target phase-name="translation-1" state="translated">MMS</target>
+      </trans-unit>
+      <trans-unit id="OneDriveUploaderOneDrive" approved="yes" xml:space="preserve">
+        <source>OneDrive</source>
+        <target state="translated">OneDrive</target>
+      </trans-unit>
+      <trans-unit id="VKUploaderVK" approved="yes" xml:space="preserve">
+        <source>VK</source>
+        <target state="translated">VK</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

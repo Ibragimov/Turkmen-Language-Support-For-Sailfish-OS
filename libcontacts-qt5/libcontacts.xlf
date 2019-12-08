@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="libcontacts.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="libcontacts_name_structure_2_tokensFL">
+        <source>FL</source>
+        <target state="translated">FL</target>
+        <note from="developer">Format string for allocating 2 tokens to name parts - 2 characters from the set [FMLPS]</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="libcontacts_name_structure_3_tokensFML">
+        <source>FML</source>
+        <target state="translated">FML</target>
+        <note from="developer">Format string for allocating 3 tokens to name parts - 3 characters from the set [FMLPS]</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="libcontacts_name_structure_4_tokensFFML">
+        <source>FFML</source>
+        <target state="translated">FFML</target>
+        <note from="developer">Format string for allocating 4 tokens to name parts - 4 characters from the set [FMLPS]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

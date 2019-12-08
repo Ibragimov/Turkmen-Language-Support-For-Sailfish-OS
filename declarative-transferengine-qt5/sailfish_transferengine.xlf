@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file target-language="tk" source-language="en-US" datatype="plaintext" original="sailfish_transferengine.ts">
+    <header>
+      <phase-group>
+        <phase phase-name="translation-1" process-name="translation" contact-email="victor.ibragimov@gmail.com" contact-name="Victor Ibragimov" date="2019-12-02" tool-id="lokalize-19.04.3"/>
+      </phase-group>
+      <tool tool-version="19.04.3" tool-name="Lokalize" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="transferui-la-add_accountAdd account" xml:space="preserve" approved="yes">
+        <source>Add account</source>
+        <target phase-name="translation-1" state="translated">Hasap goş</target>
+      </trans-unit>
+      <trans-unit id="transferui-la-no_accountsNo sharing accounts available. You can add accounts in settings" xml:space="preserve" approved="yes">
+        <source>No sharing accounts available. You can add accounts in settings</source>
+        <target phase-name="translation-1" state="translated">Elýeterli paýlaşyk hasaplar ýok. Hasaplary Sazlamalarda goşup bilersiňiz | Hasaplar.</target>
+        <note from="developer">Empty state placeholder for share page</note>
+      </trans-unit>
+      <trans-unit id="transferui-he-shareShare" xml:space="preserve" approved="yes">
+        <source>Share</source>
+        <target phase-name="translation-1" state="translated">Paýlaşmak</target>
+        <note from="developer">Page header for share method selection</note>
+      </trans-unit>
+      <trans-unit id="transferui-la_transfer_waitingWaiting" xml:space="preserve" approved="yes">
+        <source>Waiting</source>
+        <target phase-name="translation-1" state="translated">Garaşylýar</target>
+      </trans-unit>
+      <trans-unit id="transferui-la_transfer_failedFailed" xml:space="preserve" approved="yes">
+        <source>Failed</source>
+        <target phase-name="translation-1" state="translated">Bolmady</target>
+      </trans-unit>
+      <trans-unit id="transferui-la-transfer_stoppedStopped" xml:space="preserve" approved="yes">
+        <source>Stopped</source>
+        <target phase-name="translation-1" state="translated">Durdy</target>
+      </trans-unit>
+      <trans-unit id="transferui-la-transfer_unknownUnknown" xml:space="preserve" approved="yes">
+        <source>Unknown</source>
+        <target phase-name="translation-1" state="translated">Nämälim</target>
+      </trans-unit>
+      <trans-unit id="transferui-la_transfer_syncingSyncing" xml:space="preserve" approved="yes">
+        <source>Syncing</source>
+        <target phase-name="translation-1" state="translated">Sinhronlanýar...</target>
+      </trans-unit>
+      <trans-unit id="transferui-la_transfer_downloadingDownloading" xml:space="preserve" approved="yes">
+        <source>Downloading</source>
+        <target phase-name="translation-1" state="translated">Göçürilip alynýar...</target>
+      </trans-unit>
+      <trans-unit id="transferui-la_transfer_uploadingUploading" xml:space="preserve" approved="yes">
+        <source>Uploading</source>
+        <target phase-name="translation-1" state="translated">Ýüklenilýär...</target>
+      </trans-unit>
+      <trans-unit id="transferui-la-file_type_specific_not_supportedCannot open file, '%1' file type not supported" xml:space="preserve" approved="yes">
+        <source>Cannot open file, '%1' file type not supported</source>
+        <target phase-name="translation-1" state="translated">Faýl açyp bolmaýar, '%1' faýl görnüşi goldanylmaýar</target>
+        <note from="developer">Notification text shown when user tries to open a file of a particular type that is not supported. %1 = the file type</note>
+      </trans-unit>
+      <trans-unit id="transferui-la-file_type_not_supportedCannot open file, file type not supported" xml:space="preserve" approved="yes">
+        <source>Cannot open file, file type not supported</source>
+        <target phase-name="translation-1" state="translated">Faýl açyp bolmaýar, faýl görnüşi goldanylmaýar</target>
+        <note from="developer">Notification text shown when user tries to open a file of a type that is not supported</note>
+      </trans-unit>
+      <trans-unit id="transferui-la-file_not_foundCannot open file, file was not found" xml:space="preserve" approved="yes">
+        <source>Cannot open file, file was not found</source>
+        <target phase-name="translation-1" state="translated">Faýl açyp bolmaýar, faýl tapylmady</target>
+        <note from="developer">Notification text shown when user tries to open a file but the file is not found locally.</note>
+      </trans-unit>
+      <trans-unit id="transferui-la-url_scheme_not_supportedCannot open URL, unsupported URL scheme for %1" xml:space="preserve" approved="yes">
+        <source>Cannot open URL, unsupported URL scheme for %1</source>
+        <target phase-name="translation-1" state="translated">URL açyp bolmaýar, %1 üçin goldanylmaýan URL shemasy</target>
+        <note from="developer">Notification text shown when user tries to open a URL but the URL type is not supported. %1 = the URL</note>
+      </trans-unit>
+      <trans-unit id="transferui-la-url_invalidCannot open URL, URL is invalid" xml:space="preserve" approved="yes">
+        <source>Cannot open URL, URL is invalid</source>
+        <target phase-name="translation-1" state="translated">URL açyp bolmaýar, URL nädogry</target>
+        <note from="developer">Notification text shown when user tries to open a URL but the URL is invalid</note>
+      </trans-unit>
+      <trans-unit id="transferui-la_stop-transferStop" xml:space="preserve" approved="yes">
+        <source>Stop</source>
+        <target phase-name="translation-1" state="translated">Dur</target>
+      </trans-unit>
+      <trans-unit id="transferui-la_restart-transferRestart" xml:space="preserve" approved="yes">
+        <source>Restart</source>
+        <target phase-name="translation-1" state="translated">Ýapyp aç</target>
+      </trans-unit>
+      <trans-unit id="transferui-remove-from-historyRemove from history" xml:space="preserve" approved="yes">
+        <source>Remove from history</source>
+        <target phase-name="translation-1" state="translated">Taryhdan aýyr</target>
+      </trans-unit>
+      <trans-unit id="transferui-remorse_removedRemoved" xml:space="preserve" approved="yes">
+        <source>Removed</source>
+        <target phase-name="translation-1" state="translated">Aýrylan</target>
+      </trans-unit>
+      <trans-unit id="transferui-he_transfersTransfers" xml:space="preserve" approved="yes">
+        <source>Transfers</source>
+        <target phase-name="translation-1" state="translated">Geçirimler</target>
+      </trans-unit>
+      <trans-unit id="transferui-me_clear-historyClear history" xml:space="preserve" approved="yes">
+        <source>Clear history</source>
+        <target phase-name="translation-1" state="translated">Taryh arassala</target>
+      </trans-unit>
+      <trans-unit id="transferui-la-cleared_transfersCleared transfers" xml:space="preserve" approved="yes">
+        <source>Cleared transfers</source>
+        <target phase-name="translation-1" state="translated">Geçirimler arassalanan</target>
+      </trans-unit>
+      <trans-unit id="transferui-la-no_transfersNo Transfers" xml:space="preserve" approved="yes">
+        <source>No Transfers</source>
+        <target phase-name="translation-1" state="translated">Ýerine ýetirilen geçirimler ýok. Bu ýerden geçirimleriňizi yzarlap bilersiňiz.</target>
+      </trans-unit>
+      <trans-unit id="transferui-ap-nameTransfers" xml:space="preserve" approved="yes">
+        <source>Transfers</source>
+        <target phase-name="translation-1" state="translated">Geçirimler</target>
+      </trans-unit>
+      <trans-unit id="settings_transferui-transferuiTransfers" xml:space="preserve" approved="yes">
+        <source>Transfers</source>
+        <target phase-name="translation-1" state="translated">Geçirimler</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

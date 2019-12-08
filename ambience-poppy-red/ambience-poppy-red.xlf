@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="ambience-poppy-red.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-poppy-redPoppy red">
+        <source>Poppy red</source>
+        <target state="translated">Poppy red</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="poppy-red-ringtonePoppy Red Ringtone">
+        <source>Poppy Red Ringtone</source>
+        <target state="translated">Poppy Red ringtony</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="poppy-red-imtonePoppy Red IM Tone">
+        <source>Poppy Red IM Tone</source>
+        <target state="translated">Poppy Red IM tony</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="poppy-red-chattonePoppy Red Chat Tone">
+        <source>Poppy Red Chat Tone</source>
+        <target state="translated">Poppy Red söhbet tony</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="poppy-red-emailtonePoppy Red Email Tone">
+        <source>Poppy Red Email Tone</source>
+        <target state="translated">Poppy Red e-poçta tony</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="poppy-red-messagetonePoppy Red Message Tone">
+        <source>Poppy Red Message Tone</source>
+        <target state="translated">Poppy Red hat tony</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="poppy-red-calendar-alarmPoppy Red Calendar Alarm">
+        <source>Poppy Red Calendar Alarm</source>
+        <target state="translated">Poppy Red senenama oýaryjy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="poppy-red-clock-alarmPoppy Red Clock Alarm">
+        <source>Poppy Red Clock Alarm</source>
+        <target state="translated">Poppy Red sagat oýaryjy</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

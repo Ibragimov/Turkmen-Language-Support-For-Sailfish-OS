@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish-components-lipstick.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="lipstick-jolla-home-12h_time_pattern_without_aph:mm">
+        <source>h:mm</source>
+        <target state="translated">s:mm</target>
+        <note from="developer">Pattern for 12h time, h, hh, m, mm are supported, everything else left as is. escaping with ' not supported</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-components-lipstick-la-one-momentOne moment...">
+        <source>One moment...</source>
+        <target state="translated">Birje minut...</target>
+        <note from="developer">Message shown when the device reboots</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-components-lipstick-la-goodbyeGoodbye!">
+        <source>Goodbye!</source>
+        <target state="translated">Sag boluň!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

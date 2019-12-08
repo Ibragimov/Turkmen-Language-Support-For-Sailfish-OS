@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="jolla-signon-ui.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="lipstick_home-account_notification_group_textAccounts">
+        <source>Accounts</source>
+        <target state="translated">Hasaplar</target>
+        <note from="developer">Name of group where notifications are collected</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="lipstick_home-account_notification_generic_summaryAccount needs to be updated">
+        <source>Account needs to be updated</source>
+        <target state="translated">Hasaby täzelemeli</target>
+        <note from="developer">Summary of the account update notification</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="lipstick_home-account_notification_body%1 - %2">
+        <source>%1 - %2</source>
+
+        <note from="developer">Body of the account update notification. %1 is provider name (Google), %2 is account name (jollamobiletest@gmail.com)</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

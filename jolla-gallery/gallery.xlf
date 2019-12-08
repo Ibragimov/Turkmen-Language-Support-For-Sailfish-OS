@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file original="gallery.ts" target-language="tk" source-language="en-US" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase process-name="translation" contact-email="victor.ibragimov@gmail.com" tool-id="lokalize-19.04.3" contact-name="Victor Ibragimov" phase-name="translation-1" date="2019-11-29"/>
+      </phase-group>
+      <tool tool-name="Lokalize" tool-version="19.04.3" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="gallery-la-deletingDeleting" xml:space="preserve" approved="yes">
+        <source>Deleting</source>
+        <target state="translated" phase-name="translation-1">Pozulýar...</target>
+        <note from="developer">Delete an image</note>
+      </trans-unit>
+      <trans-unit id="gallery-la-take_some_photosTake some photos" xml:space="preserve" approved="yes">
+        <source>Take some photos</source>
+        <target state="translated" phase-name="translation-1">Birnäçe fotosuraty al</target>
+      </trans-unit>
+      <trans-unit id="gallery-me-deleting-%1-itemsDeleting %n item(s)" xml:space="preserve" approved="yes">
+        <source>Deleting %n item(s)</source>
+        <target state="translated" phase-name="translation-1">%n element pozulýar</target>
+        <note from="developer">Remorse popup for multiple image deletion</note>
+      </trans-unit>
+      <trans-unit id="gallery-me-select-videosSelect videos" xml:space="preserve" approved="yes">
+        <source>Select videos</source>
+        <target state="translated" phase-name="translation-1">Wideolary saýla</target>
+        <note from="developer">Select multiple videos for different operations</note>
+      </trans-unit>
+      <trans-unit id="gallery-me-select-photosSelect photos" xml:space="preserve" approved="yes">
+        <source>Select photos</source>
+        <target state="translated" phase-name="translation-1">Fotosuratlary saýla</target>
+        <note from="developer">Select multiple images for different operations</note>
+      </trans-unit>
+      <trans-unit id="gallery-me-select-screenshotsSelect screenshots" xml:space="preserve" approved="yes">
+        <source>Select screenshots</source>
+        <target state="translated" phase-name="translation-1">Skrinşotlary saýla</target>
+        <note from="developer">Select multiple images for different operations</note>
+      </trans-unit>
+      <trans-unit id="gallery-me-deleteDelete" xml:space="preserve" approved="yes">
+        <source>Delete</source>
+        <target state="translated" phase-name="translation-1">Pozmak</target>
+      </trans-unit>
+      <trans-unit id="gallery-la-undo-deletionUndo" xml:space="preserve" approved="yes">
+        <source>Undo</source>
+        <target state="translated" phase-name="translation-1">Yzyna gaýtar</target>
+        <note from="developer">RemorseItem cancel help text</note>
+      </trans-unit>
+      <trans-unit id="gallery-me-clear-selectionsClear All" xml:space="preserve" approved="yes">
+        <source>Clear All</source>
+        <target state="translated" phase-name="translation-1">Ähli arassala</target>
+      </trans-unit>
+      <trans-unit id="gallery-me-select-allSelect All" xml:space="preserve" approved="yes">
+        <source>Select All</source>
+        <target state="translated" phase-name="translation-1">Ähli saýla</target>
+      </trans-unit>
+      <trans-unit id="gallery-bt-photosPhotos" xml:space="preserve" approved="yes">
+        <source>Photos</source>
+        <target state="translated" phase-name="translation-1">Fotosuratlar</target>
+        <note from="developer">Main screen</note>
+      </trans-unit>
+      <trans-unit id="gallery-bt-videosVideos" xml:space="preserve" approved="yes">
+        <source>Videos</source>
+        <target state="translated" phase-name="translation-1">Wideolar</target>
+      </trans-unit>
+      <trans-unit id="gallery-bt-screenshotsScreenshots" xml:space="preserve" approved="yes">
+        <source>Screenshots</source>
+        <target state="translated" phase-name="translation-1">Skrinşotlar</target>
+      </trans-unit>
+      <trans-unit id="gallery-la-no_screenshotsNo screenshots" xml:space="preserve" approved="yes">
+        <source>No screenshots</source>
+        <target state="translated" phase-name="translation-1">Skrinşot ýok</target>
+      </trans-unit>
+      <trans-unit id="gallery-la-take_screenshots_by_pressing_volume_keysTake screenshots by simultaneously pressing down Volume up and down keys" xml:space="preserve" approved="yes">
+        <source>Take screenshots by simultaneously pressing down Volume up and down keys</source>
+        <target state="translated" phase-name="translation-1">Sesi peselt we gatalt klawişalary birlikde aşak basmak arkaly skrinşotlary düşüriň</target>
+      </trans-unit>
+      <trans-unit id="gallery-la-swipe_down_to_go_backSwipe down to go to previous view" xml:space="preserve" approved="yes">
+        <source>Swipe down to go to previous view</source>
+        <target state="translated" phase-name="translation-1">Öňki görnüşine barmak üçin, aşak syryň</target>
+      </trans-unit>
+      <trans-unit id="gallery-ap-nameGallery" xml:space="preserve" approved="yes">
+        <source>Gallery</source>
+        <target state="translated" phase-name="translation-1">Galereýa</target>
+        <note from="developer">Gallery application name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

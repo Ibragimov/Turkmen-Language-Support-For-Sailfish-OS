@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish_components_webview_pickers_qt5.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_pickers-he-upload_fileUpload file">
+        <source>Upload file</source>
+        <target state="translated">Faýl ýükle</target>
+        <note from="developer">For choosing any file (document/image/video/audio) to send to the website from the device</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_pickers-he-upload_imageUpload image">
+        <source>Upload image</source>
+        <target state="translated">Suraty ýükle</target>
+        <note from="developer">For choosing image to send to the website from the device</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_pickers-he-upload_filesUpload files">
+        <source>Upload files</source>
+        <target state="translated">Faýllary ýükle</target>
+        <note from="developer">For choosing files (document/image/video/audio) to send to the website from the device</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_pickers-he-selectSelect">
+        <source>Select</source>
+        <target state="translated">Saýlamak</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_pickers-he-upload_audioUpload audio file">
+        <source>Upload audio file</source>
+        <target state="translated">Audio faýly ýükle</target>
+        <note from="developer">For choosing audio file to send to the website from the device</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_pickers-he-upload_videoUpload video">
+        <source>Upload video</source>
+        <target state="translated">Wideo ýükle</target>
+        <note from="developer">For choosing video to send to the website from the device</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

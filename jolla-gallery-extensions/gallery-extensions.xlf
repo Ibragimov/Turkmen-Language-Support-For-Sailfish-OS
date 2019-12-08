@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file original="gallery-extensions.ts" target-language="tk" source-language="en-US" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase process-name="translation" contact-email="victor.ibragimov@gmail.com" tool-id="lokalize-19.04.3" contact-name="Victor Ibragimov" phase-name="translation-1" date="2019-11-29"/>
+      </phase-group>
+      <tool tool-name="Lokalize" tool-version="19.04.3" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="jolla_gallery_extensions-album_photo_count%n photos" xml:space="preserve" approved="yes">
+        <source>%n photos</source>
+        <target state="translated" phase-name="translation-1">%n fotosurat</target>
+        <note from="developer">Photos count for Gallery album</note>
+      </trans-unit>
+      <trans-unit id="jolla_gallery_extensions-la-no_network_connectionNo network connection" xml:space="preserve" approved="yes">
+        <source>No network connection</source>
+        <target state="translated" phase-name="translation-1">Tor birikme ýok</target>
+      </trans-unit>
+      <trans-unit id="jolla_gallery_extensions-la-failed_to_downloadFailed to download" xml:space="preserve" approved="yes">
+        <source>Failed to download</source>
+        <target state="translated" phase-name="translation-1">Göçürip alyp bolmady</target>
+      </trans-unit>
+      <trans-unit id="jolla_gallery_extensions-he-detailsDetails" xml:space="preserve" approved="yes">
+        <source>Details</source>
+        <target state="translated" phase-name="translation-1">Jikme-jikler</target>
+      </trans-unit>
+      <trans-unit id="jolla_gallery_extensions-la-titleTitle" xml:space="preserve" approved="yes">
+        <source>Title</source>
+        <target state="translated" phase-name="translation-1">Sözbaşy</target>
+      </trans-unit>
+      <trans-unit id="jolla_gallery_extensions-la-unnamed_photoNo title" xml:space="preserve" approved="yes">
+        <source>No title</source>
+        <target state="translated" phase-name="translation-1">Sözbaşy ýok</target>
+      </trans-unit>
+      <trans-unit id="jolla_gallery_extensions-la-typeType" xml:space="preserve" approved="yes">
+        <source>Type</source>
+        <target state="translated" phase-name="translation-1">Görnüş</target>
+      </trans-unit>
+      <trans-unit id="jolla_gallery_extensions-la-date-takenDate Taken" xml:space="preserve" approved="yes">
+        <source>Date Taken</source>
+        <target state="translated" phase-name="translation-1">Sene</target>
+      </trans-unit>
+      <trans-unit id="jolla_gallery_extensions-la-dateDate" xml:space="preserve" approved="yes">
+        <source>Date</source>
+        <target state="translated" phase-name="translation-1">Sene</target>
+      </trans-unit>
+      <trans-unit id="jolla_gallery_extensions-la-deletingDeleting" xml:space="preserve" approved="yes">
+        <source>Deleting</source>
+        <target state="translated" phase-name="translation-1">Pozulýar...</target>
+        <note from="developer">Delete an image</note>
+      </trans-unit>
+      <trans-unit id="jolla_gallery_dropbox-user_photosDropbox" xml:space="preserve" approved="yes">
+        <source>Dropbox</source>
+        <target state="translated" phase-name="translation-1">Dropbox</target>
+        <note from="developer">Label of the Dropbox album in Jolla Gallery application</note>
+      </trans-unit>
+      <trans-unit id="jolla_gallery_onedrive-user_photosOneDrive" xml:space="preserve" approved="yes">
+        <source>OneDrive</source>
+        <target state="translated" phase-name="translation-1">OneDrive</target>
+        <note from="developer">Label of the OneDrive album in Jolla Gallery application</note>
+      </trans-unit>
+      <trans-unit id="jolla_gallery_vk-user_photosVK" xml:space="preserve" approved="yes">
+        <source>VK</source>
+        <target state="translated" phase-name="translation-1">VK</target>
+        <note from="developer">Label of the VK album in Jolla Gallery application</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

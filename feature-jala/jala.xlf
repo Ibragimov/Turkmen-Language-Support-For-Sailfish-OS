@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="jala.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="la-default_signature_textSent from my ACCIONE">
+        <source>Sent from my ACCIONE</source>
+        <target state="translated">ACCIONE-ymdan iberildi</target>
+        <note from="developer">The default text for email account signature lines</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file datatype="plaintext" target-language="tk" source-language="en-US" original="sailfish_components_gallery_qt5.ts">
+    <header>
+      <phase-group>
+        <phase phase-name="translation-1" date="2019-12-07" contact-email="victor.ibragimov@gmail.com" process-name="translation" contact-name="Victor Ibragimov" tool-id="lokalize-19.04.3"/>
+      </phase-group>
+      <tool tool-version="19.04.3" tool-name="Lokalize" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="components_gallery-value-flash-onDid fire" approved="yes" xml:space="preserve">
+        <source>Did fire</source>
+        <target phase-name="translation-1" state="translated">Ulanylan</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-value-flash-offDid not fire" approved="yes" xml:space="preserve">
+        <source>Did not fire</source>
+        <target phase-name="translation-1" state="translated">Ulanylmadyk</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-value-metering-mode-otherOther" approved="yes" xml:space="preserve">
+        <source>Other</source>
+        <target phase-name="translation-1" state="translated">Başga</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-value-metring-mode-partialPartial" approved="yes" xml:space="preserve">
+        <source>Partial</source>
+        <target phase-name="translation-1" state="translated">Bölekleýin</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-value-metering-mode-patternPattern" approved="yes" xml:space="preserve">
+        <source>Pattern</source>
+        <target phase-name="translation-1" state="translated">Şablon</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-value-metering-mode-multispotMultispot" approved="yes" xml:space="preserve">
+        <source>Multispot</source>
+        <target phase-name="translation-1" state="translated">Multispot</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-value-metering-mode-spotSpot" approved="yes" xml:space="preserve">
+        <source>Spot</source>
+        <target phase-name="translation-1" state="translated">Spot</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-value-metering-mode-center-weighted-averageCenter Weighted Average" approved="yes" xml:space="preserve">
+        <source>Center Weighted Average</source>
+        <target phase-name="translation-1" state="translated">Orta ölçenen ortaça</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-value-metering-mode-averageAverage" approved="yes" xml:space="preserve">
+        <source>Average</source>
+        <target phase-name="translation-1" state="translated">Ortaça</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-value-white-balance-manualManual" approved="yes" xml:space="preserve">
+        <source>Manual</source>
+        <target phase-name="translation-1" state="translated">El bilen edilen</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-value-white-balance-autoAuto" approved="yes" xml:space="preserve">
+        <source>Auto</source>
+        <target phase-name="translation-1" state="translated">Awto</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-size_format%1 × %2" approved="yes" xml:space="preserve">
+        <source>%1 × %2</source>
+        <target phase-name="translation-1" state="translated">%1 x %2</target>
+        <note from="developer">Pattern for image resolution, width x height</note>
+      </trans-unit>
+      <trans-unit id="components_gallery-value-fnumberf/%1" approved="yes" xml:space="preserve">
+        <source>f/%1</source>
+        <target phase-name="translation-1" state="translated">f/%1</target>
+        <note from="developer">Camera aperture value</note>
+      </trans-unit>
+      <trans-unit id="components_gallery-value-focal-length%1 mm" approved="yes" xml:space="preserve">
+        <source>%1 mm</source>
+        <target phase-name="translation-1" state="translated">%1 mm</target>
+        <note from="developer">Camera focal length in millimeters</note>
+      </trans-unit>
+      <trans-unit id="components_gallery-value-gpsLatitude %1 - Longitude %2 - Altitude %3" approved="yes" xml:space="preserve">
+        <source>Latitude %1 - Longitude %2 - Altitude %3</source>
+        <target phase-name="translation-1" state="translated">Özbaşdaklyk %1 - Uzynlyk %2 - Belentlik %3</target>
+        <note from="developer">GPS coordinates</note>
+      </trans-unit>
+      <trans-unit id="components_gallery-he-detailsDetails" approved="yes" xml:space="preserve">
+        <source>Details</source>
+        <target phase-name="translation-1" state="translated">Jikme-jikler</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-file_pathFile path" approved="yes" xml:space="preserve">
+        <source>File path</source>
+        <target phase-name="translation-1" state="translated">Faýl ugry</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-file_sizeFile size" approved="yes" xml:space="preserve">
+        <source>File size</source>
+        <target phase-name="translation-1" state="translated">Faýl ölçegi</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-typeType" approved="yes" xml:space="preserve">
+        <source>Type</source>
+        <target phase-name="translation-1" state="translated">Görnüş</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-sizeSize" approved="yes" xml:space="preserve">
+        <source>Size</source>
+        <target phase-name="translation-1" state="translated">Ölçeg</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-date-takenDate Taken" approved="yes" xml:space="preserve">
+        <source>Date Taken</source>
+        <target phase-name="translation-1" state="translated">Sene</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-camera-manufacturerCamera Manufacturer" approved="yes" xml:space="preserve">
+        <source>Camera Manufacturer</source>
+        <target phase-name="translation-1" state="translated">Kamera öndüriji</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-camera-modelCamera Model" approved="yes" xml:space="preserve">
+        <source>Camera Model</source>
+        <target phase-name="translation-1" state="translated">Kamera modeli</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-exposure-timeExposure Time" approved="yes" xml:space="preserve">
+        <source>Exposure Time</source>
+        <target phase-name="translation-1" state="translated">Täsir wagty</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-apertureAperture" approved="yes" xml:space="preserve">
+        <source>Aperture</source>
+        <target phase-name="translation-1" state="translated">Apertura</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-flash-enabledFlash" approved="yes" xml:space="preserve">
+        <source>Flash</source>
+        <target phase-name="translation-1" state="translated">Wspyşka</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-focal-lengthFocal Length" approved="yes" xml:space="preserve">
+        <source>Focal Length</source>
+        <target phase-name="translation-1" state="translated">Fokus uzynlygy</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-metering-modeMetering Mode" approved="yes" xml:space="preserve">
+        <source>Metering Mode</source>
+        <target phase-name="translation-1" state="translated">Ölçeýiş usuly</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-white-balanceWhite Balance" approved="yes" xml:space="preserve">
+        <source>White Balance</source>
+        <target phase-name="translation-1" state="translated">Ak balans</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-gpsGPS" approved="yes" xml:space="preserve">
+        <source>GPS</source>
+        <target phase-name="translation-1" state="translated">GPS</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-durationDuration" approved="yes" xml:space="preserve">
+        <source>Duration</source>
+        <target phase-name="translation-1" state="translated">Dowamlylygy</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-descriptionDescription" approved="yes" xml:space="preserve">
+        <source>Description</source>
+        <target phase-name="translation-1" state="translated">Suratlandyrma</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-copyrightCopyright" approved="yes" xml:space="preserve">
+        <source>Copyright</source>
+        <target phase-name="translation-1" state="translated">Awtorlyk hukugy</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-he-saveSave" approved="yes" xml:space="preserve">
+        <source>Save</source>
+        <target phase-name="translation-1" state="translated">Ýazdyrmak</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-editing_image_failedEditing image failed" approved="yes" xml:space="preserve">
+        <source>Editing image failed</source>
+        <target phase-name="translation-1" state="translated">Fotosuraty düzedip bolmaýar</target>
+      </trans-unit>
+      <trans-unit id="sailfish-components-gallery-he-edit_photoEdit photo" approved="yes" xml:space="preserve">
+        <source>Edit photo</source>
+        <target phase-name="translation-1" state="translated">Suraty düzet</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-brightnessBrightness" approved="yes" xml:space="preserve">
+        <source>Brightness</source>
+        <target phase-name="translation-1" state="translated">Ýagtylyk</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-contrastContrast" approved="yes" xml:space="preserve">
+        <source>Contrast</source>
+        <target phase-name="translation-1" state="translated">Kontrast</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-image-loading-failedOops, can't display the image" approved="yes" xml:space="preserve">
+        <source>Oops, can't display the image</source>
+        <target phase-name="translation-1" state="translated">Wiý, suraty görkezip bolmaýar</target>
+        <note from="developer">Image loading failed</note>
+      </trans-unit>
+      <trans-unit id="components_gallery-li-no_croppingNo cropping" approved="yes" xml:space="preserve">
+        <source>No cropping</source>
+        <target phase-name="translation-1" state="translated">Kesme ýok</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-li-aspect_ratio_originalOriginal" approved="yes" xml:space="preserve">
+        <source>Original</source>
+        <target phase-name="translation-1" state="translated">Asyl</target>
+        <note from="developer">Original aspect ratio</note>
+      </trans-unit>
+      <trans-unit id="components_gallery-li-aspect_ratio_squareSquare" approved="yes" xml:space="preserve">
+        <source>Square</source>
+        <target phase-name="translation-1" state="translated">Kwadrat</target>
+        <note from="developer">Square aspect ratio</note>
+      </trans-unit>
+      <trans-unit id="components_gallery-li-aspect_ratio_avatarAvatar" approved="yes" xml:space="preserve">
+        <source>Avatar</source>
+        <target phase-name="translation-1" state="translated">Awatar</target>
+        <note from="developer">Avatar aspect ratio</note>
+      </trans-unit>
+      <trans-unit id="components_gallery-li-aspect_ratio_ambienceAmbience" approved="yes" xml:space="preserve">
+        <source>Ambience</source>
+        <target phase-name="translation-1" state="translated">Gurşaw</target>
+        <note from="developer">ambience aspect ratio</note>
+      </trans-unit>
+      <trans-unit id="components_gallery-li-aspect_ratio_3_43:4" approved="yes" xml:space="preserve">
+        <source>3:4</source>
+        <target phase-name="translation-1" state="translated">3:4</target>
+        <note from="developer">3:4 aspect ratio</note>
+      </trans-unit>
+      <trans-unit id="components_gallery-li-aspect_ratio_4_34:3" approved="yes" xml:space="preserve">
+        <source>4:3</source>
+        <target state="translated">4:3</target>
+        <note from="developer">4:3 aspect ratio</note>
+      </trans-unit>
+      <trans-unit id="sailfish-components-gallery-he-crop_avatarCrop avatar" approved="yes" xml:space="preserve">
+        <source>Crop avatar</source>
+        <target phase-name="translation-1" state="translated">Awatary kes</target>
+      </trans-unit>
+      <trans-unit id="components_gallery-he-aspect_ratioAspect ratio" approved="yes" xml:space="preserve">
+        <source>Aspect ratio</source>
+        <target phase-name="translation-1" state="translated">Ölçeg gatnaşygy</target>
+      </trans-unit>
+      <trans-unit id="sailfish-components-gallery-la_image-loading-errorOops, image error!" approved="yes" xml:space="preserve">
+        <source>Oops, image error!</source>
+        <target phase-name="translation-1" state="translated">Wiý, surat açylmaz</target>
+        <note from="developer">Image to be edited can't be opened</note>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-image-thumbnail-loading-failedOops, can't display the thumbnail!" approved="yes" xml:space="preserve">
+        <source>Oops, can't display the thumbnail!</source>
+        <target phase-name="translation-1" state="translated">Wiý, suratjygy görkezip bolmaýar</target>
+        <note from="developer">Thumbnail Image loading failed</note>
+      </trans-unit>
+      <trans-unit id="components_gallery-la-video-loading-failedOops, can't load the video" approved="yes" xml:space="preserve">
+        <source>Oops, can't load the video</source>
+        <target phase-name="translation-1" state="translated">Wideo ýükläp bolmady</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

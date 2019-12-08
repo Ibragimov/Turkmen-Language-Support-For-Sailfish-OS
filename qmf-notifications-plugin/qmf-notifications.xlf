@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="qmf-notifications.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="qmf-notification_email_sync_failedEmail Sync Failed">
+        <source>Email Sync Failed</source>
+        <target state="translated">E-poçta sinhronlap bolmady</target>
+        <note from="developer">Notifies in transfer-ui that email sync failed</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="qmf-notification_new_email_banner_notificationYou have %n new email(s)">
+        <source>You have %n new email(s)</source>
+        <target state="translated">Sizde %n täze poçta(lar) bar</target>
+        <note from="developer">Summary of new email(s) notification</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="qmf-notification_send_failed_summaryEmail sending failed">
+        <source>Email sending failed</source>
+        <target state="translated">E-poçtany iberip bolmady</target>
+        <note from="developer">Summary of email sending failed notification</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="qmf-notification_send_failed_previewBodyFailed to send email from account %1">
+        <source>Failed to send email from account %1</source>
+        <target state="translated">E-poçtany iberip bolmady</target>
+        <note from="developer">Preview of email sending failed notification</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="qmf-notification_send_failed_BodyAccount %1">
+        <source>Account %1</source>
+        <target state="translated">Hasap %1</target>
+        <note from="developer">Body of email sending failed notification</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="qmf-notification_error_groupWarnings">
+        <source>Warnings</source>
+        <target state="translated">Duýduryşlar</target>
+        <note from="developer">Name of notification group for error notifications</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

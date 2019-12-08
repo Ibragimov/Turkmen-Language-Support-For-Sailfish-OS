@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file datatype="plaintext" source-language="en-US" original="settings.ts" target-language="tk">
+    <header>
+      <phase-group>
+        <phase date="2019-11-26" phase-name="translation-1" contact-name="Victor Ibragimov" process-name="translation" tool-id="lokalize-19.04.3" contact-email="victor.ibragimov@gmail.com"/>
+      </phase-group>
+      <tool tool-id="lokalize-19.04.3" tool-name="Lokalize" tool-version="19.04.3"/>
+    </header>
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-me-remove_from_favoritesRemove from Favorites">
+        <source>Remove from Favorites</source>
+        <target state="translated" phase-name="translation-1">Halanýanlardan aýyr</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-me-add_to_favoritesAdd to Favorites">
+        <source>Add to Favorites</source>
+        <target state="translated" phase-name="translation-1">Halanýanlara goş</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-la-in_progressIn progress">
+        <source>In progress</source>
+        <target state="translated" phase-name="translation-1">Işlenilýär</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-la-disabled_by_sailfish_device_managerDisabled by %1 Device Manager">
+        <source>Disabled by %1 Device Manager</source>
+        <target state="translated" phase-name="translation-1">% 1 enjam dolandyryjy tarapyndan öçürildi</target>
+        <note from="developer">%1 is an operating system name without the OS suffix</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-la-disabled_because_flight_mode_enabledDisabled by flight mode">
+        <source>Disabled by flight mode</source>
+        <target state="translated" phase-name="translation-1">Uçar tertibi tarapyndan öçürildi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-la-no-network-connectivityNo network connectivity">
+        <source>No network connectivity</source>
+        <target state="translated" phase-name="translation-1">Ulgam birikme ukyby ýok</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-la-connection_failureConnection failure">
+        <source>Connection failure</source>
+        <target state="translated" phase-name="translation-1">Birikme şowsuz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-la-connection_setup_requiredConnection setup required">
+        <source>Connection setup required</source>
+        <target state="translated" phase-name="translation-1">Birikme sazlama gerek</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-la-no_sim_card_insertedNo SIM card inserted">
+        <source>No SIM card inserted</source>
+        <target state="translated" phase-name="translation-1">SIM kart dakylmady</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-la-sim_card_disabledSIM card disabled">
+        <source>SIM card disabled</source>
+        <target state="translated" phase-name="translation-1">SIM kart ýapyldy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-me-go_to_settingsGo to settings">
+        <source>Go to settings</source>
+        <target state="translated" phase-name="translation-1">Sazlamalara bar</target>
+        <note from="developer">Show the relevant settings options for this.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-la-setting_offOff">
+        <source>Off</source>
+        <target state="translated" phase-name="translation-1">Ýapyk</target>
+        <note from="developer">Shown when the setting is turned off</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-la-setting_onOn">
+        <source>On</source>
+        <target state="translated" phase-name="translation-1">Açyk</target>
+        <note from="developer">Shown when the setting is turned on</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-system_settingsSystem settings">
+        <source>System settings</source>
+        <target state="translated" phase-name="translation-1">Ulgam sazlamalary</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-applicationsApplications">
+        <source>Applications</source>
+        <target state="translated" phase-name="translation-1">Goýmalar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-he-applicationsApplications">
+        <source>Applications</source>
+        <target state="translated" phase-name="translation-1">Goýmalar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-la-super_appSuper app">
+        <source>Super app</source>
+        <target state="translated" phase-name="translation-1">Super goýma</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-he-settingsSettings">
+        <source>Settings</source>
+        <target state="translated" phase-name="translation-1">Sazlamalar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-he-warning_settings_busySettings application is busy">
+        <source>Settings application is busy</source>
+        <target state="translated" phase-name="translation-1">Sazlamalar goýmalar meşgul</target>
+        <note from="developer">system notification shown when settings is requested to show a page but it's busy</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-ap-nameSettings">
+        <source>Settings</source>
+        <target state="translated" phase-name="translation-1">Sazlamalar</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file datatype="plaintext" source-language="en-US" original="settings-sync.ts" target-language="tk">
+    <header>
+      <phase-group>
+        <phase date="2019-11-26" phase-name="translation-1" contact-name="Victor Ibragimov" process-name="translation" tool-id="lokalize-19.04.3" contact-email="victor.ibragimov@gmail.com"/>
+      </phase-group>
+      <tool tool-id="lokalize-19.04.3" tool-name="Lokalize" tool-version="19.04.3"/>
+    </header>
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-la-sync_waitingWaiting to sync">
+        <source>Waiting to sync</source>
+        <target state="translated" phase-name="translation-1">Sinhronlamaga garaşmak...</target>
+        <note from="developer">Displayed when the sync operation is currently queued</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-la-syncingSyncing">
+        <source>Syncing</source>
+        <target state="translated" phase-name="translation-1">Sinhronlanylýar...</target>
+        <note from="developer">Displayed when the sync operation is in progress</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-la-download_contactsReceiving contacts">
+        <source>Receiving contacts</source>
+        <target state="translated" phase-name="translation-1">Kontaktlary almak...</target>
+        <note from="developer">Displayed when in the process of transferring contacts from another device</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-la-last_sync_dateLast sync: %1">
+        <source>Last sync: %1</source>
+        <target state="translated" phase-name="translation-1">Soňky sinhronlama: %1</target>
+        <note from="developer">Shows the last time this sync operation was completed successfully</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-la-successSuccess">
+        <source>Success</source>
+        <target state="translated" phase-name="translation-1">Üstünlik</target>
+        <note from="developer">Displayed if the device successfully synced to the endpoint</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-la-sync_failedSync failed">
+        <source>Sync failed</source>
+        <target state="translated" phase-name="translation-1">Sinhronlama üstünliksiz</target>
+        <note from="developer">Displayed if the sync operation failed</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-la-sync_canceledSync canceled">
+        <source>Sync canceled</source>
+        <target state="translated" phase-name="translation-1">Sinhronlama ýatyryldy</target>
+        <note from="developer">Displayed if the sync operation was canceled</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-la-unnamed_deviceUnnamed device">
+        <source>Unnamed device</source>
+        <target state="translated" phase-name="translation-1">Atsyz enjam</target>
+        <note from="developer">Default text for a Bluetooth device that does not have a name</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-me-sync_endpointSync">
+        <source>Sync</source>
+        <target state="translated" phase-name="translation-1">Sinh</target>
+        <note from="developer">Triggers sync with the sync endpoint</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-la-removingRemoving">
+        <source>Removing</source>
+        <target state="translated" phase-name="translation-1">Aýyrmak:</target>
+        <note from="developer">Removing this sync endpoint in 5 seconds
+----------
+Deleting this account in 5 seconds</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-la-stop_syncStop">
+        <source>Stop</source>
+        <target state="translated" phase-name="translation-1">Dur</target>
+        <note from="developer">Stops the data synchronization that is in progress</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-me-remove_endpointRemove">
+        <source>Remove</source>
+        <target state="translated" phase-name="translation-1">Aýyr</target>
+        <note from="developer">Removes the sync endpoint</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-he-syncSync">
+        <source>Sync</source>
+        <target state="translated" phase-name="translation-1">Sinh</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-sw-contactsContacts">
+        <source>Contacts</source>
+        <target state="translated" phase-name="translation-1">Kontaktlar</target>
+        <note from="developer">Select this option to sync contacts</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-sw-calendar_eventsCalendar events">
+        <source>Calendar events</source>
+        <target state="translated" phase-name="translation-1">Senenama çäreleri</target>
+        <note from="developer">Select this option to sync calendar events</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-la-directionDirection:">
+        <source>Direction:</source>
+        <target state="translated" phase-name="translation-1">Ugur:</target>
+        <note from="developer">Determines the direction in which sync operations will be performed (two-way, upload only, or download only)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-la-twowayTwo-way sync">
+        <source>Two-way sync</source>
+        <target state="translated" phase-name="translation-1">Iki ugurly sinhronlama</target>
+        <note from="developer">Sync mode in which the Jolla device will send data to, and also receive data from, the other device</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-la-one_way_from_remoteOne-way from %1">
+        <source>One-way from %1</source>
+        <target state="translated" phase-name="translation-1">%1-dan ýeke ugurly</target>
+        <note from="developer">Sync mode in which the Jolla device will receive data from the other device (but will not send any)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-la-one_way_to_remoteOne-way to %1">
+        <source>One-way to %1</source>
+        <target state="translated" phase-name="translation-1">%1-a ýeke ugurly</target>
+        <note from="developer">Sync mode in which the Jolla device will send data to the other device (but will not receive any data back)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-he-bluetooth_syncBluetooth sync">
+        <source>Bluetooth sync</source>
+        <target state="translated" phase-name="translation-1">Bluetooth sinh</target>
+        <note from="developer">Heading of the Bluetooth Sync settings page</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-me-add_deviceAdd new device">
+        <source>Add new device</source>
+        <target state="translated" phase-name="translation-1">Täze enjam goş</target>
+        <note from="developer">Initiates adding a new sync endpoint</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-he-bluetooth_sync_contacts_downloadSync enables you to get contacts from another Bluetooth device">
+        <source>Sync enables you to get contacts from another Bluetooth device</source>
+        <target state="translated" phase-name="translation-1">Sinh size başga Bluetooth enjamdan kontaktlary almaga mümkinçilik berýär</target>
+        <note from="developer">Description of what the Sync settings page is used for</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sync-he-pull_down_to_add_devicePull down to add a device">
+        <source>Pull down to add a device</source>
+        <target state="translated" phase-name="translation-1">Enjam goşmak üçin aşak çekiň</target>
+        <note from="developer">Hint to the user that they can perform a sync by using the pulley menu</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

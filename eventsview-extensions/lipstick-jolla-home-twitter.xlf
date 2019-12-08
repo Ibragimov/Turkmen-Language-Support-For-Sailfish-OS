@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file original="lipstick-jolla-home-twitter.ts" source-language="en-US" datatype="plaintext" target-language="en_GB">
+    <header>
+      <phase-group>
+        <phase date="2019-12-02" phase-name="translation-1" process-name="translation" contact-name="Victor Ibragimov" tool-id="lokalize-19.04.3" contact-email="victor.ibragimov@gmail.com"/>
+      </phase-group>
+      <tool tool-id="lokalize-19.04.3" tool-name="Lokalize" tool-version="19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="lipstick-jolla-home-la-twitter_tweetsTweets" xml:space="preserve" approved="yes">
+        <source>Tweets</source>
+        <target phase-name="translation-1" state="translated">Tweetler</target>
+        <note from="developer">Twitter tweets</note>
+      </trans-unit>
+      <trans-unit id="lipstick-jolla-home-la-show-more-in-twitterShow more in Twitter" xml:space="preserve" approved="yes">
+        <source>Show more in Twitter</source>
+        <target phase-name="translation-1" state="translated">Twitter-de has köp görkeziň</target>
+      </trans-unit>
+      <trans-unit id="lipstick-jolla-home-la-retweeted_by%1 retweeted" xml:space="preserve" approved="yes">
+        <source>%1 retweeted</source>
+        <target phase-name="translation-1" state="translated">%1 gaýtadan ýazyldy</target>
+        <note from="developer">Shown above a tweet that is a retweet of somebody else's tweet. %1 = name of user who is retweeting</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

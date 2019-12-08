@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file original="sailfish-btrfs-balancer.ts" target-language="tk" source-language="en-US" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase process-name="translation" contact-email="victor.ibragimov@gmail.com" tool-id="lokalize-19.04.3" contact-name="Victor Ibragimov" phase-name="translation-1" date="2019-11-29"/>
+      </phase-group>
+      <tool tool-name="Lokalize" tool-version="19.04.3" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="sailfish_btrfs_balancer-la-failure_dialog_titleFilesystem optimizing failed" xml:space="preserve" approved="yes">
+        <source>Filesystem optimizing failed</source>
+        <target state="translated" phase-name="translation-1">Faýl ulgamy optimizirleme şowsuz</target>
+        <note from="developer">Title text of dialog shown when filesystem optimizing failed</note>
+      </trans-unit>
+      <trans-unit id="sailfish_btrfs_balancer-la-failure_dialog_messageNot enough disk space.&lt;br>&lt;br>Please free more space and try again." xml:space="preserve" approved="yes">
+        <source>Not enough disk space.&lt;br>&lt;br>Please free more space and try again.</source>
+        <target state="translated" phase-name="translation-1">Ýeterlik ýat ýok.&lt;br>&lt;br>Käbir ýeri boşadyp täzeden synanyşyň.</target>
+        <note from="developer">Dialog text that tells the user that filesystem optimizing failed due to insufficient disk space and to try it again after freeing more space.</note>
+      </trans-unit>
+      <trans-unit id="sailfish_btrfs_balancer-bt-failure_dialog_okOk" xml:space="preserve" approved="yes">
+        <source>Ok</source>
+        <target state="translated" phase-name="translation-1">OK</target>
+        <note from="developer">Button label for the OK button of the failure dialog</note>
+      </trans-unit>
+      <trans-unit id="sailfish_btrfs_balancer-no-fs_optimizing_finished_summaryFilesystem optimizing finished." xml:space="preserve" approved="yes">
+        <source>Filesystem optimizing finished.</source>
+        <target state="translated" phase-name="translation-1">Faýl ulgamy optimizirleme tamamlanyldy.</target>
+        <note from="developer">Notification summary shown when the filesystem has been optimized successfully</note>
+      </trans-unit>
+      <trans-unit id="sailfish_btrfs_balancer-no-fs_optimizing_finishedThe update is ready for download." xml:space="preserve" approved="yes">
+        <source>The update is ready for download.</source>
+        <target state="translated" phase-name="translation-1">Täzeleme göçürip almaga taýýar.</target>
+        <note from="developer">Notification body shown when the filesystem has been optimized successfully</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

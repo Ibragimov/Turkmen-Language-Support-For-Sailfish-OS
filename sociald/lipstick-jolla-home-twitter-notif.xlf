@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file original="lipstick-jolla-home-twitter-notif.ts" target-language="tk" source-language="en-US" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase process-name="translation" contact-email="victor.ibragimov@gmail.com" tool-id="lokalize-19.04.3" contact-name="Victor Ibragimov" phase-name="translation-1" date="2019-11-29"/>
+      </phase-group>
+      <tool tool-name="Lokalize" tool-version="19.04.3" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="qtn_social_notifications_twitter_mentioned_youmentioned you in a Tweet" xml:space="preserve" approved="yes">
+        <source>mentioned you in a Tweet</source>
+        <target state="translated" phase-name="translation-1">Tweet-de sizi agzady</target>
+        <note from="developer">Label telling the user that someone mentioned them. e.g: "John Smith" + "mentioned you in a Tweet"</note>
+      </trans-unit>
+      <trans-unit id="qtn_social_notifications_twitter_you_received_new_mentionsYou" xml:space="preserve" approved="yes">
+        <source>You</source>
+        <target state="translated" phase-name="translation-1">Siz</target>
+        <note from="developer">This label refers to the user of the device, eg "You" + "received 5 new mentions"</note>
+      </trans-unit>
+      <trans-unit id="qtn_social_notifications_twitter_n_mentions_include_nreceived %n mentions" xml:space="preserve" approved="yes">
+        <source>received %n mentions</source>
+        <target state="translated" phase-name="translation-1">%n agzama aldy</target>
+        <note from="developer">The number of tweets (n) by other people which mention this user. Include n.</note>
+      </trans-unit>
+      <trans-unit id="qtn_social_notifications_twitter_your_tweetYour Tweet" xml:space="preserve" approved="yes">
+        <source>Your Tweet</source>
+        <target state="translated" phase-name="translation-1">Siziň Tweet</target>
+        <note from="developer">This label refers to a single Tweet by the user, eg: "Your Tweet" + "has been retweeted 5 times"</note>
+      </trans-unit>
+      <trans-unit id="qtn_social_notifications_twitter_1_n_retweets_include_nhas been retweeted %n times" xml:space="preserve" approved="yes">
+        <source>has been retweeted %n times</source>
+        <target state="translated" phase-name="translation-1">%n gezek gaýtaryldy</target>
+        <note from="developer">This label tells the user how many times (n) a single Tweet has been retweeted. Include n.</note>
+      </trans-unit>
+      <trans-unit id="qtn_social_notifications_twitter_your_tweetsYour Tweets" xml:space="preserve" approved="yes">
+        <source>Your Tweets</source>
+        <target state="translated" phase-name="translation-1">Siziň twitleriňiz</target>
+        <note from="developer">This label refers to multiple Tweets by the user, eg: "Your Tweets" + "have been retweeted 5 times"</note>
+      </trans-unit>
+      <trans-unit id="qtn_social_notifications_twitter_m_n_retweets_include_nhave been retweeted %n times" xml:space="preserve" approved="yes">
+        <source>have been retweeted %n times</source>
+        <target state="translated" phase-name="translation-1">%n gezek gaýtaryldy</target>
+        <note from="developer">This label tells the user how many times (n) multiple Tweets have been retweeted. Include n.</note>
+      </trans-unit>
+      <trans-unit id="qtn_social_notifications_twitter_you_have_new_followersYou" xml:space="preserve" approved="yes">
+        <source>You</source>
+        <target state="translated" phase-name="translation-1">Sizde</target>
+        <note from="developer">This label refers to the user of the device, eg "You" + "have 5 new followers"</note>
+      </trans-unit>
+      <trans-unit id="qtn_social_notifications_n_followers_include_nhave %n new followers" xml:space="preserve" approved="yes">
+        <source>have %n new followers</source>
+        <target state="translated" phase-name="translation-1">%n täze yzarlaýjyňyz bar</target>
+        <note from="developer">The number of new followers (n) the user has on Twitter. Include n. e.g. "You" + "have 5 new followers".</note>
+      </trans-unit>
+      <trans-unit id="qtn_social_notifications_twitter_followed_youfollowed you" xml:space="preserve" approved="yes">
+        <source>followed you</source>
+        <target state="translated" phase-name="translation-1">sizi yzarlaýan</target>
+        <note from="developer">Text telling the user that another user has followed them, e.g.: "John Smith" + "followed you".</note>
+      </trans-unit>
+      <trans-unit id="qtn_social_notifications_twitterTwitter" xml:space="preserve" approved="yes">
+        <source>Twitter</source>
+        <target state="translated" phase-name="translation-1">Twitter</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file target-language="tk" source-language="en-US" datatype="plaintext" original="lipstick.ts">
+    <header>
+      <phase-group>
+        <phase phase-name="translation-1" process-name="translation" contact-email="victor.ibragimov@gmail.com" contact-name="Victor Ibragimov" date="2019-12-02" tool-id="lokalize-19.04.3"/>
+      </phase-group>
+      <tool tool-version="19.04.3" tool-name="Lokalize" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="qtn_ener_chargingCharging" xml:space="preserve" approved="yes">
+        <source>Charging</source>
+        <target phase-name="translation-1" state="translated">Zarýadlaýar...</target>
+      </trans-unit>
+      <trans-unit id="qtn_ener_charcompCharging complete" xml:space="preserve" approved="yes">
+        <source>Charging complete</source>
+        <target phase-name="translation-1" state="translated">Zarýadlama tamamlandy</target>
+      </trans-unit>
+      <trans-unit id="qtn_ener_remchaDisconnect charger from power supply to save energy" xml:space="preserve" approved="yes">
+        <source>Disconnect charger from power supply to save energy</source>
+        <target phase-name="translation-1" state="translated">Energiýa tygşytlamak üçin, zarýadlaýjy energiýa üpjünçilikden aýryň</target>
+      </trans-unit>
+      <trans-unit id="qtn_ener_repchargerCharging not started. Replace charger." xml:space="preserve" approved="yes">
+        <source>Charging not started. Replace charger.</source>
+        <target phase-name="translation-1" state="translated">Wiý, zarýadlama işlänok. Başga zarýadlaýjy synanyşyň.</target>
+      </trans-unit>
+      <trans-unit id="qtn_ener_rebattRecharge battery" xml:space="preserve" approved="yes">
+        <source>Recharge battery</source>
+        <target phase-name="translation-1" state="translated">Batareýa täzeden zarýadlaň</target>
+      </trans-unit>
+      <trans-unit id="qtn_ener_ent_psnoteEntering power save mode" xml:space="preserve" approved="yes">
+        <source>Entering power save mode</source>
+        <target phase-name="translation-1" state="translated">Güýç tygşytlaýjy tertibi açylýar...</target>
+      </trans-unit>
+      <trans-unit id="qtn_ener_exit_psnoteExiting power save mode" xml:space="preserve" approved="yes">
+        <source>Exiting power save mode</source>
+        <target phase-name="translation-1" state="translated">Güýç tygşytlaýjy tertibi ýapylýar...</target>
+      </trans-unit>
+      <trans-unit id="qtn_ener_lowbattLow battery" xml:space="preserve" approved="yes">
+        <source>Low battery</source>
+        <target phase-name="translation-1" state="translated">Pes zarýad</target>
+      </trans-unit>
+      <trans-unit id="qtn_ener_nopowchargeNot enough power to charge" xml:space="preserve" approved="yes">
+        <source>Not enough power to charge</source>
+        <target phase-name="translation-1" state="translated">Zarýadlama üçin ýeterlik güýç ýok</target>
+      </trans-unit>
+      <trans-unit id="qtn_ap_lipstickSystem" xml:space="preserve" approved="yes">
+        <source>System</source>
+        <target phase-name="translation-1" state="translated">Ulgam</target>
+      </trans-unit>
+      <trans-unit id="qtn_shut_high_temp_warningDevice is getting hot. Close all apps." xml:space="preserve" approved="yes">
+        <source>Device is getting hot. Close all apps.</source>
+        <target phase-name="translation-1" state="translated">Enjam gyzýar. Ähli goýmalary ýapyň.</target>
+      </trans-unit>
+      <trans-unit id="qtn_shut_high_temp_alertDevice is overheating. turn it off." xml:space="preserve" approved="yes">
+        <source>Device is overheating. turn it off.</source>
+        <target phase-name="translation-1" state="translated">Enjam gaty gyzgyň.</target>
+      </trans-unit>
+      <trans-unit id="qtn_shut_low_temp_warningLow temperature warning" xml:space="preserve" approved="yes">
+        <source>Low temperature warning</source>
+        <target phase-name="translation-1" state="translated">Ony ýapyň</target>
+      </trans-unit>
+      <trans-unit id="qtn_shut_high_tempTemperature too high. Device shutting down." xml:space="preserve" approved="yes">
+        <source>Temperature too high. Device shutting down.</source>
+        <target phase-name="translation-1" state="translated">Batareýa temperaturasy pes. Enjamy içine salyň.</target>
+      </trans-unit>
+      <trans-unit id="qtn_shut_unplug_usbUSB cable plugged in. Unplug the USB cable to shutdown." xml:space="preserve" approved="yes">
+        <source>USB cable plugged in. Unplug the USB cable to shutdown.</source>
+        <target phase-name="translation-1" state="translated">Temperatura gaty ýokary, enjam ýapylýar. Ýapmak üçin, USB kabeli aýryň.</target>
+      </trans-unit>
+      <trans-unit id="qtn_shut_batt_emptyBattery empty. Device shutting down." xml:space="preserve" approved="yes">
+        <source>Battery empty. Device shutting down.</source>
+        <target phase-name="translation-1" state="translated">Batareýa boş, enjam basym ýapylar.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

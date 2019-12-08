@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file target-language="tk" source-language="en-US" datatype="plaintext" original="lipstick-jolla-home-facebook.ts">
+    <header>
+      <phase-group>
+        <phase phase-name="translation-1" process-name="translation" contact-email="victor.ibragimov@gmail.com" contact-name="Victor Ibragimov" date="2019-12-02" tool-id="lokalize-19.04.3"/>
+      </phase-group>
+      <tool tool-version="19.04.3" tool-name="Lokalize" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="lipstick-jolla-home-la-facebook_notificationsNotifications" xml:space="preserve" approved="yes">
+        <source>Notifications</source>
+        <target phase-name="translation-1" state="translated">Habarnamalar</target>
+        <note from="developer">Facebook notifications</note>
+      </trans-unit>
+      <trans-unit id="lipstick-jolla-home-la-show-more-in-facebookShow more in Facebook" xml:space="preserve" approved="yes">
+        <source>Show more in Facebook</source>
+        <target phase-name="translation-1" state="translated">Facebook-de has köp görkeziň</target>
+      </trans-unit>
+      <trans-unit id="lipstick-jolla-home-facebook-error-fail-to-likeFailed to like" xml:space="preserve" approved="yes">
+        <source>Failed to like</source>
+        <target phase-name="translation-1" state="translated">Halama goşmakda bir näsazlyk ýüze çykdy</target>
+        <note from="developer">Facebook like operation failed.</note>
+      </trans-unit>
+      <trans-unit id="lipstick-jolla-home-facebook-error-fail-to-remove-likeFailed to remove like" xml:space="preserve" approved="yes">
+        <source>Failed to remove like</source>
+        <target phase-name="translation-1" state="translated">Halama aýyrmakda bir näsazlyk ýüze çykdy</target>
+      </trans-unit>
+      <trans-unit id="lipstick-jolla-home-facebook-error-fail-to-commentFailed to comment" xml:space="preserve" approved="yes">
+        <source>Failed to comment</source>
+        <target phase-name="translation-1" state="translated">Teswir goşmakda bir näsazlyk ýüze çykdy</target>
+        <note from="developer">Facebook comment operation failed.</note>
+      </trans-unit>
+      <trans-unit id="lipstick-jolla-home-facebook-la-you-like-thisYou like this" xml:space="preserve" approved="yes">
+        <source>You like this</source>
+        <target phase-name="translation-1" state="translated">Siz şuny halaýarsyňyz</target>
+      </trans-unit>
+      <trans-unit id="gallery-fb-la-one-friend-likes-this%1 likes this" xml:space="preserve" approved="yes">
+        <source>%1 likes this</source>
+        <target phase-name="translation-1" state="translated">%1 şuny halaýar</target>
+      </trans-unit>
+      <trans-unit id="lipstick-jolla-home-facebook-la-you-and-another-friend-likes-thisYou and %1 like this" xml:space="preserve" approved="yes">
+        <source>You and %1 like this</source>
+        <target phase-name="translation-1" state="translated">Siz we %1 şuny halaýar</target>
+      </trans-unit>
+      <trans-unit id="lipstick-jolla-home-facebook-la-two-friend-likes-this%1 and %2 like this" xml:space="preserve" approved="yes">
+        <source>%1 and %2 like this</source>
+        <target phase-name="translation-1" state="translated">%1 we %2 şuny halaýar</target>
+      </trans-unit>
+      <trans-unit id="lipstick-jolla-home-facebook-la-you-and-multiple-friend-like-thisYou, %1 and %2 others like this" xml:space="preserve" approved="yes">
+        <source>You, %1 and %2 others like this</source>
+        <target phase-name="translation-1" state="translated">Siz, %1 we ýene %2 başga şuny halaýar</target>
+      </trans-unit>
+      <trans-unit id="lipstick-jolla-home-facebook-la-multiple-friend-like-this%1, %2 and %3 others like this" xml:space="preserve" approved="yes">
+        <source>%1, %2 and %3 others like this</source>
+        <target phase-name="translation-1" state="translated">%1, %2 we ýene %3 başga şuny halaýar</target>
+      </trans-unit>
+      <trans-unit id="lipstick-jolla-home-me-facebook_no_network_connectionNo network connection" xml:space="preserve" approved="yes">
+        <source>No network connection</source>
+        <target phase-name="translation-1" state="translated">Tor birikme ýok</target>
+        <note from="developer">The content cannot be shown because there's no network connection</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

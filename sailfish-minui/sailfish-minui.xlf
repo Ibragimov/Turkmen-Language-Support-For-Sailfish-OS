@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish-minui.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-minui-la-abcabc">
+        <source>abc</source>
+        <target state="translated">abc</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-minui-la-defdef">
+        <source>def</source>
+        <target state="translated">def</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-minui-la-ghighi">
+        <source>ghi</source>
+        <target state="translated">ghi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-minui-la-jkljkl">
+        <source>jkl</source>
+        <target state="translated">jkl</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-minui-la-mnomno">
+        <source>mno</source>
+        <target state="translated">mno</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-minui-la-pqrspqrs">
+        <source>pqrs</source>
+        <target state="translated">pqrs</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-minui-la-tuvtuv">
+        <source>tuv</source>
+        <target state="translated">tuv</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-minui-la-wxyzwxyz">
+        <source>wxyz</source>
+        <target state="translated">wxyz</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

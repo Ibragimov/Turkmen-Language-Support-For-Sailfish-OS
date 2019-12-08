@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish-upgrade-ui.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-upgrade-ui-la-system_update_failedSailfish OS could not be updated. Please try again later.">
+        <source>Sailfish OS could not be updated. Please try again later.</source>
+        <target state="translated">Sailfish OS täzeläp bolmady. Soňra ýene synanyşyň.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-upgrade-ui-la-system_update_failed_disk_fullSailfish OS could not be updated. Not enough disk space. Please free some space and try again.">
+        <source>Sailfish OS could not be updated. Not enough disk space. Please free some space and try again.</source>
+        <target state="translated">Sailfish OS täzeläp bolmady. Diskde ýeterlik ýer ýok. Ýer boşadyp, täzeden synanyň.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-upgrade-ui-bt-rebootReboot">
+        <source>Reboot</source>
+        <target state="translated">Açyp ýap</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

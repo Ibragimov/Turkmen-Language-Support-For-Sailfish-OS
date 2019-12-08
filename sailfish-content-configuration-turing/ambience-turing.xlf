@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="ambience-turing.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-fluxFlux">
+        <source>Flux</source>
+        <target state="translated">Akyş</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-hexagonHexagon">
+        <source>Hexagon</source>
+        <target state="translated">Altyburç</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-indigoIndigo">
+        <source>Indigo</source>
+        <target state="translated">Indigo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-silentSilent">
+        <source>Silent</source>
+        <target state="translated">Sessiz</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

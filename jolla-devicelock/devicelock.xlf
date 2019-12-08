@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="devicelock.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="devicelock-he-lockedLocked">
+        <source>Locked</source>
+        <target state="translated">Gulply</target>
+        <note from="developer">Devicelock UI's header-text which indicates Locked state.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="devicelock-bt-unlockUnlock">
+        <source>Unlock</source>
+        <target state="translated">Gulp aç</target>
+        <note from="developer">Devicelock UI's unlock-key which is pressed to confirm the lockcode.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_devicelock-la-devicelock_max_length_warningLock code cannot be more than %n digits.">
+        <source>Lock code cannot be more than %n digits.</source>
+        <target state="translated">Gulp kody %n sifrden köp bolmaly däl.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="devicelock-he-permanently_lockedPermanently Locked">
+        <source>Permanently Locked</source>
+        <target state="translated">Hemişelik gulplanan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="devicelock-he-final_chanceFinal chance">
+        <source>Final chance</source>
+        <target state="translated">Soň ähtimallyk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="devicelock-la-devicelock_last_chanceEntering incorrent lock code once more will permanently block your access to the device.">
+        <source>Entering incorrent lock code once more will permanently block your access to the device.</source>
+        <target state="translated">Nädogry gulp kody girizmek, siziň enjama girişiňizi hemişelik bekleniler.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="devicelock-la-devicelock_incorrect_lock_codeIncorrect lock code">
+        <source>Incorrect lock code</source>
+        <target state="translated">Nädogry gulp kody</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

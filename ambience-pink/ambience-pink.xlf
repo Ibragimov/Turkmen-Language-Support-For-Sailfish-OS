@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="ambience-pink.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-pink-nameNadeshiko">
+        <source>Nadeshiko</source>
+        <target state="translated">Nadeshiko</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pink-ringtoneNadeshiko ringtone">
+        <source>Nadeshiko ringtone</source>
+        <target state="translated">Nadeshiko ringtony</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pink-imNadeshiko IM">
+        <source>Nadeshiko IM</source>
+        <target state="translated">Nadeshiko IM</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pink-chatNadeshiko Chat">
+        <source>Nadeshiko Chat</source>
+        <target state="translated">Nadeshiko söhbet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pink-emailNadeshiko Email">
+        <source>Nadeshiko Email</source>
+        <target state="translated">Nadeshiko e-poçta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pink-messageNadeshiko Message">
+        <source>Nadeshiko Message</source>
+        <target state="translated">Nadeshiko hat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pink-calendar-alarmNadeshiko Calendar alarm">
+        <source>Nadeshiko Calendar alarm</source>
+        <target state="translated">Nadeshiko senenama oýaryjy</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pink-clock-alarmNadeshiko Clock Alarm">
+        <source>Nadeshiko Clock Alarm</source>
+        <target state="translated">Nadeshiko sagat oýaryjy</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

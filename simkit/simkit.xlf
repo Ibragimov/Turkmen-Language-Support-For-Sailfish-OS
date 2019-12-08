@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file original="simkit.ts" target-language="tk" source-language="en-US" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase process-name="translation" contact-email="victor.ibragimov@gmail.com" tool-id="lokalize-19.04.3" contact-name="Victor Ibragimov" phase-name="translation-1" date="2019-11-29"/>
+      </phase-group>
+      <tool tool-name="Lokalize" tool-version="19.04.3" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="simkit-he-open_web_pageOpen web page" xml:space="preserve" approved="yes">
+        <source>Open web page</source>
+        <target state="translated" phase-name="translation-1">Web-sahypa aç</target>
+      </trans-unit>
+      <trans-unit id="simkit-la-no_sim_toolkitNo SIM apps available" xml:space="preserve" approved="yes">
+        <source>No SIM apps available</source>
+        <target state="translated" phase-name="translation-1">Elýeterli SIM goýma ýok</target>
+        <note from="developer">Shown when a SIM does not support the SIM ToolKit feature</note>
+      </trans-unit>
+      <trans-unit id="simkit-he-call_prompt-call_requestedCall requested" xml:space="preserve" approved="yes">
+        <source>Call requested</source>
+        <target state="translated" phase-name="translation-1">Jaň talap edildi</target>
+      </trans-unit>
+      <trans-unit id="simkit-he-call_prompt-cancelCancel" xml:space="preserve" approved="yes">
+        <source>Cancel</source>
+        <target state="translated" phase-name="translation-1">Ýatyr</target>
+      </trans-unit>
+      <trans-unit id="simkit-he-call_prompt-allowAllow" xml:space="preserve" approved="yes">
+        <source>Allow</source>
+        <target state="translated" phase-name="translation-1">Rugsat ber</target>
+      </trans-unit>
+      <trans-unit id="simkit-bt-call_prompt-call_nowCall now" xml:space="preserve" approved="yes">
+        <source>Call now</source>
+        <target state="translated" phase-name="translation-1">Häzir jaň et</target>
+      </trans-unit>
+      <trans-unit id="simkit-la-you-entered-n-charactersYou entered %n characters." xml:space="preserve" approved="yes">
+        <source>You entered %n characters.</source>
+        <target state="translated" phase-name="translation-1">%n nyşan girizdiňiz.</target>
+      </trans-unit>
+      <trans-unit id="simkit-la-too-few-charactersPlease enter at least %n characters." xml:space="preserve" approved="yes">
+        <source>Please enter at least %n characters.</source>
+        <target state="translated" phase-name="translation-1">Iň azyndan %n nyşan giriziň.</target>
+      </trans-unit>
+      <trans-unit id="simkit-la-too-many-charactersPlease enter no more than %n characters." xml:space="preserve" approved="yes">
+        <source>Please enter no more than %n characters.</source>
+        <target state="translated" phase-name="translation-1">%n nyşandan köp girizmäň.</target>
+      </trans-unit>
+      <trans-unit id="simkit-la-numbers-onlyPlease enter numbers only" xml:space="preserve" approved="yes">
+        <source>Please enter numbers only</source>
+        <target state="translated" phase-name="translation-1">Diňe belgi giriziň</target>
+      </trans-unit>
+      <trans-unit id="simkit-bt-okOK" xml:space="preserve" approved="yes">
+        <source>OK</source>
+        <target state="translated" phase-name="translation-1">OK</target>
+      </trans-unit>
+      <trans-unit id="simkit-bt-yesYes" xml:space="preserve" approved="yes">
+        <source>Yes</source>
+        <target state="translated" phase-name="translation-1">Hawa</target>
+      </trans-unit>
+      <trans-unit id="simkit-bt-noNo" xml:space="preserve" approved="yes">
+        <source>No</source>
+        <target state="translated" phase-name="translation-1">Ýok</target>
+      </trans-unit>
+      <trans-unit id="simkit-ap-nameSIM Application" xml:space="preserve" approved="yes">
+        <source>SIM Application</source>
+        <target state="translated" phase-name="translation-1">SIM goýma</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

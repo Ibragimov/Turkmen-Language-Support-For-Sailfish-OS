@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="ambience-origami.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-freshFresh">
+        <source>Fresh</source>
+        <target state="translated">Täze</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-affectionAffection">
+        <source>Affection</source>
+        <target state="translated">Yzgyt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-urbanUrban">
+        <source>Urban</source>
+        <target state="translated">Şäher äheňi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-harmonyHarmony">
+        <source>Harmony</source>
+        <target state="translated">Utgaşyklyk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-intenseIntense">
+        <source>Intense</source>
+        <target state="translated">Gyzgalaňly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-vigorousVigorous">
+        <source>Vigorous</source>
+        <target state="translated">Gujurly</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-origamiFreedom">
+        <source>Freedom</source>
+        <target state="translated">Azatlyk</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

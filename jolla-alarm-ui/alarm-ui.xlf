@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file original="alarm-ui.ts" datatype="plaintext" target-language="tk" source-language="en-US">
+    <header>
+      <phase-group>
+        <phase tool-id="lokalize-19.04.3" process-name="translation" phase-name="translation-1" contact-email="victor.ibragimov@gmail.com" contact-name="Victor Ibragimov" date="2019-12-04"/>
+      </phase-group>
+      <tool tool-id="lokalize-19.04.3" tool-version="19.04.3" tool-name="Lokalize"/>
+    </header>
+    <body>
+      <trans-unit id="alarm-ui-me-alarm_dialog_dismissDismiss" approved="yes" xml:space="preserve">
+        <source>Dismiss</source>
+        <target phase-name="translation-1" state="translated">Aýyr</target>
+      </trans-unit>
+      <trans-unit id="alarm-ui-me-alarm_dialog_snoozeSnooze" approved="yes" xml:space="preserve">
+        <source>Snooze</source>
+        <target phase-name="translation-1" state="translated">Soňa goý</target>
+      </trans-unit>
+      <trans-unit id="alarm-ui-me-alarm_dialog_showEventShow event" approved="yes" xml:space="preserve">
+        <source>Show event</source>
+        <target phase-name="translation-1" state="translated">Çäre görkez</target>
+      </trans-unit>
+      <trans-unit id="alarm-ui-la-nowNow" approved="yes" xml:space="preserve">
+        <source>Now</source>
+        <target phase-name="translation-1" state="translated">Häzir</target>
+      </trans-unit>
+      <trans-unit id="alarm-ui-minutes_to_eventIn %n minutes" approved="yes" xml:space="preserve">
+        <source>In %n minutes</source>
+        <target phase-name="translation-1" state="translated">%n minutdan</target>
+      </trans-unit>
+      <trans-unit id="alarm-ui-hours_to_eventIn %n hours" approved="yes" xml:space="preserve">
+        <source>In %n hours</source>
+        <target phase-name="translation-1" state="translated">%n sagatdan</target>
+      </trans-unit>
+      <trans-unit id="alarm-ui-hour_part_to_event%n hours" approved="yes" xml:space="preserve">
+        <source>%n hours</source>
+        <target phase-name="translation-1" state="translated">%n sagat</target>
+      </trans-unit>
+      <trans-unit id="alarm-ui-minute_part_to_event%n minutes" approved="yes" xml:space="preserve">
+        <source>%n minutes</source>
+        <target phase-name="translation-1" state="translated">%n minut</target>
+      </trans-unit>
+      <trans-unit id="alarm-ui-la-pattern_hours_and_minutes_to_eventIn %1 %2" approved="yes" xml:space="preserve">
+        <source>In %1 %2</source>
+        <target phase-name="translation-1" state="translated">%1 %2-da</target>
+        <note from="developer">N hours and N minutes to alarm, %1 is replaced with hour_part_to_event, %2 with minute_part_to_event</note>
+      </trans-unit>
+      <trans-unit id="alarm-ui-la-tomorrowTomorrow" approved="yes" xml:space="preserve">
+        <source>Tomorrow</source>
+        <target phase-name="translation-1" state="translated">Ertir</target>
+      </trans-unit>
+      <trans-unit id="alarm-ui-la-all_dayAll day" approved="yes" xml:space="preserve">
+        <source>All day</source>
+        <target phase-name="translation-1" state="translated">Tutuş gün</target>
+      </trans-unit>
+      <trans-unit id="alarm-ui-me-alarm_dialog_start_time_end_time%1-%2" approved="yes" xml:space="preserve">
+        <source>%1-%2</source>
+        <target phase-name="translation-1" state="translated">%1 - %2</target>
+        <note from="developer">Pattern for calendar event time %1 is start time, %2 is end time</note>
+      </trans-unit>
+      <trans-unit id="alarm-ui-la-multi_day_all_day_pattern%1 -\n%2" approved="yes" xml:space="preserve">
+        <source>%1 -\n%2</source>
+        <target phase-name="translation-1" state="translated">%1 -\n%2</target>
+        <note from="developer">Pattern for displaying start and end date on a calendar reminder (days not equal) %1 replaced with start date string, %2 with end. \n can be used for new line</note>
+      </trans-unit>
+      <trans-unit id="alarm-ui-la-multi_day_pattern%1\n%2 -\n%3\n%4" approved="yes" xml:space="preserve">
+        <source>%1\n%2 -\n%3\n%4</source>
+        <target phase-name="translation-1" state="translated">%1\n%2 -\n%3\n%4</target>
+        <note from="developer">Pattern for displaying date and time for event start and end %1 = start date, %2 = start time, %3 = end date, %4 = end time, \n can be used for new line</note>
+      </trans-unit>
+      <trans-unit id="alarm-ui-me-alarm_dialog_callCall" approved="yes" xml:space="preserve">
+        <source>Call</source>
+        <target phase-name="translation-1" state="translated">Jaň etmek</target>
+      </trans-unit>
+      <trans-unit id="alarm-ui-alarm_dialog_call_backCall back" approved="yes" xml:space="preserve">
+        <source>Call back</source>
+        <target phase-name="translation-1" state="translated">Yzyna jaň et</target>
+      </trans-unit>
+      <trans-unit id="alarm-ui-alarm_dialog_call_reminderCall reminder" approved="yes" xml:space="preserve">
+        <source>Call reminder</source>
+        <target phase-name="translation-1" state="translated">Jaň ýatladyjy</target>
+      </trans-unit>
+      <trans-unit id="alarm-la-hourshour(s)" approved="yes" xml:space="preserve">
+        <source>hour(s)</source>
+        <target phase-name="translation-1" state="translated">sagat</target>
+        <note from="developer">"text part of '3 hour(s)'"</note>
+      </trans-unit>
+      <trans-unit id="alarm-la-minutesminute(s)" approved="yes" xml:space="preserve">
+        <source>minute(s)</source>
+        <target phase-name="translation-1" state="translated">minut</target>
+        <note from="developer">"text part of '3 minute(s)'"</note>
+      </trans-unit>
+      <trans-unit id="alarm-la-secondssecond(s)" approved="yes" xml:space="preserve">
+        <source>second(s)</source>
+        <target phase-name="translation-1" state="translated">sekunt</target>
+        <note from="developer">"text part of '3 second(s)'"</note>
+      </trans-unit>
+      <trans-unit id="alarm-la-hours_and_minutes%1 %2" approved="yes" xml:space="preserve">
+        <source>%1 %2</source>
+        <target phase-name="translation-1" state="translated">%1 %2</target>
+        <note from="developer">Order of "2 hours 1 minute", when composed of strings "2 hours" and "1 minute"</note>
+      </trans-unit>
+      <trans-unit id="alarm-la-minutes_and_seconds%1 %2" approved="yes" xml:space="preserve">
+        <source>%1 %2</source>
+        <target phase-name="translation-1" state="translated">%1 %2</target>
+        <note from="developer">Order of "1 minute 12 seconds", when composed of strings "1 minute" and "12 seconds"</note>
+      </trans-unit>
+      <trans-unit id="alarm-ui-la-missed_alarmsMissed alarms" approved="yes" xml:space="preserve">
+        <source>Missed alarms</source>
+        <target phase-name="translation-1" state="translated">Alynmadyk oýaryjylar</target>
+      </trans-unit>
+      <trans-unit id="jolla-alarm-ui-missed_clock_alarmMissed clock alarm" approved="yes" xml:space="preserve">
+        <source>Missed clock alarm</source>
+        <target phase-name="translation-1" state="translated">Alynmadyk sagat oýaryjy</target>
+      </trans-unit>
+      <trans-unit id="alarm-ui-la-missed_calendar_alarmsMissed calendar alarms" approved="yes" xml:space="preserve">
+        <source>Missed calendar alarms</source>
+        <target phase-name="translation-1" state="translated">Alynmadyk senenama oýaryjy</target>
+      </trans-unit>
+      <trans-unit id="jolla-alarm-ui-missed_untitled_calendar_alarmUntitled event" approved="yes" xml:space="preserve">
+        <source>Untitled event</source>
+        <target phase-name="translation-1" state="translated">Atsyz çäre</target>
+      </trans-unit>
+      <trans-unit id="jolla-alarm-ui-missed_calendar_alarm" approved="yes" xml:space="preserve">
+        <source></source>
+        <target state="translated"></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

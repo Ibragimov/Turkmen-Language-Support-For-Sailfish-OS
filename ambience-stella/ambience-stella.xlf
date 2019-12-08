@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="ambience-stella.ts" source-language="en-US" datatype="plaintext" target-language="tg">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="ambience-stella-nameStella">
+        <source>Stella</source>
+        <target state="translated">Stella</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stella-ringtoneStella Theme">
+        <source>Stella Theme</source>
+        <target state="translated">Stella mowzuk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stella-imtoneStella IM">
+        <source>Stella IM</source>
+        <target state="translated">Stella IM</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stella-chattoneStella Chat">
+        <source>Stella Chat</source>
+        <target state="translated">Stella söhbeti</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stella-emailtoneStella Email">
+        <source>Stella Email</source>
+        <target state="translated">Stella e-poçta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stella-messagetoneStella Message">
+        <source>Stella Message</source>
+        <target state="translated">Stella hat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stella-calendar-alarmStella Calendar">
+        <source>Stella Calendar</source>
+        <target state="translated">Stella senenama</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stella-clock-alarmStella Clock">
+        <source>Stella Clock</source>
+        <target state="translated">Stella sagat</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

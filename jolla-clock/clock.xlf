@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file datatype="plaintext" target-language="tk" source-language="en-US" original="clock.ts">
+    <header>
+      <phase-group>
+        <phase phase-name="translation-1" date="2019-12-07" contact-email="victor.ibragimov@gmail.com" process-name="translation" contact-name="Victor Ibragimov" tool-id="lokalize-19.04.3"/>
+      </phase-group>
+      <tool tool-version="19.04.3" tool-name="Lokalize" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="jolla-clock-start_with_ap" approved="yes" xml:space="preserve">
+        <source></source>
+        <target state="translated"></target>
+        <note from="developer">"translate as non-empty if am/pm indicator starts the 12h time pattern"</note>
+      </trans-unit>
+      <trans-unit id="jolla-clock-12h_time_pattern_without_aph:mm" approved="yes" xml:space="preserve">
+        <source>h:mm</source>
+        <target phase-name="translation-1" state="translated">ss:mm</target>
+        <note from="developer">Pattern for 12h time, h, hh, m, mm are supported, everything else left as is. escaping with ' not supported</note>
+      </trans-unit>
+      <trans-unit id="jolla-clock-la-amAM" approved="yes" xml:space="preserve">
+        <source>AM</source>
+        <target phase-name="translation-1" state="translated">GÖ</target>
+      </trans-unit>
+      <trans-unit id="jolla-clock-la-pmPM" approved="yes" xml:space="preserve">
+        <source>PM</source>
+        <target phase-name="translation-1" state="translated">GS</target>
+      </trans-unit>
+      <trans-unit id="jolla-clock-la-stopwatchStopwatch" approved="yes" xml:space="preserve">
+        <source>Stopwatch</source>
+        <target phase-name="translation-1" state="translated">Sekundomer</target>
+      </trans-unit>
+      <trans-unit id="jolla-clock-la-in_n_secondsin %n second(s)" approved="yes" xml:space="preserve">
+        <source>in %n second(s)</source>
+        <target phase-name="translation-1" state="translated">%n sekuntdan</target>
+      </trans-unit>
+      <trans-unit id="clock-me-new_alarmNew alarm" approved="yes" xml:space="preserve">
+        <source>New alarm</source>
+        <target phase-name="translation-1" state="translated">Täze oýaryjy</target>
+      </trans-unit>
+      <trans-unit id="clock-la-pull_down_to_save_alarmsPull down to save some alarms" approved="yes" xml:space="preserve">
+        <source>Pull down to save some alarms</source>
+        <target phase-name="translation-1" state="translated">Käbir oýaryjylary ýazdyrmak üçin, aşak çekiň</target>
+      </trans-unit>
+      <trans-unit id="clock-me-resetReset" approved="yes" xml:space="preserve">
+        <source>Reset</source>
+        <target phase-name="translation-1" state="translated">Nol et</target>
+      </trans-unit>
+      <trans-unit id="clock-me-editEdit" approved="yes" xml:space="preserve">
+        <source>Edit</source>
+        <target phase-name="translation-1" state="translated">Düzetmek</target>
+      </trans-unit>
+      <trans-unit id="clock-me-deleteDelete" approved="yes" xml:space="preserve">
+        <source>Delete</source>
+        <target phase-name="translation-1" state="translated">Pozmak</target>
+      </trans-unit>
+      <trans-unit id="clock-la-alarmAlarm" approved="yes" xml:space="preserve">
+        <source>Alarm</source>
+        <target phase-name="translation-1" state="translated">Oýaryjy</target>
+      </trans-unit>
+      <trans-unit id="clock-la-timerTimer" approved="yes" xml:space="preserve">
+        <source>Timer</source>
+        <target phase-name="translation-1" state="translated">Taýmer</target>
+      </trans-unit>
+      <trans-unit id="clock-he-saveSave" approved="yes" xml:space="preserve">
+        <source>Save</source>
+        <target phase-name="translation-1" state="translated">Ýazdyrmak</target>
+        <note from="developer">Dialog accept text</note>
+      </trans-unit>
+      <trans-unit id="clock-la-hour_shorth" approved="yes" xml:space="preserve">
+        <source>h</source>
+        <target phase-name="translation-1" state="translated">s</target>
+        <note from="developer">"Hour abbrevation. Should be short form if possible."</note>
+      </trans-unit>
+      <trans-unit id="clock-la-minutes_shortmin" approved="yes" xml:space="preserve">
+        <source>min</source>
+        <target phase-name="translation-1" state="translated">min</target>
+        <note from="developer">"Minute abbrevation. Should be short form if possible."</note>
+      </trans-unit>
+      <trans-unit id="clock-la-seconds_very_shorts" approved="yes" xml:space="preserve">
+        <source>s</source>
+        <target phase-name="translation-1" state="translated">sk</target>
+        <note from="developer">"Second abbrevation. Should be short form if possible."</note>
+      </trans-unit>
+      <trans-unit id="clock-he-repeat_weekdaysRepeat" approved="yes" xml:space="preserve">
+        <source>Repeat</source>
+        <target phase-name="translation-1" state="translated">Gaýtalamak</target>
+        <note from="developer">Header above days of week to repeat alarm</note>
+      </trans-unit>
+      <trans-unit id="clock-ph-alarm_nameAlarm name" approved="yes" xml:space="preserve">
+        <source>Alarm name</source>
+        <target phase-name="translation-1" state="translated">Oýaryjy ady</target>
+      </trans-unit>
+      <trans-unit id="clock-ph-timer_nameTimer name" approved="yes" xml:space="preserve">
+        <source>Timer name</source>
+        <target phase-name="translation-1" state="translated">Taýmer ady</target>
+      </trans-unit>
+      <trans-unit id="clock-la-unitsUnits" approved="yes" xml:space="preserve">
+        <source>Units</source>
+        <target phase-name="translation-1" state="translated">Birlikler</target>
+        <note from="developer">Units used to pick timer interval (hours and minutes, or minutes and seconds)</note>
+      </trans-unit>
+      <trans-unit id="clock-me-hours_and_minutesHours and minutes" approved="yes" xml:space="preserve">
+        <source>Hours and minutes</source>
+        <target phase-name="translation-1" state="translated">Sagatlar we minutlar</target>
+      </trans-unit>
+      <trans-unit id="clock-me-minutes_and_secondsMinutes and seconds" approved="yes" xml:space="preserve">
+        <source>Minutes and seconds</source>
+        <target phase-name="translation-1" state="translated">Minutlar we sekuntlar</target>
+      </trans-unit>
+      <trans-unit id="clock-la-timer_writing_directionLTR" approved="yes" xml:space="preserve">
+        <source>LTR</source>
+        <target phase-name="translation-1" state="translated">LTR</target>
+        <note from="developer">Can have two values: "LTR" if remaining time in timer item should be written in "[value] [unit]" order i.e. "2 min", or "RTL" i.e. right-to-left like in Arabic writing systems</note>
+      </trans-unit>
+      <trans-unit id="clock-la-minute_shortmin" approved="yes" xml:space="preserve">
+        <source>min</source>
+        <target phase-name="translation-1" state="translated">min</target>
+      </trans-unit>
+      <trans-unit id="clock-la-seconds_shortsec" approved="yes" xml:space="preserve">
+        <source>sec</source>
+        <target phase-name="translation-1" state="translated">sek</target>
+      </trans-unit>
+      <trans-unit id="clock-la-days%0 day(s)" approved="yes" xml:space="preserve">
+        <source>%0 day(s)</source>
+        <target phase-name="translation-1" state="translated">%0 gün</target>
+        <note from="developer">E.g. "1 day" or "4 days", used in a sentence like "Expiring in 1 day, 2 hours and 3 minutes"</note>
+      </trans-unit>
+      <trans-unit id="clock-la-hours%0 hour(s)" approved="yes" xml:space="preserve">
+        <source>%0 hour(s)</source>
+        <target phase-name="translation-1" state="translated">%0 sagat</target>
+        <note from="developer">E.g. "1 hour", "3 hours", used in a sentence like "Expiring in 1 hours and 2 minutes"</note>
+      </trans-unit>
+      <trans-unit id="clock-la-minutes%0 minute(s)" approved="yes" xml:space="preserve">
+        <source>%0 minute(s)</source>
+        <target phase-name="translation-1" state="translated">%0 minut</target>
+        <note from="developer">E.g. "1 minute", "15 minutes", used in a sentence like "Expiring in 4 days, 12 hours and 30 minutes"</note>
+      </trans-unit>
+      <trans-unit id="clock-la-expiring_in_days_hours_minutesExpiring in %0, %1 and %2" approved="yes" xml:space="preserve">
+        <source>Expiring in %0, %1 and %2</source>
+        <target phase-name="translation-1" state="translated">%0, %1 we %2-den möhleti gutarýar</target>
+        <note from="developer">E.g. Expiring in 2 days, 3 hours and 1 minute, time measurements are localized separately</note>
+      </trans-unit>
+      <trans-unit id="clock-la-expiring_in_hours_minutesExpiring in %0 and %1" approved="yes" xml:space="preserve">
+        <source>Expiring in %0 and %1</source>
+        <target phase-name="translation-1" state="translated">%0 we %1-den möhleti gutarýar</target>
+        <note from="developer">E.g. Expiring in 1 hour and 13 minutes, time measurements are localized separately</note>
+      </trans-unit>
+      <trans-unit id="clock-la-expiring_in_minutesExpiring in %0" approved="yes" xml:space="preserve">
+        <source>Expiring in %0</source>
+        <target phase-name="translation-1" state="translated">%0-dan möhleti gutarýar</target>
+        <note from="developer">E.g. Expiring in 26 minutes, time measurements are localized separately</note>
+      </trans-unit>
+      <trans-unit id="clock-he-timersTimers" approved="yes" xml:space="preserve">
+        <source>Timers</source>
+        <target phase-name="translation-1" state="translated">Taýmerler</target>
+        <note from="developer">Title of Timers tab page showing saved timers</note>
+      </trans-unit>
+      <trans-unit id="clock-he-alarmsAlarms" approved="yes" xml:space="preserve">
+        <source>Alarms</source>
+        <target phase-name="translation-1" state="translated">Oýaryjylar</target>
+        <note from="developer">Title of Alarms tab page showing saved alarms</note>
+      </trans-unit>
+      <trans-unit id="clock-he-stopwatchStopwatch" approved="yes" xml:space="preserve">
+        <source>Stopwatch</source>
+        <target phase-name="translation-1" state="translated">Sekundomer</target>
+        <note from="developer">Title of Stopwatch tab page with stopwatch counter</note>
+      </trans-unit>
+      <trans-unit id="jolla-clock-le-lapLap" approved="yes" xml:space="preserve">
+        <source>Lap</source>
+        <target phase-name="translation-1" state="translated">Aýlaw</target>
+        <note from="developer">Stopwatch lap</note>
+      </trans-unit>
+      <trans-unit id="jolla-clock-le-totalTotal" approved="yes" xml:space="preserve">
+        <source>Total</source>
+        <target phase-name="translation-1" state="translated">Jemi</target>
+        <note from="developer">Stopwatch total time</note>
+      </trans-unit>
+      <trans-unit id="clock-me-reset_allReset all" approved="yes" xml:space="preserve">
+        <source>Reset all</source>
+        <target phase-name="translation-1" state="translated">Ähli nol et</target>
+      </trans-unit>
+      <trans-unit id="clock-me-new_timerNew timer" approved="yes" xml:space="preserve">
+        <source>New timer</source>
+        <target phase-name="translation-1" state="translated">Täze taýmer</target>
+      </trans-unit>
+      <trans-unit id="clock-la-pull_down_to_save_timersPull down to save some timers" approved="yes" xml:space="preserve">
+        <source>Pull down to save some timers</source>
+        <target phase-name="translation-1" state="translated">Käbir taýmerleri saklamak üçin, aşak çekiň</target>
+      </trans-unit>
+      <trans-unit id="jolla-clock-la-set_time_hintRotate glowing dots to set the time" approved="yes" xml:space="preserve">
+        <source>Rotate glowing dots to set the time</source>
+        <target phase-name="translation-1" state="translated">Wagt bellemek üçin, ýalpyldaýan nokatlary towlaň</target>
+        <note from="developer">Rotate glowing dots to set the time</note>
+      </trans-unit>
+      <trans-unit id="clock_settings-he-clockClock" approved="yes" xml:space="preserve">
+        <source>Clock</source>
+        <target phase-name="translation-1" state="translated">Sagat</target>
+      </trans-unit>
+      <trans-unit id="clock_settings-la-snooze_durationSnooze duration" approved="yes" xml:space="preserve">
+        <source>Snooze duration</source>
+        <target phase-name="translation-1" state="translated">Dowamlylygy soňa goý</target>
+      </trans-unit>
+      <trans-unit id="clock-ap-nameClock" approved="yes" xml:space="preserve">
+        <source>Clock</source>
+        <target phase-name="translation-1" state="translated">Sagat</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="tutorial-intex.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="tutorial-la-recap_home_with_intex_partnerspacesNow you known how to navigate between Lock screen, Home, Events, Snapdeal and Gaana.">
+        <source>Now you known how to navigate between Lock screen, Home, Events, Snapdeal and Gaana.</source>
+        <target state="translated">Indi siz Gulply ekranyň, Öý, Çäreler, Snapdeal we Gaana arasynda nähili geçirmelidigini bilýärsiňiz.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tutorial-la-recap_home_with_index_partnerspaces_leftYou can also swipe left in Home to access Gaana and Snapdeal faster.">
+        <source>You can also swipe left in Home to access Gaana and Snapdeal faster.</source>
+        <target state="translated">Gaana we Snapdeal-a has çalt girmek üçin, Öý-de çepe syryp hem bilersiňiz.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tutorial-la-partnerspace_gaanaGaana">
+        <source>Gaana</source>
+        <target state="translated">Gaana</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tutorial-la-partnerspace_snapdealSnapdeal">
+        <source>Snapdeal</source>
+        <target state="translated">Snapdeal</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file target-language="tk" source-language="en-US" datatype="plaintext" original="sailfish_components_bluetooth_qt5.ts">
+    <header>
+      <phase-group>
+        <phase phase-name="translation-1" process-name="translation" contact-email="victor.ibragimov@gmail.com" contact-name="Victor Ibragimov" tool-id="lokalize-19.04.3" date="2019-12-02"/>
+      </phase-group>
+      <tool tool-version="19.04.3" tool-name="Lokalize" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="components_bluetooth-me-device_settingsDevice settings" xml:space="preserve" approved="yes">
+        <source>Device settings</source>
+        <target phase-name="translation-1" state="translated">Enjam sazlamalary görkez</target>
+        <note from="developer">Show settings for the selected bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-me-detailsDetails" xml:space="preserve" approved="yes">
+        <source>Details</source>
+        <target phase-name="translation-1" state="translated">Jikme-jikler</target>
+        <note from="developer">Show info for the selected bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-me-pairing_removeRemove pairing" xml:space="preserve" approved="yes">
+        <source>Remove pairing</source>
+        <target phase-name="translation-1" state="translated">Jübütleme aýyr</target>
+        <note from="developer">Remove the pairing with the selected bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-me-device_forgetForget device" xml:space="preserve" approved="yes">
+        <source>Forget device</source>
+        <target phase-name="translation-1" state="translated">Enjam ýatdan aýyr</target>
+        <note from="developer">Forget the selected bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-la-connectedConnected" xml:space="preserve" approved="yes">
+        <source>Connected</source>
+        <target phase-name="translation-1" state="translated">Birikdirilen</target>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-la-connectingConnecting" xml:space="preserve" approved="yes">
+        <source>Connecting</source>
+        <target phase-name="translation-1" state="translated">Birikdirilýär...</target>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-la-paired-devicesPaired devices" xml:space="preserve" approved="yes">
+        <source>Paired devices</source>
+        <target phase-name="translation-1" state="translated">Jübütlenen enjamlar</target>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-he-discoveringSearching for devices" xml:space="preserve" approved="yes">
+        <source>Searching for devices</source>
+        <target phase-name="translation-1" state="translated">Enjamlar gözlenilýär...</target>
+        <note from="developer">Informs user that we are currently searching for nearby Bluetooth devices</note>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-he-nearby_devices_headerNearby devices" xml:space="preserve" approved="yes">
+        <source>Nearby devices</source>
+        <target phase-name="translation-1" state="translated">Golaýdaky enjamlar</target>
+        <note from="developer">List of bluetooth devices found nearby</note>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-la-select_deviceSelect device" xml:space="preserve" approved="yes">
+        <source>Select device</source>
+        <target phase-name="translation-1" state="translated">Enjamy saklaň</target>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-me-pull_down_to_discoverSearch for devices" xml:space="preserve" approved="yes">
+        <source>Search for devices</source>
+        <target phase-name="translation-1" state="translated">Enjamlary gözle</target>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-me-start_discoverySearch for devices" xml:space="preserve" approved="yes">
+        <source>Search for devices</source>
+        <target phase-name="translation-1" state="translated">Enjamlary gözle</target>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-la-bluetooth_device_typeType" xml:space="preserve" approved="yes">
+        <source>Type</source>
+        <target phase-name="translation-1" state="translated">Görnüş</target>
+        <note from="developer">Type of bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-la-bluetooth_not_availableBluetooth not available" xml:space="preserve" approved="yes">
+        <source>Bluetooth not available</source>
+        <target phase-name="translation-1" state="translated">Bluetooth elýeterli däl</target>
+        <note from="developer">Shown when system Bluetooth functionality is not available</note>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-la-other_unrecognized_profilesother unrecognized profiles" xml:space="preserve" approved="yes">
+        <source>other unrecognized profiles</source>
+        <target phase-name="translation-1" state="translated">tanylmaýan profiller</target>
+        <note from="developer">Shown in place of the Bluetooth profile name for non-standard profiles</note>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-la-profilesSupported profiles: %1" xml:space="preserve" approved="yes">
+        <source>Supported profiles: %1</source>
+        <target phase-name="translation-1" state="translated">Goldanylýan profiller: %1</target>
+        <note from="developer">List of bluetooth profiles that are supported by this bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-la-low_energy_servicesLow Energy services: %1" xml:space="preserve" approved="yes">
+        <source>Low Energy services: %1</source>
+        <target phase-name="translation-1" state="translated">Pes energiýaly hyzmatlar: %1</target>
+        <note from="developer">List of bluetooth low energy services that this bluetooth device has</note>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-he-paired_devicePaired device" xml:space="preserve" approved="yes">
+        <source>Paired device</source>
+        <target phase-name="translation-1" state="translated">Jübütlenen enjam</target>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-he-nearby_deviceNearby device" xml:space="preserve" approved="yes">
+        <source>Nearby device</source>
+        <target phase-name="translation-1" state="translated">Golaýdaky enjam</target>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-la-device_nameDevice name" xml:space="preserve" approved="yes">
+        <source>Device name</source>
+        <target phase-name="translation-1" state="translated">Enjam ady</target>
+        <note from="developer">Name or nickname of bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-la-device_nicknameNickname" xml:space="preserve" approved="yes">
+        <source>Nickname</source>
+        <target phase-name="translation-1" state="translated">Enjam lakamy</target>
+        <note from="developer">Placeholder test for bluetooth device nickname</note>
+      </trans-unit>
+      <trans-unit id="components_bluetooth-la-bluetooth_always_allow_connectionsAlways allow connections from this device" xml:space="preserve" approved="yes">
+        <source>Always allow connections from this device</source>
+        <target phase-name="translation-1" state="translated">Bu enjamdan birikmelere hemişe rugsat ber</target>
+        <note from="developer">Whether a Bluetooth device may connect to this device without user confirmation</note>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-uncategorized_typeOther" xml:space="preserve" approved="yes">
+        <source>Other</source>
+        <target phase-name="translation-1" state="translated">Başga</target>
+        <note from="developer">Uncategorized Bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-computer_typeComputer" xml:space="preserve" approved="yes">
+        <source>Computer</source>
+        <target phase-name="translation-1" state="translated">Kompýuter</target>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-phone_typePhone" xml:space="preserve" approved="yes">
+        <source>Phone</source>
+        <target phase-name="translation-1" state="translated">Telefon</target>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-positioning_typePositioning" xml:space="preserve" approved="yes">
+        <source>Positioning</source>
+        <target phase-name="translation-1" state="translated">Ýerleşdirme</target>
+        <note from="developer">Positioning-type Bluetooth device (e.g. GPS)</note>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-camera_typeCamera" xml:space="preserve" approved="yes">
+        <source>Camera</source>
+        <target phase-name="translation-1" state="translated">Kamera</target>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-network_typeNetwork" xml:space="preserve" approved="yes">
+        <source>Network</source>
+        <target phase-name="translation-1" state="translated">Tor</target>
+        <note from="developer">Network-type Bluetooth device (e.g. wireless access point)</note>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-headset_typeHeadset" xml:space="preserve" approved="yes">
+        <source>Headset</source>
+        <target phase-name="translation-1" state="translated">Garnitura</target>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-speaker_typeSpeaker" xml:space="preserve" approved="yes">
+        <source>Speaker</source>
+        <target phase-name="translation-1" state="translated">Dinamik</target>
+        <note from="developer">Sound speaker Bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-car_kit_typeCar Kit" xml:space="preserve" approved="yes">
+        <source>Car Kit</source>
+        <target phase-name="translation-1" state="translated">Ulag toplumy</target>
+        <note from="developer">Car kit Bluetooth device (provides in-car audio)</note>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-multimedia_typeMultimedia" xml:space="preserve" approved="yes">
+        <source>Multimedia</source>
+        <target phase-name="translation-1" state="translated">Multimedia</target>
+        <note from="developer">Multimedia-type Bluetooth device (e.g. speakers, visual displays)</note>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-mouse_typeMouse" xml:space="preserve" approved="yes">
+        <source>Mouse</source>
+        <target phase-name="translation-1" state="translated">Syçanjyk</target>
+        <note from="developer">Mouse-type Bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-keyboard_typeKeyboard" xml:space="preserve" approved="yes">
+        <source>Keyboard</source>
+        <target phase-name="translation-1" state="translated">Klawiatura</target>
+        <note from="developer">Keyboard-type Bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-game_controller_typeGame controller" xml:space="preserve" approved="yes">
+        <source>Game controller</source>
+        <target phase-name="translation-1" state="translated">Oýun dolandyryjy</target>
+        <note from="developer">Game controller type Bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-toy_typeToy" xml:space="preserve" approved="yes">
+        <source>Toy</source>
+        <target phase-name="translation-1" state="translated">Oýunjak</target>
+        <note from="developer">Toy-type Bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-watch_typeWatch" xml:space="preserve" approved="yes">
+        <source>Watch</source>
+        <target phase-name="translation-1" state="translated">Sagat</target>
+        <note from="developer">Watch-type Bluetooth device</note>
+      </trans-unit>
+      <trans-unit id="sailfish_bluetooth-la-tablet_typeTablet" xml:space="preserve" approved="yes">
+        <source>Tablet</source>
+        <target phase-name="translation-1" state="translated">Planşet</target>
+        <note from="developer">Tablet-type Bluetooth device</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

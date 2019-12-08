@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file original="sailfish_components_pickers_qt5.ts" datatype="plaintext" target-language="tk" source-language="en-US">
+    <header>
+      <phase-group>
+        <phase tool-id="lokalize-19.04.3" process-name="translation" phase-name="translation-1" contact-email="victor.ibragimov@gmail.com" contact-name="Victor Ibragimov" date="2019-12-04"/>
+      </phase-group>
+      <tool tool-id="lokalize-19.04.3" tool-version="19.04.3" tool-name="Lokalize"/>
+    </header>
+    <body>
+      <trans-unit id="components_pickers-ph-search_documentsSearch documents" approved="yes" xml:space="preserve">
+        <source>Search documents</source>
+        <target phase-name="translation-1" state="translated">Resminamalary gözle</target>
+        <note from="developer">Placeholder text of document search field in content picker</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-la-no-documents-on-deviceCopy some documents to device" approved="yes" xml:space="preserve">
+        <source>Copy some documents to device</source>
+        <target phase-name="translation-1" state="translated">Käbir resminamalary enjama göçür</target>
+        <note from="developer">Empty state text if no documents available. This should be positive and inspiring for the user.</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-he-select_documentSelect document" approved="yes" xml:space="preserve">
+        <source>Select document</source>
+        <target phase-name="translation-1" state="translated">Resminama saýlaň</target>
+      </trans-unit>
+      <trans-unit id="components_pickers-he-select_downloadsSelect downloads" approved="yes" xml:space="preserve">
+        <source>Select downloads</source>
+        <target phase-name="translation-1" state="translated">Göçürip almalary saýla</target>
+      </trans-unit>
+      <trans-unit id="components_pickers-ph-search_downloadsSearch downloads" approved="yes" xml:space="preserve">
+        <source>Search downloads</source>
+        <target phase-name="translation-1" state="translated">Göçürip almalary gözle</target>
+        <note from="developer">Placeholder text of downloads search field in content picker</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-la-no-downloads-on-deviceNo downloaded files" approved="yes" xml:space="preserve">
+        <source>No downloaded files</source>
+        <target phase-name="translation-1" state="translated">Göçürilip alynan faýl ýok</target>
+        <note from="developer">Empty state text if no downloads available. This should be positive and inspiring for the user.</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-he-select_locationSelect location" approved="yes" xml:space="preserve">
+        <source>Select location</source>
+        <target phase-name="translation-1" state="translated">Ýerleşiş saýla</target>
+      </trans-unit>
+      <trans-unit id="components_pickers-he-select_imageSelect image" approved="yes" xml:space="preserve">
+        <source>Select image</source>
+        <target phase-name="translation-1" state="translated">Surat saýla</target>
+      </trans-unit>
+      <trans-unit id="components_pickers-ph-search_imagesSearch images" approved="yes" xml:space="preserve">
+        <source>Search images</source>
+        <target phase-name="translation-1" state="translated">Suratlar gözle</target>
+        <note from="developer">Images search field placeholder text</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-la-no-images-on-deviceTake some photos" approved="yes" xml:space="preserve">
+        <source>Take some photos</source>
+        <target phase-name="translation-1" state="translated">Birnäçe forosuraty al</target>
+        <note from="developer">Empty state text if no images available. This should be positive and inspiring for the user.</note>
+      </trans-unit>
+      <trans-unit id="components_media-li-unkown_artistUnknown artist" approved="yes" xml:space="preserve">
+        <source>Unknown artist</source>
+        <target phase-name="translation-1" state="translated">Näbelli aýdymçy</target>
+        <note from="developer">Translation for empty artist name metadata in music picker</note>
+      </trans-unit>
+      <trans-unit id="components_media-li-unkown_albumUnknown album" approved="yes" xml:space="preserve">
+        <source>Unknown album</source>
+        <target phase-name="translation-1" state="translated">Näbelli albom</target>
+        <note from="developer">Translation for empty album title metadata in music picker</note>
+      </trans-unit>
+      <trans-unit id="components_media-li-unkown_songUnknown song" approved="yes" xml:space="preserve">
+        <source>Unknown song</source>
+        <target phase-name="translation-1" state="translated">Näbelli aýdym</target>
+        <note from="developer">Translation for empty song name metadata in music picker</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-ph-search_musicSearch music" approved="yes" xml:space="preserve">
+        <source>Search music</source>
+        <target phase-name="translation-1" state="translated">Aýdym-saz gözle</target>
+        <note from="developer">Placeholder text of music search field in content picker</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-la-no-music-on-deviceCopy some music to device" approved="yes" xml:space="preserve">
+        <source>Copy some music to device</source>
+        <target phase-name="translation-1" state="translated">Käbir aýdym-sazy enjama göçür</target>
+        <note from="developer">Empty state text if no music available. This should be positive and inspiring for the user.</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-ph-search_videosSearch videos" approved="yes" xml:space="preserve">
+        <source>Search videos</source>
+        <target phase-name="translation-1" state="translated">Wideolary gözle</target>
+        <note from="developer">Videos search field placeholder text</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-la-no-videos-on-deviceCopy some videos to device" approved="yes" xml:space="preserve">
+        <source>Copy some videos to device</source>
+        <target phase-name="translation-1" state="translated">Käbir wideolary enjama göçür</target>
+        <note from="developer">Empty state text if no videos available. This should be positive and inspiring for the user.</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-he-select_musicSelect music" approved="yes" xml:space="preserve">
+        <source>Select music</source>
+        <target phase-name="translation-1" state="translated">Aýdym-saz saýla</target>
+      </trans-unit>
+      <trans-unit id="components_pickers-he-avatar_picker_titleSelect avatar" approved="yes" xml:space="preserve">
+        <source>Select avatar</source>
+        <target phase-name="translation-1" state="translated">Awatar saýlaň</target>
+        <note from="developer">Title for avatar picker for selecting avatar</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-li-document_categoryDocuments" approved="yes" xml:space="preserve">
+        <source>Documents</source>
+        <target phase-name="translation-1" state="translated">Resminamalar</target>
+        <note from="developer">Documents category name for list item</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-li-images_categoryImages" approved="yes" xml:space="preserve">
+        <source>Images</source>
+        <target phase-name="translation-1" state="translated">Suratlar</target>
+        <note from="developer">Images category name for list item</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-li-videos_categoryVideos" approved="yes" xml:space="preserve">
+        <source>Videos</source>
+        <target phase-name="translation-1" state="translated">Wideolar</target>
+        <note from="developer">Videos category name for list item</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-li-music_categoryMusic" approved="yes" xml:space="preserve">
+        <source>Music</source>
+        <target phase-name="translation-1" state="translated">Aýdym-saz</target>
+        <note from="developer">Music category name for list item</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-li-downloads_categoryDownloads" approved="yes" xml:space="preserve">
+        <source>Downloads</source>
+        <target phase-name="translation-1" state="translated">Göçürimler</target>
+        <note from="developer">Downloads category name for list item</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-li-file_system_categoryFile system" approved="yes" xml:space="preserve">
+        <source>File system</source>
+        <target phase-name="translation-1" state="translated">Faýl ulgamy</target>
+        <note from="developer">File system category name for list item</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-me-hide_hidden_filesHide hidden files" approved="yes" xml:space="preserve">
+        <source>Hide hidden files</source>
+        <target phase-name="translation-1" state="translated">Gizlenen faýllary gizle</target>
+      </trans-unit>
+      <trans-unit id="components_pickers-me-show_hidden_filesShow hidden files" approved="yes" xml:space="preserve">
+        <source>Show hidden files</source>
+        <target phase-name="translation-1" state="translated">Gizlenen faýllary görkez</target>
+      </trans-unit>
+      <trans-unit id="components_pickers-me-sortSort" approved="yes" xml:space="preserve">
+        <source>Sort</source>
+        <target phase-name="translation-1" state="translated">Sortla</target>
+      </trans-unit>
+      <trans-unit id="components_pickers-ph-no_matching_filesNo files match filter" approved="yes" xml:space="preserve">
+        <source>No files match filter</source>
+        <target phase-name="translation-1" state="translated">Filtre deň gelýän faýllar ýok</target>
+        <note from="developer">Empty state text if no files match the filter</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-ph-empty_folderEmpty folder" approved="yes" xml:space="preserve">
+        <source>Empty folder</source>
+        <target phase-name="translation-1" state="translated">Boş bukja</target>
+        <note from="developer">Empty state text if the directory contains no content</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-ph-unreadable_locationThe location cannot be accessed" approved="yes" xml:space="preserve">
+        <source>The location cannot be accessed</source>
+        <target phase-name="translation-1" state="translated">Ýerleşişe girip bolmaýar</target>
+        <note from="developer">Empty state text if the path is not readable by the application</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-la-file_details%1, %2" approved="yes" xml:space="preserve">
+        <source>%1, %2</source>
+        <target phase-name="translation-1" state="translated">%1, %2</target>
+        <note from="developer">Shows size and modification date, e.g. "15.5MB, 02/03/2016"</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-la-parent_folderParent folder" approved="yes" xml:space="preserve">
+        <source>Parent folder</source>
+        <target phase-name="translation-1" state="translated">Uly bukja</target>
+      </trans-unit>
+      <trans-unit id="components_pickers-la-system_filesSystem files" approved="yes" xml:space="preserve">
+        <source>System files</source>
+        <target phase-name="translation-1" state="translated">Ulgam faýllar</target>
+      </trans-unit>
+      <trans-unit id="components_pickers-la-home_folderHome folder" approved="yes" xml:space="preserve">
+        <source>Home folder</source>
+        <target phase-name="translation-1" state="translated">Öý bukja</target>
+      </trans-unit>
+      <trans-unit id="components_pickers-la-memory_cardMemory card" approved="yes" xml:space="preserve">
+        <source>Memory card</source>
+        <target phase-name="translation-1" state="translated">Ýat kartasy</target>
+      </trans-unit>
+      <trans-unit id="components_pickers-he-multiselect_dialog_backBack" approved="yes" xml:space="preserve">
+        <source>Back</source>
+        <target phase-name="translation-1" state="translated">Yza</target>
+        <note from="developer">Dialog header cancel text as "Back"</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-he-multipicker_acceptAccept %n" approved="yes" xml:space="preserve">
+        <source>Accept %n</source>
+        <target phase-name="translation-1" state="translated">%n kabut et</target>
+        <note from="developer">Multi content picker number of selected content items</note>
+      </trans-unit>
+      <trans-unit id="components_pickers-he-select_videoSelect video" approved="yes" xml:space="preserve">
+        <source>Select video</source>
+        <target phase-name="translation-1" state="translated">Wideo saýla</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

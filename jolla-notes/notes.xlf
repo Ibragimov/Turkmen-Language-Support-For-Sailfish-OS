@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+  <file original="notes.ts" target-language="tk" source-language="en-US" datatype="plaintext">
+    <header>
+      <phase-group>
+        <phase process-name="translation" contact-email="victor.ibragimov@gmail.com" tool-id="lokalize-19.04.3" contact-name="Victor Ibragimov" phase-name="translation-1" date="2019-11-29"/>
+      </phase-group>
+      <tool tool-name="Lokalize" tool-version="19.04.3" tool-id="lokalize-19.04.3"/>
+    </header>
+    <body>
+      <trans-unit id="notes-de-nameNotes" xml:space="preserve" approved="yes">
+        <source>Notes</source>
+        <target state="translated" phase-name="translation-1">Bellikler</target>
+        <note from="developer">Application name in desktop file</note>
+      </trans-unit>
+      <trans-unit id="notes-ph-default-note-namenote" xml:space="preserve" approved="yes">
+        <source>note</source>
+        <target state="translated" phase-name="translation-1">bellik</target>
+        <note from="developer">Placeholder name for note filename</note>
+      </trans-unit>
+      <trans-unit id="notes-me-note-colorChange color" xml:space="preserve" approved="yes">
+        <source>Change color</source>
+        <target state="translated" phase-name="translation-1">Reňk üýtget</target>
+      </trans-unit>
+      <trans-unit id="notes-me-delete-noteDelete" xml:space="preserve" approved="yes">
+        <source>Delete</source>
+        <target state="translated" phase-name="translation-1">Pozmak</target>
+        <note from="developer">Delete this note from note page</note>
+      </trans-unit>
+      <trans-unit id="notes-me-share-noteShare" xml:space="preserve" approved="yes">
+        <source>Share</source>
+        <target state="translated" phase-name="translation-1">Paýlaş</target>
+        <note from="developer">This menu option can be used to share the note via Bluetooth</note>
+      </trans-unit>
+      <trans-unit id="notes-he-share-noteShare note" xml:space="preserve" approved="yes">
+        <source>Share note</source>
+        <target state="translated" phase-name="translation-1">Bellik paýlaş</target>
+        <note from="developer">Page header for share method selection</note>
+      </trans-unit>
+      <trans-unit id="notes-me-new-noteNew note" xml:space="preserve" approved="yes">
+        <source>New note</source>
+        <target state="translated" phase-name="translation-1">Täze bellik</target>
+        <note from="developer">Create a new note ready for editing</note>
+      </trans-unit>
+      <trans-unit id="notes-ph-empty-noteWrite a note..." xml:space="preserve" approved="yes">
+        <source>Write a note...</source>
+        <target state="translated" phase-name="translation-1">Bellik ýaz...</target>
+        <note from="developer">Placeholder text for new notes. At this point there's nothing else on the screen.</note>
+      </trans-unit>
+      <trans-unit id="notes-la-could_not_find_anythingSorry, we couldn't find anything" xml:space="preserve" approved="yes">
+        <source>Sorry, we couldn't find anything</source>
+        <target state="translated" phase-name="translation-1">Bagyşlaň, biz hiç zat tapyp bilmedik</target>
+      </trans-unit>
+      <trans-unit id="notes-la-overview-placeholderWrite a note" xml:space="preserve" approved="yes">
+        <source>Write a note</source>
+        <target state="translated" phase-name="translation-1">Sizde hiç bellik ýok. Biri goşmak üçin rollik menýu aç.</target>
+        <note from="developer">Comforting text when overview is empty</note>
+      </trans-unit>
+      <trans-unit id="notes-me-searchSearch" xml:space="preserve" approved="yes">
+        <source>Search</source>
+        <target state="translated" phase-name="translation-1">Gözle</target>
+      </trans-unit>
+      <trans-unit id="notes-la-deleteDelete" xml:space="preserve" approved="yes">
+        <source>Delete</source>
+        <target state="translated" phase-name="translation-1">Pozmak</target>
+        <note from="developer">Delete this note from overview</note>
+      </trans-unit>
+      <trans-unit id="notes-la-move-to-topMove to top" xml:space="preserve" approved="yes">
+        <source>Move to top</source>
+        <target state="translated" phase-name="translation-1">Ýokaryk geçiň</target>
+        <note from="developer">Move this note to be first in the list</note>
+      </trans-unit>
+      <trans-unit id="settings_notes-he-notesNotes" xml:space="preserve" approved="yes">
+        <source>Notes</source>
+        <target state="translated" phase-name="translation-1">Bellikler</target>
+        <note from="developer">Notes settings page header</note>
+      </trans-unit>
+      <trans-unit id="settings_notes-he-sharing_formatSharing format" xml:space="preserve" approved="yes">
+        <source>Sharing format</source>
+        <target state="translated" phase-name="translation-1">Paýlaşma formaty</target>
+      </trans-unit>
+      <trans-unit id="settings_notes-la-plain-textPlain-text" xml:space="preserve" approved="yes">
+        <source>Plain-text</source>
+        <target state="translated" phase-name="translation-1">Tekiz tekst</target>
+        <note from="developer">Whether to transfer notes as plain text files</note>
+      </trans-unit>
+      <trans-unit id="settings_notes-la-vnotevNote" xml:space="preserve" approved="yes">
+        <source>vNote</source>
+        <target state="translated" phase-name="translation-1">vNote</target>
+        <note from="developer">Whether to transfer notes as vNote files</note>
+      </trans-unit>
+      <trans-unit id="settings_notes-la-vnote_descriptionNotes sent in vNote format may not be readable by the recipient" xml:space="preserve" approved="yes">
+        <source>Notes sent in vNote format may not be readable by the recipient</source>
+        <target state="translated" phase-name="translation-1">vNote formatda iberilen bellikler alyjy tarapyndan okalmazlygy mümkin</target>
+        <note from="developer">Description informing the user of the disadvantes of using vNote format for sharing</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
