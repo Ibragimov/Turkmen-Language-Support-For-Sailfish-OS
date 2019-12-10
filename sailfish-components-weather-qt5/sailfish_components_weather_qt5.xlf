@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish_components_weather_qt5.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-loading_failedLoading failed">
+        <source>Loading failed</source><seg-source><mrk mtype="seg" mid="1">Loading failed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Maglumaty ýüklemekde bir näsazlyk ýüze çykdy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-loadingLoading">
+        <source>Loading</source><seg-source><mrk mtype="seg" mid="2">Loading</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Ýüklenilýär</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-try_againTry again">
+        <source>Try again</source><seg-source><mrk mtype="seg" mid="3">Try again</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Täzeden synanyşyň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-powered_byPowered by">
+        <source>Powered by</source><seg-source><mrk mtype="seg" mid="4">Powered by</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">Platforma:</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-no_networkNo network">
+        <source>No network</source><seg-source><mrk mtype="seg" mid="5">No network</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Tor ýok</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-retryRetry">
+        <source>Retry</source><seg-source><mrk mtype="seg" mid="6">Retry</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Ýene synanyşyň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-weather_loading_failedLoading failed">
+        <source>Loading failed</source><seg-source><mrk mtype="seg" mid="7">Loading failed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Maglumaty ýüklemekde bir näsazlyk ýüze çykdy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-weather_loadingLoading">
+        <source>Loading</source><seg-source><mrk mtype="seg" mid="8">Loading</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">Ýüklenilýär</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-weather_todayWeather today">
+        <source>Weather today</source><seg-source><mrk mtype="seg" mid="9">Weather today</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Şu gün howa</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-weather_forecastWeather forecast">
+        <source>Weather forecast</source><seg-source><mrk mtype="seg" mid="10">Weather forecast</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Howa ýagdaýy çaklamasy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-mmmm">
+        <source>mm</source><seg-source><mrk mtype="seg" mid="11">mm</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">mm</mrk></target>
+        
+      <note from="developer">Millimeters, short form</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-precipitationPrecipitation">
+        <source>Precipitation</source><seg-source><mrk mtype="seg" mid="12">Precipitation</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">Ygal ýagma</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-m_per_sm/s">
+        <source>m/s</source><seg-source><mrk mtype="seg" mid="13">m/s</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">m/sek</mrk></target>
+        
+      <note from="developer">Meters per second, short form</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-daily_low_temperatureLow %1">
+        <source>Low %1</source><seg-source><mrk mtype="seg" mid="14">Low %1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Pes %1</mrk></target>
+        
+      <note from="developer">Shows daily low temperature as label, e.g. "Low -3°". Degree symbol comes from outside.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-weather_stationWeather station">
+        <source>Weather station</source><seg-source><mrk mtype="seg" mid="15">Weather station</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">Howa stansiýasy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-weather_station_order%0, %1">
+        <source>%0, %1</source><seg-source><mrk mtype="seg" mid="16">%0, %1</mrk></seg-source>
+        <target state="needs-translation"><mrk mtype="seg" mid="16">%0, %1</mrk></target>
+        
+      <note from="developer">Order of weather location string, "State, Country", e.g. "Finland, Helsinki"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-weather_dateDate">
+        <source>Date</source><seg-source><mrk mtype="seg" mid="17">Date</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Sene</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-cloudinessCloudiness">
+        <source>Cloudiness</source><seg-source><mrk mtype="seg" mid="18">Cloudiness</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">Bulutlylyk</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-precipitationratePrecipitation rate">
+        <source>Precipitation rate</source><seg-source><mrk mtype="seg" mid="19">Precipitation rate</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">Ygaly tizligi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-precipitationtypePrecipitation type">
+        <source>Precipitation type</source><seg-source><mrk mtype="seg" mid="20">Precipitation type</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">Ygaly görnüşi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-todayToday">
+        <source>Today</source><seg-source><mrk mtype="seg" mid="21">Today</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="21">Şu gün</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-date_pattern_shortweekdaysddd">
+        <source>ddd</source><seg-source><mrk mtype="seg" mid="22">ddd</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="22">ggg</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-current_locationCurrent location">
+        <source>Current location</source><seg-source><mrk mtype="seg" mid="23">Current location</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="23">Häzirki ýerleşiş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-precipitation_noneNo precipitation">
+        <source>No precipitation</source><seg-source><mrk mtype="seg" mid="24">No precipitation</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="24">Ygaly ýok</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-precipitation_slightSlight precipitation">
+        <source>Slight precipitation</source><seg-source><mrk mtype="seg" mid="25">Slight precipitation</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="25">Ýuwaş ygaly</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-precipitation_showersShowers">
+        <source>Showers</source><seg-source><mrk mtype="seg" mid="26">Showers</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="26">Çabgalar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-precipitation_normalPrecipitation">
+        <source>Precipitation</source><seg-source><mrk mtype="seg" mid="27">Precipitation</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="27">Ygal ýagma</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-precipitation_thunderThunder">
+        <source>Thunder</source><seg-source><mrk mtype="seg" mid="28">Thunder</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="28">Gök gümmürdili tupanlar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-precipitationtype_noneNone">
+        <source>None</source><seg-source><mrk mtype="seg" mid="29">None</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="29">Ýok</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-precipitationtype_rainRain">
+        <source>Rain</source><seg-source><mrk mtype="seg" mid="30">Rain</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="30">Ýagyş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-precipitationtype_sleetSleet">
+        <source>Sleet</source><seg-source><mrk mtype="seg" mid="31">Sleet</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="31">Ýaşly gar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-precipitationtype_snowSnow">
+        <source>Snow</source><seg-source><mrk mtype="seg" mid="32">Snow</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="32">Gar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_clearClear">
+        <source>Clear</source><seg-source><mrk mtype="seg" mid="33">Clear</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="33">Arssalamak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_mostly_clearMostly clear">
+        <source>Mostly clear</source><seg-source><mrk mtype="seg" mid="34">Mostly clear</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="34">Esasan açyk</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_partly_cloudyPartly cloudy">
+        <source>Partly cloudy</source><seg-source><mrk mtype="seg" mid="35">Partly cloudy</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="35">Bölek bulutly</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_cloudyCloudy">
+        <source>Cloudy</source><seg-source><mrk mtype="seg" mid="36">Cloudy</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="36">Bulutly</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_overcastOvercast">
+        <source>Overcast</source><seg-source><mrk mtype="seg" mid="37">Overcast</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="37">Bulutly</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description-thin_high_cloudsThin high clouds">
+        <source>Thin high clouds</source><seg-source><mrk mtype="seg" mid="38">Thin high clouds</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="38">Inçe ýokary bulutlar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description-fogFog">
+        <source>Fog</source><seg-source><mrk mtype="seg" mid="39">Fog</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="39">Ümür</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_partly_cloudy_and_light_rainPartly cloudy and light rain">
+        <source>Partly cloudy and light rain</source><seg-source><mrk mtype="seg" mid="40">Partly cloudy and light rain</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="40">Bölek bulutly we ýuwaş ýagyş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_cloudy_and_light_rainCloudy and light rain">
+        <source>Cloudy and light rain</source><seg-source><mrk mtype="seg" mid="41">Cloudy and light rain</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="41">Bulutly we ýuwaş ýagyş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_overcast_and_light_rainOvercast and light rain">
+        <source>Overcast and light rain</source><seg-source><mrk mtype="seg" mid="42">Overcast and light rain</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="42">Bulutly we ýuwaş ýagyş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_partly_cloudy_and_showersPartly cloudy and showers">
+        <source>Partly cloudy and showers</source><seg-source><mrk mtype="seg" mid="43">Partly cloudy and showers</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="43">Bölek bulutly we çagbalar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_cloudy_and_showersCloudy and showers">
+        <source>Cloudy and showers</source><seg-source><mrk mtype="seg" mid="44">Cloudy and showers</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="44">Bulutly we çagbalar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_overcast_and_showersOvercast and showers">
+        <source>Overcast and showers</source><seg-source><mrk mtype="seg" mid="45">Overcast and showers</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="45">Bulutly we çagbalar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_overcast_and_rainOvercast and rain">
+        <source>Overcast and rain</source><seg-source><mrk mtype="seg" mid="46">Overcast and rain</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="46">Bulutly we ýagyş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_partly_cloudy_possible_thunderstorms_with_rainPartly cloudy, possible thunderstorms with rain">
+        <source>Partly cloudy, possible thunderstorms with rain</source><seg-source><mrk mtype="seg" mid="47">Partly cloudy, possible thunderstorms with rain</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="47">Bölek bulutly, ýagyş bilen gök gümmürdili tupanlar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_cloudy_thunderstorms_with_rainCloudy, thunderstorms with rain">
+        <source>Cloudy, thunderstorms with rain</source><seg-source><mrk mtype="seg" mid="48">Cloudy, thunderstorms with rain</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="48">Bulutly, ýagyş bilen gök gümmürdili tupanlar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_overcast_thunderstorms_with_rainOvercast, thunderstorms with rain">
+        <source>Overcast, thunderstorms with rain</source><seg-source><mrk mtype="seg" mid="49">Overcast, thunderstorms with rain</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="49">Bulutly, ýagyş bilen gök gümmürdili tupanlar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_partly_cloudy_and_light_wet_snowPartly cloudy and light wet snow">
+        <source>Partly cloudy and light wet snow</source><seg-source><mrk mtype="seg" mid="50">Partly cloudy and light wet snow</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="50">Bölek bulutly we ýuwaş ýaşly gar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_cloudy_and_light_wet_snowCloudy and light wet snow">
+        <source>Cloudy and light wet snow</source><seg-source><mrk mtype="seg" mid="51">Cloudy and light wet snow</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="51">Bulutly we ýuwaş ýaşly gar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_overcast_and_light_wet_snowOvercast and light wet snow">
+        <source>Overcast and light wet snow</source><seg-source><mrk mtype="seg" mid="52">Overcast and light wet snow</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="52">Bulutly we ýuwaş ýaşly gar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_partly_cloudy_and_wet_snow_showersPartly cloudy and wet snow showers">
+        <source>Partly cloudy and wet snow showers</source><seg-source><mrk mtype="seg" mid="53">Partly cloudy and wet snow showers</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="53">Bölek bulutly we ýaşly gar çagbalar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_cloudy_and_wet_snow_showersCloudy and wet snow showers">
+        <source>Cloudy and wet snow showers</source><seg-source><mrk mtype="seg" mid="54">Cloudy and wet snow showers</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="54">Bulutly we ýaşly gar çagbalar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_overcast_and_wet_snow_showersOvercast and wet snow showers">
+        <source>Overcast and wet snow showers</source><seg-source><mrk mtype="seg" mid="55">Overcast and wet snow showers</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="55">Bulutly we ýaşly gar çagbalar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_overcast_and_wet_snowOvercast and wet snow">
+        <source>Overcast and wet snow</source><seg-source><mrk mtype="seg" mid="56">Overcast and wet snow</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="56">Bulutly we ýaşly gar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_partly_cloudy_and_light_snowPartly cloudy and light snow">
+        <source>Partly cloudy and light snow</source><seg-source><mrk mtype="seg" mid="57">Partly cloudy and light snow</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="57">Bölek bulutly we ýuwaş gar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_cloudy_and_light_snowCloudy and light snow">
+        <source>Cloudy and light snow</source><seg-source><mrk mtype="seg" mid="58">Cloudy and light snow</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="58">Bulutly we ýuwaş gar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_overcast_and_light_snowOvercast and light snow">
+        <source>Overcast and light snow</source><seg-source><mrk mtype="seg" mid="59">Overcast and light snow</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="59">Bulutly we ýuwaş gar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_partly_cloudy_and_snow_showersPartly cloudy and snow showers">
+        <source>Partly cloudy and snow showers</source><seg-source><mrk mtype="seg" mid="60">Partly cloudy and snow showers</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="60">Bölek bulutly we garly çagbalar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_cloudy_and_snow_showersCloudy and snow showers">
+        <source>Cloudy and snow showers</source><seg-source><mrk mtype="seg" mid="61">Cloudy and snow showers</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="61">Bulutly we gar çagbalar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_overcast_and_snow_showersOvercast and snow showers">
+        <source>Overcast and snow showers</source><seg-source><mrk mtype="seg" mid="62">Overcast and snow showers</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="62">Bulutly we gar çagbalar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-la-description_overcast_and_snowOvercast and snow">
+        <source>Overcast and snow</source><seg-source><mrk mtype="seg" mid="63">Overcast and snow</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="63">Bulutly we gar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-me-more_informationMore information">
+        <source>More information</source><seg-source><mrk mtype="seg" mid="64">More information</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="64">Goşmaça maglumat</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weather-me-updateUpdate">
+        <source>Update</source><seg-source><mrk mtype="seg" mid="65">Update</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="65">Täzelemek</mrk></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

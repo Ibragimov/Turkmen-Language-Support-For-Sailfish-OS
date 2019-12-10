@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="jolla-mediaplayer.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-new-playlistNew playlist">
+        <source>New playlist</source><seg-source><mrk mtype="seg" mid="1">New playlist</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Täze aýtdyryjy sanaw</mrk></target>
+        
+      <note from="developer">Menu label for adding a new playlist
+----------
+Playlists list item in the main view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-searchSearch">
+        <source>Search</source><seg-source><mrk mtype="seg" mid="2">Search</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Gözlemek</mrk></target>
+        
+      <note from="developer">Search menu entry</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-he-add-to-playlistAdd to">
+        <source>Add to</source><seg-source><mrk mtype="seg" mid="3">Add to</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Şu ýere goş</mrk></target>
+        
+      <note from="developer">page header for the Playlists page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-tf-playlists-searchSearch playlist">
+        <source>Search playlist</source><seg-source><mrk mtype="seg" mid="4">Search playlist</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">Pleýlist gözle</mrk></target>
+        
+      <note from="developer">Playlists search field placeholder text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-empty-searchNo items found">
+        <source>No items found</source><seg-source><mrk mtype="seg" mid="5">No items found</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Element tapylmady</mrk></target>
+        
+      <note from="developer">Placeholder text for an empty search view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-create-a-playlistCreate a playlist">
+        <source>Create a playlist</source><seg-source><mrk mtype="seg" mid="6">Create a playlist</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Pleýlist döret</mrk></target>
+        
+      <note from="developer">Placeholder text for an empty playlists view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-ap-nameMedia">
+        <source>Media</source><seg-source><mrk mtype="seg" mid="7">Media</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Media</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-le-number-of-songs%n songs">
+        <source>%n songs</source><seg-source><mrk mtype="seg" mid="8">%n songs</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">%n aýdym</mrk></target>
+        
+      <note from="developer">This is for the playlists page. Shows the number of songs in a playlist.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-ph-playlist-namePlaylist name">
+        <source>Playlist name</source><seg-source><mrk mtype="seg" mid="9">Playlist name</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Pleýlist ady</mrk></target>
+        
+      <note from="developer">placeholder for the text field in add playlist dialog.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-he-play-queuePlay queue">
+        <source>Play queue</source><seg-source><mrk mtype="seg" mid="10">Play queue</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Nobat goýber</mrk></target>
+        
+      <note from="developer">Title for the play queue page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-tf-playlist-searchSearch song">
+        <source>Search song</source><seg-source><mrk mtype="seg" mid="11">Search song</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Aýdym gözle</mrk></target>
+        
+      <note from="developer">Playlist search field placeholder text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-playqueue-page-removeRemove">
+        <source>Remove</source><seg-source><mrk mtype="seg" mid="12">Remove</mrk></seg-source>
+        <target state="needs-translation"><mrk mtype="seg" mid="12">Aýyrmak</mrk></target>
+        
+      <note from="developer">Remove song context menu entry in playqueue page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-unknown-authorUnknown artist">
+        <source>Unknown artist</source><seg-source><mrk mtype="seg" mid="13">Unknown artist</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">Näbelli aýdymçy</mrk></target>
+        
+      <note from="developer">placeholder string for albums without a known artist</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-multiple-authorsMultiple artists">
+        <source>Multiple artists</source><seg-source><mrk mtype="seg" mid="14">Multiple artists</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Dürli aýdymçylar</mrk></target>
+        
+      <note from="developer">string for albums with multiple artists</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-unknown-albumUnknown album">
+        <source>Unknown album</source><seg-source><mrk mtype="seg" mid="15">Unknown album</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">Näbelli albom</mrk></target>
+        
+      <note from="developer">placeholder string for albums without a known name
+----------
+header for the page showing the songs that don't belong to a known album</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-unknown-artistUnknown artist">
+        <source>Unknown artist</source><seg-source><mrk mtype="seg" mid="16">Unknown artist</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Näbelli aýdymçy</mrk></target>
+        
+      <note from="developer">placeholder string to be shown for media without a known artist
+----------
+placeholder text if we don't know the artist name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-album-shuffle-allShuffle all">
+        <source>Shuffle all</source><seg-source><mrk mtype="seg" mid="17">Shuffle all</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Ählisini garyşdyr</mrk></target>
+        
+      <note from="developer">Shuffle all menu entry in album page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-tf-album-searchSearch song">
+        <source>Search song</source><seg-source><mrk mtype="seg" mid="18">Search song</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">Aýdym gözle</mrk></target>
+        
+      <note from="developer">All songs search field placeholder text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-deletingDeleting">
+        <source>Deleting</source><seg-source><mrk mtype="seg" mid="19">Deleting</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">Pozulýar...</mrk></target>
+        
+      <note from="developer">Deleting in n seconds
+----------
+Delete a playlist item</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-album-add-to-playlistAdd to playlist">
+        <source>Add to playlist</source><seg-source><mrk mtype="seg" mid="20">Add to playlist</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">Pleýliste goş</mrk></target>
+        
+      <note from="developer">Add to playlist context menu item in album page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-album-add-to-playing-queueAdd to playing queue">
+        <source>Add to playing queue</source><seg-source><mrk mtype="seg" mid="21">Add to playing queue</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="21">Nobat goýbermek üçin goş</mrk></target>
+        
+      <note from="developer">Add to playing queue context menu item in album page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-all-songs-deleteDelete">
+        <source>Delete</source><seg-source><mrk mtype="seg" mid="22">Delete</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="22">Pozmak</mrk></target>
+        
+      <note from="developer">Delete item</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-get-some-mediaGet some media">
+        <source>Get some media</source><seg-source><mrk mtype="seg" mid="23">Get some media</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="23">Elýeterli material ýok. Käbir aýdymlary öz enjamyňyza geçiriň.</mrk></target>
+        
+      <note from="developer">Placeholder text for an empty view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-he-albumsAlbums">
+        <source>Albums</source><seg-source><mrk mtype="seg" mid="24">Albums</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="24">Albomlar</mrk></target>
+        
+      <note from="developer">title for the Albums page
+----------
+title for the Artist page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-tf-albums-searchSearch album">
+        <source>Search album</source><seg-source><mrk mtype="seg" mid="25">Search album</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="25">Albom gözle</mrk></target>
+        
+      <note from="developer">Albums search field placeholder text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-all-songs-shuffle-allShuffle all">
+        <source>Shuffle all</source><seg-source><mrk mtype="seg" mid="26">Shuffle all</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="26">Ählisini garyşdyr</mrk></target>
+        
+      <note from="developer">Shuffle all menu entry in all songs page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-he-all-songsAll songs">
+        <source>All songs</source><seg-source><mrk mtype="seg" mid="27">All songs</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="27">Ähli aýdymlar</mrk></target>
+        
+      <note from="developer">Title for the all songs page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-tf-songs-searchSearch song">
+        <source>Search song</source><seg-source><mrk mtype="seg" mid="28">Search song</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="28">Aýdym gözle</mrk></target>
+        
+      <note from="developer">All songs search field placeholder text
+----------
+Artist all songs search field placeholder text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-all-songs-add-to-playlistAdd to playlist">
+        <source>Add to playlist</source><seg-source><mrk mtype="seg" mid="29">Add to playlist</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="29">Pleýliste goş</mrk></target>
+        
+      <note from="developer">Add to playlist context menu item in all songs page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-all-songs-add-to-playing-queueAdd to playing queue">
+        <source>Add to playing queue</source><seg-source><mrk mtype="seg" mid="30">Add to playing queue</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="30">Nobat goýbermek üçin goş</mrk></target>
+        
+      <note from="developer">Add to playing queue context menu item in all songs page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-artist-shuffle-allShuffle all">
+        <source>Shuffle all</source><seg-source><mrk mtype="seg" mid="31">Shuffle all</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="31">Ählisini garyşdyr</mrk></target>
+        
+      <note from="developer">Shuffle all menu entry in artist page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-artist-add-to-playlistAdd to playlist">
+        <source>Add to playlist</source><seg-source><mrk mtype="seg" mid="32">Add to playlist</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="32">Pleýliste goş</mrk></target>
+        
+      <note from="developer">Add to playlist context menu item in artist page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-artist-add-to-playing-queueAdd to playing queue">
+        <source>Add to playing queue</source><seg-source><mrk mtype="seg" mid="33">Add to playing queue</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="33">Nobat goýbermek üçin goş</mrk></target>
+        
+      <note from="developer">Add to playing queue context menu item in artist page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-show-all-artist-songsList all songs">
+        <source>List all songs</source><seg-source><mrk mtype="seg" mid="34">List all songs</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="34">Ähli aýdymlaryň sanawyny görkez</mrk></target>
+        
+      <note from="developer">List all songs of this artist</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-artist-songs-duration-hours%n hours">
+        <source>%n hours</source><seg-source><mrk mtype="seg" mid="35">%n hours</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="35">%n sagat</mrk></target>
+        
+      <note from="developer">duration in hours of the songs belonging to an artist</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-artist-songs-duration-minutes%n minutes">
+        <source>%n minutes</source><seg-source><mrk mtype="seg" mid="36">%n minutes</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="36">%n minut</mrk></target>
+        
+      <note from="developer">duration in minutes of the songs belonging to an artist</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-artist-songs-duration-hours-minutes%1, %2">
+        <source>%1, %2</source><seg-source><mrk mtype="seg" mid="37">%1, %2</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="37">%1 %2</mrk></target>
+        
+      <note from="developer">the duration shown below the artist name in the artists page, %1 is hour string ("N hours"), %2 is minute string</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-he-artistsArtists">
+        <source>Artists</source><seg-source><mrk mtype="seg" mid="38">Artists</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="38">Aýdymçylar</mrk></target>
+        
+      <note from="developer">Title for the Artists page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-tf-artists-searchSearch artist">
+        <source>Search artist</source><seg-source><mrk mtype="seg" mid="39">Search artist</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="39">Aýdymçylary gözle</mrk></target>
+        
+      <note from="developer">Artists search field placeholder text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-get-musicGet music">
+        <source>Get music</source><seg-source><mrk mtype="seg" mid="40">Get music</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="40">Aýdym-saz al</mrk></target>
+        
+      <note from="developer">Coverpage text when there are no media</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-he-mediaMedia">
+        <source>Media</source><seg-source><mrk mtype="seg" mid="41">Media</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="41">Media</mrk></target>
+        
+      <note from="developer">Title for the main page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-tf-search-mediaSearch Media">
+        <source>Search Media</source><seg-source><mrk mtype="seg" mid="42">Search Media</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="42">Multimedia elementleri gözle</mrk></target>
+        
+      <note from="developer">Main view search field placeholder text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-playlistsPlaylists">
+        <source>Playlists</source><seg-source><mrk mtype="seg" mid="43">Playlists</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="43">Pleýlistler</mrk></target>
+        
+      <note from="developer">Playlists list item in the main view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-number-of-playlists%n playlists">
+        <source>%n playlists</source><seg-source><mrk mtype="seg" mid="44">%n playlists</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="44">%n pleýlist</mrk></target>
+        
+      <note from="developer">Number of playlists</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-playlists-remove-playlistRemove playlist">
+        <source>Remove playlist</source><seg-source><mrk mtype="seg" mid="45">Remove playlist</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="45">Pleýlist aýyr</mrk></target>
+        
+      <note from="developer">Remove playlist context menu entry in playlists page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-cancel-deletionCancel">
+        <source>Cancel</source><seg-source><mrk mtype="seg" mid="46">Cancel</mrk></seg-source>
+        <target state="needs-translation"><mrk mtype="seg" mid="46">Ýatyrmak</mrk></target>
+        
+      <note from="developer">RemorseItem cancel help text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-playlist-add-to-playing-queueAdd to playing queue">
+        <source>Add to playing queue</source><seg-source><mrk mtype="seg" mid="47">Add to playing queue</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="47">Nobat goýbermek üçin goş</mrk></target>
+        
+      <note from="developer">Add to playing queue drop down menu item in playlist page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-playlist-clear-playlistClear playlist">
+        <source>Clear playlist</source><seg-source><mrk mtype="seg" mid="48">Clear playlist</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="48">Saz-sanawy boşat</mrk></target>
+        
+      <note from="developer">Clear playlist drop down menu item in playlist page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-clearingClearing">
+        <source>Clearing</source><seg-source><mrk mtype="seg" mid="49">Clearing</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="49">Aýrylýar</mrk></target>
+        
+      <note from="developer">Clearing the playlist</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-add-some-mediaAdd some media">
+        <source>Add some media</source><seg-source><mrk mtype="seg" mid="50">Add some media</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="50">Pleýlist boş. Ähli aýdymlar, Albomlar we Aýdymçylar sahypalardan pleýliste aýdymlary saýlap bilersiňiz.</mrk></target>
+        
+      <note from="developer">"Placeholder text for an empty playlist; Add songs to playlist"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-me-playlist-remove-from-playlistRemove from playlist">
+        <source>Remove from playlist</source><seg-source><mrk mtype="seg" mid="51">Remove from playlist</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="51">Pleýlistden aýryň</mrk></target>
+        
+      <note from="developer">Remove from playlist context menu item in playlist page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-he-playlistsPlaylists">
+        <source>Playlists</source><seg-source><mrk mtype="seg" mid="52">Playlists</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="52">Pleýlistler</mrk></target>
+        
+      <note from="developer">page header for the playlists page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-all-songsAll Songs">
+        <source>All Songs</source><seg-source><mrk mtype="seg" mid="53">All Songs</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="53">Ähli aýdymlar</mrk></target>
+        
+      <note from="developer">Title for the all songs plugin. Shown in the main view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-song-librarySong library">
+        <source>Song library</source><seg-source><mrk mtype="seg" mid="54">Song library</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="54">Aýdym-saz kitaphana</mrk></target>
+        
+      <note from="developer">Generic subtitle for the all songs plugin. Shown in the main view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-songs-num%n song(s)">
+        <source>%n song(s)</source><seg-source><mrk mtype="seg" mid="55">%n song(s)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="55">%n aýdym</mrk></target>
+        
+      <note from="developer">Subtitle for the all songs plugin with the amount of found songs. Shown in the main view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-songs-num-searching%n song(s) - Searching ...">
+        <source>%n song(s) - Searching ...</source><seg-source><mrk mtype="seg" mid="56">%n song(s) - Searching ...</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="56">%n aýdym - Gözlenilýär...</mrk></target>
+        
+      <note from="developer">Subtitle for the all songs plugin with the amount of found songs while searching. Shown in the main view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-albumsAlbums">
+        <source>Albums</source><seg-source><mrk mtype="seg" mid="57">Albums</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="57">Albomlar</mrk></target>
+        
+      <note from="developer">Title for the albums plugin. Shown in the main view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-album-libraryAlbum library">
+        <source>Album library</source><seg-source><mrk mtype="seg" mid="58">Album library</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="58">Albom kitaphanasy</mrk></target>
+        
+      <note from="developer">Generic subtitle for the albums plugin. Shown in the main view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-albums-num%n album(s)">
+        <source>%n album(s)</source><seg-source><mrk mtype="seg" mid="59">%n album(s)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="59">%n albom</mrk></target>
+        
+      <note from="developer">Subtitle for the the albums plugin with the amount of found albums. Shown in the main view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-albums-num-searching%n album(s) - Searching ...">
+        <source>%n album(s) - Searching ...</source><seg-source><mrk mtype="seg" mid="60">%n album(s) - Searching ...</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="60">%n albom - Gözlenilýär...</mrk></target>
+        
+      <note from="developer">Subtitle for the the albums plugin with the amount of found albums while searching. Shown in the main view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-artistsArtists">
+        <source>Artists</source><seg-source><mrk mtype="seg" mid="61">Artists</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="61">Aýdymçylar</mrk></target>
+        
+      <note from="developer">Title for the artistss plugin. Shown in the main view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-artist-libraryArtist library">
+        <source>Artist library</source><seg-source><mrk mtype="seg" mid="62">Artist library</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="62">Aýdymçy kitaphanasy</mrk></target>
+        
+      <note from="developer">Generic subtitle for the artists plugin. Shown in the main view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-artists-num%n artist(s)">
+        <source>%n artist(s)</source><seg-source><mrk mtype="seg" mid="63">%n artist(s)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="63">%n aýdymçy</mrk></target>
+        
+      <note from="developer">Subtitle for the artists plugin with the amount of found artists. Shown in the main view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mediaplayer-la-artists-num-searching%n artist(s) - Searching ...">
+        <source>%n artist(s) - Searching ...</source><seg-source><mrk mtype="seg" mid="64">%n artist(s) - Searching ...</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="64">%n aýdymçy - Gözlenilýär...</mrk></target>
+        
+      <note from="developer">Subtitle for the artists plugin with the amount of found artists while searching. Shown in the main view</note></trans-unit>
+    </body>
+  </file>
+</xliff>

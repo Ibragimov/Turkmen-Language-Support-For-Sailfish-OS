@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish_components_webview_popups_qt5.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-he-accept_alertOk">
+        <source>Ok</source><seg-source><mrk mtype="seg" mid="1">Ok</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">OK</mrk></target>
+        
+      <note from="developer">Text on the Accept dialog button that accepts browser alert messages</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-he-accept_loginLog In">
+        <source>Log In</source><seg-source><mrk mtype="seg" mid="2">Log In</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Hasaba girmek</mrk></target>
+        
+      <note from="developer">Text on the Accept dialog button that accepts browser's auth request</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-la-auth_requestedThe server %1 requires authentication. The server says: %2">
+        <source>The server %1 requires authentication. The server says: %2</source><seg-source><mrk mtype="seg" mid="3">The server %1 requires authentication. The server says: %2</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Serwer %1 hakykylyk barlagyny talap edýär. Ol diýär: %2</mrk></target>
+        
+      <note from="developer">%1 is server URL, %2 is HTTP auth realm</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-la-enter_usernameEnter your user name">
+        <source>Enter your user name</source><seg-source><mrk mtype="seg" mid="4">Enter your user name</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">Ulanyjy adyňyzy giriziň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-la-user_nameUser name">
+        <source>User name</source><seg-source><mrk mtype="seg" mid="5">User name</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Ulanyjy ady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-la-enter_passwordEnter password">
+        <source>Enter password</source><seg-source><mrk mtype="seg" mid="6">Enter password</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Paroly giriziň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-la-dont_saveDo not save">
+        <source>Do not save</source><seg-source><mrk mtype="seg" mid="7">Do not save</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Ýazdyrma</mrk></target>
+        
+      <note from="developer">Do not save the entered credentials for later use</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-la-dont_save_descriptionThe credentials you enter won't be stored for later use">
+        <source>The credentials you enter won't be stored for later use</source><seg-source><mrk mtype="seg" mid="8">The credentials you enter won't be stored for later use</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">Hasaba giriş maglumatyňyz soňra ulanmak üçin saklanylmaz</mrk></target>
+        
+      <note from="developer">Explain to the user that checking the switch will prevent entered credentials from saving</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-he-accept_confirmOk">
+        <source>Ok</source><seg-source><mrk mtype="seg" mid="9">Ok</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">OK</mrk></target>
+        
+      <note from="developer">Text on the Accept dialog button that accepts browser's confirm() messages</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-me-write-emailWrite email">
+        <source>Write email</source><seg-source><mrk mtype="seg" mid="10">Write email</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">E-poçta ibermek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-me-callCall">
+        <source>Call</source><seg-source><mrk mtype="seg" mid="11">Call</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Jaň etmek</mrk></target>
+        
+      <note from="developer">Call, context of calling via voice call</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-me-send-messageSend message">
+        <source>Send message</source><seg-source><mrk mtype="seg" mid="12">Send message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">Hat ibermek</mrk></target>
+        
+      <note from="developer">Send message (sms)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-me-open_linkOpen link">
+        <source>Open link</source><seg-source><mrk mtype="seg" mid="13">Open link</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">Baglary aç</mrk></target>
+        
+      <note from="developer">Open link in current tab</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-me-open_link_in_new_tabOpen link in a new tab">
+        <source>Open link in a new tab</source><seg-source><mrk mtype="seg" mid="14">Open link in a new tab</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Bagy täze salmada aç</mrk></target>
+        
+      <note from="developer">Open link in a new tab from browser context menu</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-me-share_linkShare">
+        <source>Share</source><seg-source><mrk mtype="seg" mid="15">Share</mrk></seg-source>
+        <target state="needs-translation"><mrk mtype="seg" mid="15">Paýlaşmak</mrk></target>
+        
+      <note from="developer">Share link from browser context menu</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-me-copy_to_clipboardCopy to clipboard">
+        <source>Copy to clipboard</source><seg-source><mrk mtype="seg" mid="16">Copy to clipboard</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Çalşyk bufere göçür</mrk></target>
+        
+      <note from="developer">Copy link to clipboard from browser context menu</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-me-save_linkSave link">
+        <source>Save link</source><seg-source><mrk mtype="seg" mid="17">Save link</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Bagy ýazdyr</mrk></target>
+        
+      <note from="developer">This menu item saves link to downloads.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-me-open_image_in_new_tabOpen image in a new tab">
+        <source>Open image in a new tab</source><seg-source><mrk mtype="seg" mid="18">Open image in a new tab</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">Suraty täze salmada aç</mrk></target>
+        
+      <note from="developer">Open image in a new tab from browser context menu</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-me-save_image_to_gallerySave to Gallery">
+        <source>Save to Gallery</source><seg-source><mrk mtype="seg" mid="19">Save to Gallery</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">Galereýada ýazdyr</mrk></target>
+        
+      <note from="developer">This menu item saves image to Gallery application</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-he-accept_locationAllow">
+        <source>Allow</source><seg-source><mrk mtype="seg" mid="20">Allow</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">Rugsat ber</mrk></target>
+        
+      <note from="developer">Allow the server to use location</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-la-location_requestedThe site '%1' wants to use your current location.">
+        <source>The site '%1' wants to use your current location.</source><seg-source><mrk mtype="seg" mid="21">The site '%1' wants to use your current location.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="21">%1 saýt häzirki ýerleşişiňizi ulanmak isleýär</mrk></target>
+        
+      <note from="developer">The site that wants know user location</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-he-accept_password_mgr_requestSave">
+        <source>Save</source><seg-source><mrk mtype="seg" mid="22">Save</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="22">Ýazdyrmak</mrk></target>
+        
+      <note from="developer">Accept browser's request to save entered password</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-la-save_passwordWould you like to save password for user %1 on %2?">
+        <source>Would you like to save password for user %1 on %2?</source><seg-source><mrk mtype="seg" mid="23">Would you like to save password for user %1 on %2?</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="23">%1 ulanyjy üçin %2-da paroly ýazdyrmak isleýärsiňizmi?</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-ls-save_password_no_userWould you like to save password on %1?">
+        <source>Would you like to save password on %1?</source><seg-source><mrk mtype="seg" mid="24">Would you like to save password on %1?</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="24">%1-da paroly ýazdyrmak isleýärsiňizmi?</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-la-update_passwordWould you like to update password for user %1?">
+        <source>Would you like to update password for user %1?</source><seg-source><mrk mtype="seg" mid="25">Would you like to update password for user %1?</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="25">%1 ulanyjy üçin paroly täzelemek isleýärsiňizmi?</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-la-update_password_no_userWould you like to update password?">
+        <source>Would you like to update password?</source><seg-source><mrk mtype="seg" mid="26">Would you like to update password?</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="26">Paroly ýazdyrmak isleýärsiňizmi?</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-he-accept_promptOk">
+        <source>Ok</source><seg-source><mrk mtype="seg" mid="27">Ok</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="27">OK</mrk></target>
+        
+      <note from="developer">Text on the Accept dialog button that accepts browser's prompt() messages</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_components_webview_popups-he-share_linkShare link">
+        <source>Share link</source><seg-source><mrk mtype="seg" mid="28">Share link</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="28">Bag paýlaş</mrk></target>
+        
+      <note from="developer">List header for link sharing method list</note></trans-unit>
+    </body>
+  </file>
+</xliff>

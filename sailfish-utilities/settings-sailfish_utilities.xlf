@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="settings-sailfish_utilities.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-tools-me-require-rebootThis action requires reboot.">
+        <source>This action requires reboot.</source><seg-source><mrk mtype="seg" mid="1">This action requires reboot.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Ýapyp açma gerek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-tools-utilitiesUtilities">
+        <source>Utilities</source><seg-source><mrk mtype="seg" mid="2">Utilities</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Hyzmat programmalary</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-utilities-me-nameSailfish Utilities">
+        <source>Sailfish Utilities</source><seg-source><mrk mtype="seg" mid="3">Sailfish Utilities</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Sailfish hyzmat programmalary</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-utilities-me-notification-ok%1: OK">
+        <source>%1: OK</source><seg-source><mrk mtype="seg" mid="4">%1: OK</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">%1: OK</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-utilities-me-notification-err%1: failed">
+        <source>%1: failed</source><seg-source><mrk mtype="seg" mid="5">%1: failed</mrk></seg-source>
+        <target state="needs-translation"><mrk mtype="seg" mid="5">%1: şowsuz</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-tools-he-backupBackup">
+        <source>Backup</source><seg-source><mrk mtype="seg" mid="6">Backup</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Ätiýaç nusga</mrk></target>
+        
+      <note from="developer">Title for backup-related recover actions</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-tools-bt-cleanClean">
+        <source>Clean</source><seg-source><mrk mtype="seg" mid="7">Clean</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Arassalamak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-utilities-me-clean-backups-descClean backup storage to free space occupied by backups. All backups will be removed">
+        <source>Clean backup storage to free space occupied by backups. All backups will be removed</source><seg-source><mrk mtype="seg" mid="8">Clean backup storage to free space occupied by backups. All backups will be removed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">Ätiýaçlandyryşlar bilen doly ýeri boşatmak üçin, ätiýaç toplaýjy arassala. Ähli ätiýaçlar aýrylar.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-utilities-me-remorse-removing-backupsRemoving backups">
+        <source>Removing backups</source><seg-source><mrk mtype="seg" mid="9">Removing backups</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Ätiýaçlar aýrylýar...</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-tools-he-packace_cachePackage cache">
+        <source>Package cache</source><seg-source><mrk mtype="seg" mid="10">Package cache</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Paket käş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-utilities-me-clean-pkg-cache-descPackage cache cleaning can be tried if there are problems with store, e.g. 'Critical problem with the app registry' error. More information can be found &lt;a href='https://together.jolla.com/question/7988/problem-with-store-unable-to-install/'&gt;here&lt;/a&gt;.">
+        <source>Package cache cleaning can be tried if there are problems with store, e.g. 'Critical problem with the app registry' error. More information can be found &lt;a href='https://together.jolla.com/question/7988/problem-with-store-unable-to-install/'&gt;here&lt;/a&gt;.</source><seg-source><mrk mtype="seg" mid="11">Package cache cleaning can be tried if there are problems with store, e.g. 'Critical problem with the app registry' error. More information can be found &lt;a href='https://together.jolla.com/question/7988/problem-with-store-unable-to-install/'&gt;here&lt;/a&gt;.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Eger "Goýma reýestr bilen möhüm mesele" näsazlyk ýaly Dükan bilen meseleler bar bolsa, Goýma reýestri täzeden gurmak synanyşyp bolýar. Goşmaça maglumat üçin &lt;a href='https://together.jolla.com/question/7988/problem-with-store-unable-to-install/'&gt;here&lt;/a&gt; salgylanyň.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-tools-he-tracker_databaseTracker database">
+        <source>Tracker database</source><seg-source><mrk mtype="seg" mid="12">Tracker database</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">Yzarlaýjy maglumat binýady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-utilities-me-clean-tracker-db-descTracker dabatabase cleaning can help in cases with missing images, audio files etc. Processes using tracker will be closed, tracker reindexing will be started. More information can be found &lt;a href='https://together.jolla.com/question/4337/refresh-tracker/'&gt;here&lt;/a&gt;.">
+        <source>Tracker dabatabase cleaning can help in cases with missing images, audio files etc. Processes using tracker will be closed, tracker reindexing will be started. More information can be found &lt;a href='https://together.jolla.com/question/4337/refresh-tracker/'&gt;here&lt;/a&gt;.</source><seg-source><mrk mtype="seg" mid="13">Tracker dabatabase cleaning can help in cases with missing images, audio files etc. Processes using tracker will be closed, tracker reindexing will be started. More information can be found &lt;a href='https://together.jolla.com/question/4337/refresh-tracker/'&gt;here&lt;/a&gt;.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">Multimedia maglumat binýady täzelemek kömek edip biler, meselem suratlar ýa-da audio faýllar ýitende. Yzarlaýjy ulanmak bilen prosessler ýapylar we yzarlaýjynyň gaýtadan indeksirleme başlar. Goşmaça maglumat üçin &lt;a href='https://together.jolla.com/question/4337/refresh-tracker/'&gt;here&lt;/a&gt; salgulanyň.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-tools-he-networkNetwork">
+        <source>Network</source><seg-source><mrk mtype="seg" mid="14">Network</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Tor</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-tools-bt-restartRestart">
+        <source>Restart</source><seg-source><mrk mtype="seg" mid="15">Restart</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">Ýapyp açmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-utilities-me-restart-network-descRestart network subsystem if anything wrong happened with connectivity (WLAN, mobile data).">
+        <source>Restart network subsystem if anything wrong happened with connectivity (WLAN, mobile data).</source><seg-source><mrk mtype="seg" mid="16">Restart network subsystem if anything wrong happened with connectivity (WLAN, mobile data).</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Birikme ukyby bilen (WLAN, mobil maglumaty) bir mesele ýüze çyksa, tor kiýi ulgamy ýapyp açyň.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-tools-he-home_screenHome Screen">
+        <source>Home Screen</source><seg-source><mrk mtype="seg" mid="17">Home Screen</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Baş ekran</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-utilities-restart-ui-descRestart Home Screen, closing all runnning applications. It'd be helpful if some application is hanged or can't be started, or user experience any issues with keyboard, clipboard, home screen etc.">
+        <source>Restart Home Screen, closing all runnning applications. It'd be helpful if some application is hanged or can't be started, or user experience any issues with keyboard, clipboard, home screen etc.</source><seg-source><mrk mtype="seg" mid="18">Restart Home Screen, closing all runnning applications. It'd be helpful if some application is hanged or can't be started, or user experience any issues with keyboard, clipboard, home screen etc.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">Baş ekrany ýapyp açylýar we ähli işleýän goýmalary ýapylýar. Eger goýma donsa ýa-da ony başladyp bolmaýar ýa-da sizde klawiaturda, çalşyk buferde, baş ekranda we ş.m. näsazlyklar bar bolsa ol kömek edip bilýär.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings-sailfish_utilitiesUtilities">
+        <source>Utilities</source><seg-source><mrk mtype="seg" mid="19">Utilities</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">Hyzmat programmalary</mrk></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

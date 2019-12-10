@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish_components_filemanager.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-deleted_extracted_dirDeleted extracted directory">
+        <source>Deleted extracted directory</source><seg-source><mrk mtype="seg" mid="1">Deleted extracted directory</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Çykarylan katalog pozuldy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-deleted_extracted_fileDeleted extracted file">
+        <source>Deleted extracted file</source><seg-source><mrk mtype="seg" mid="2">Deleted extracted file</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Çykarylan faýl pozuldy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-he-extracted_folderExtracted folder">
+        <source>Extracted folder</source><seg-source><mrk mtype="seg" mid="3">Extracted folder</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Çykarylan bukja</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-me-extractExtract">
+        <source>Extract</source><seg-source><mrk mtype="seg" mid="4">Extract</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">Çykar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-me-delete_extracted_dirDelete extracted directory">
+        <source>Delete extracted directory</source><seg-source><mrk mtype="seg" mid="5">Delete extracted directory</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Çykarylan katalogy poz</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-me-delete_extracted_fileRemove extracted file">
+        <source>Remove extracted file</source><seg-source><mrk mtype="seg" mid="6">Remove extracted file</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Çykarylan faýl pozulýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-me-extract_allExtract all">
+        <source>Extract all</source><seg-source><mrk mtype="seg" mid="7">Extract all</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Ähli çykar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-no_filesNo files">
+        <source>No files</source><seg-source><mrk mtype="seg" mid="8">No files</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">Faýl ýok</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-he-dir-infoDirectory information">
+        <source>Directory information</source><seg-source><mrk mtype="seg" mid="9">Directory information</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Katalog maglumaty</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-he-file-infoFile information">
+        <source>File information</source><seg-source><mrk mtype="seg" mid="10">File information</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Faýl maglumaty</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-he-nameName">
+        <source>Name</source><seg-source><mrk mtype="seg" mid="11">Name</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Ady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-he-sizeSize">
+        <source>Size</source><seg-source><mrk mtype="seg" mid="12">Size</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">Ölçeg</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-he-contentsContents">
+        <source>Contents</source><seg-source><mrk mtype="seg" mid="13">Contents</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">Mazmun</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-countingCounting…">
+        <source>Counting…</source><seg-source><mrk mtype="seg" mid="14">Counting…</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Sanalýar...</mrk></target>
+        
+      <note from="developer">Shown when counting number of items a directory (context menu -&gt; details)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-items%n items, totalling %1.">
+        <source>%n items, totalling %1.</source><seg-source><mrk mtype="seg" mid="15">%n items, totalling %1.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">%n element, jemi %1</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-he-typeType">
+        <source>Type</source><seg-source><mrk mtype="seg" mid="16">Type</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Görnüş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-he-modifiedModified">
+        <source>Modified</source><seg-source><mrk mtype="seg" mid="17">Modified</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Üýtgedildi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-folder_no_permission_to_accessNo permissions to access %1">
+        <source>No permissions to access %1</source><seg-source><mrk mtype="seg" mid="18">No permissions to access %1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">%1-a girmek üçin rugsat ýok</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-me-formatFormat">
+        <source>Format</source><seg-source><mrk mtype="seg" mid="19">Format</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">Format</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-me-delete_folderDelete folder">
+        <source>Delete folder</source><seg-source><mrk mtype="seg" mid="20">Delete folder</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">Bukjany aýyr</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-deleting_folderDeleting folder">
+        <source>Deleting folder</source><seg-source><mrk mtype="seg" mid="21">Deleting folder</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="21">Bukja öçürilýär...</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-me-new_folderNew folder">
+        <source>New folder</source><seg-source><mrk mtype="seg" mid="22">New folder</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="22">Täze bukja</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-me-sortSort">
+        <source>Sort</source><seg-source><mrk mtype="seg" mid="23">Sort</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="23">Sortla</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-me-pastePaste">
+        <source>Paste</source><seg-source><mrk mtype="seg" mid="24">Paste</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="24">Ýelme</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-me-detailsDetails">
+        <source>Details</source><seg-source><mrk mtype="seg" mid="25">Details</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="25">Jikme-jikler</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-me-copyCopy">
+        <source>Copy</source><seg-source><mrk mtype="seg" mid="26">Copy</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="26">Göçürmek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-me-shareShare">
+        <source>Share</source><seg-source><mrk mtype="seg" mid="27">Share</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="27">Paýlaşmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-me-deleteDelete">
+        <source>Delete</source><seg-source><mrk mtype="seg" mid="28">Delete</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="28">Pozmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-operation_already_in_progressFile operation already in progress">
+        <source>File operation already in progress</source><seg-source><mrk mtype="seg" mid="29">File operation already in progress</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="29">Faýl amaly eýýäm dowam edýär</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-copy_failedCopying failed">
+        <source>Copying failed</source><seg-source><mrk mtype="seg" mid="30">Copying failed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="30">Göçürip bolmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-deletion_failedDeletion failed">
+        <source>Deletion failed</source><seg-source><mrk mtype="seg" mid="31">Deletion failed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="31">Pozup bolmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-moving_failedMoving failed">
+        <source>Moving failed</source><seg-source><mrk mtype="seg" mid="32">Moving failed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="32">Geçirip bolmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-renaming_failedRenaming failed">
+        <source>Renaming failed</source><seg-source><mrk mtype="seg" mid="33">Renaming failed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="33">At üýtgetmek şowsuz</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-cannot_copy_into_itselfYou cannot copy into itself">
+        <source>You cannot copy into itself</source><seg-source><mrk mtype="seg" mid="34">You cannot copy into itself</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="34">Özüne göçürip bilmersiňiz</mrk></target>
+        
+      <note from="developer">Shown both when trying to copy file over itself and copying a folder into itself</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-copying_folder_failedCopying folder failed">
+        <source>Copying folder failed</source><seg-source><mrk mtype="seg" mid="35">Copying folder failed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="35">Bukja göçürip bolmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-folder_creation_failedCould not create folder">
+        <source>Could not create folder</source><seg-source><mrk mtype="seg" mid="36">Could not create folder</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="36">Bukja döredip bolmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-set_permissions_failedCould not set permission">
+        <source>Could not set permission</source><seg-source><mrk mtype="seg" mid="37">Could not set permission</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="37">Rugsat belläp bolmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-mountingMounting SD card">
+        <source>Mounting SD card</source><seg-source><mrk mtype="seg" mid="38">Mounting SD card</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="38">SD karta gurnalýar...</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-deletingDeleting">
+        <source>Deleting</source><seg-source><mrk mtype="seg" mid="39">Deleting</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="39">Pozulýar...</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-copyingCopying">
+        <source>Copying</source><seg-source><mrk mtype="seg" mid="40">Copying</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="40">Göçürilip alynýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-extractingExtracting">
+        <source>Extracting</source><seg-source><mrk mtype="seg" mid="41">Extracting</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="41">Çykarylýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-unsupported_archive_formatUnsupported archive format">
+        <source>Unsupported archive format</source><seg-source><mrk mtype="seg" mid="42">Unsupported archive format</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="42">Goldanylmaýan arhiw formaty</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-archive_not_foundArchive file is not found">
+        <source>Archive file is not found</source><seg-source><mrk mtype="seg" mid="43">Archive file is not found</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="43">Arhiw faýl tapylmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-opening_archive_failedOpening archive failed">
+        <source>Opening archive failed</source><seg-source><mrk mtype="seg" mid="44">Opening archive failed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="44">Arhiwy açyp bolmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-extract_failedExtract failed">
+        <source>Extract failed</source><seg-source><mrk mtype="seg" mid="45">Extract failed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="45">Çykarylyp bolmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-extracting_in_progressExtracting in progress">
+        <source>Extracting in progress</source><seg-source><mrk mtype="seg" mid="46">Extracting in progress</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="46">Çykarylma dowam edýär</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-directory_extractedDirectory %1 extracted">
+        <source>Directory %1 extracted</source><seg-source><mrk mtype="seg" mid="47">Directory %1 extracted</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="47">Katalog %1 çykaryldy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-file_extractedExtracted %1">
+        <source>Extracted %1</source><seg-source><mrk mtype="seg" mid="48">Extracted %1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="48">%1 çykaryldy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-archive_extracted%1 extracted">
+        <source>%1 extracted</source><seg-source><mrk mtype="seg" mid="49">%1 extracted</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="49">%1 çykaryldy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-file_details%1, %2">
+        <source>%1, %2</source><seg-source><mrk mtype="seg" mid="50">%1, %2</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="50">%1, %2</mrk></target>
+        
+      <note from="developer">Shows size and modification/created date, e.g. "15.5MB, 02/03/2016"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-copiedCopied">
+        <source>Copied</source><seg-source><mrk mtype="seg" mid="51">Copied</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="51">Göçürildi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-cannot_create_folderCannot create folder %1">
+        <source>Cannot create folder %1</source><seg-source><mrk mtype="seg" mid="52">Cannot create folder %1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="52">%1 bukja döredip bolmaýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-he-createCreate">
+        <source>Create</source><seg-source><mrk mtype="seg" mid="53">Create</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="53">Döretmek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-new_folderNew folder">
+        <source>New folder</source><seg-source><mrk mtype="seg" mid="54">New folder</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="54">Täze bukja</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-name_ascendingName ascending">
+        <source>Name ascending</source><seg-source><mrk mtype="seg" mid="55">Name ascending</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="55">Ady köpelýän tertibinde</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-name_descendingName descending">
+        <source>Name descending</source><seg-source><mrk mtype="seg" mid="56">Name descending</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="56">Ady azalýan tertibinde</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-sizeSize">
+        <source>Size</source><seg-source><mrk mtype="seg" mid="57">Size</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="57">Ölçeg</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-date_modifiedDate modified">
+        <source>Date modified</source><seg-source><mrk mtype="seg" mid="58">Date modified</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="58">Üýtgedilen senesi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-la-extensionExtension">
+        <source>Extension</source><seg-source><mrk mtype="seg" mid="59">Extension</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="59">Faýl uzaltmasy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="filemanager-he-sortSort">
+        <source>Sort</source><seg-source><mrk mtype="seg" mid="60">Sort</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="60">Şu boýunça tertiple</mrk></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfishsilica-qt5.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="components-la-default_coverDefault cover">
+        <source>Default cover</source><seg-source><mrk mtype="seg" mid="1">Default cover</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Standart gapagy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-he-choose_colorChoose color">
+        <source>Choose color</source><seg-source><mrk mtype="seg" mid="2">Choose color</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Reňk saýla</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-la-week_and_weeknumberweek %1">
+        <source>week %1</source><seg-source><mrk mtype="seg" mid="3">week %1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Hepde %1</mrk></target>
+        
+      <note from="developer">Used to show week text and week number: %1 == weeknumber</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-he-dialog_acceptAccept">
+        <source>Accept</source><seg-source><mrk mtype="seg" mid="4">Accept</mrk></seg-source>
+        <target state="needs-translation"><mrk mtype="seg" mid="4">Kabul etmek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-he-dialog_cancelCancel">
+        <source>Cancel</source><seg-source><mrk mtype="seg" mid="5">Cancel</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Ýatyrmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-bt-pausepause">
+        <source>pause</source><seg-source><mrk mtype="seg" mid="6">pause</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Sägindirmek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-la-selectSelect">
+        <source>Select</source><seg-source><mrk mtype="seg" mid="7">Select</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Saýlamak</mrk></target>
+        
+      <note from="developer">Default text of inline combo box when it's empty, also used as a dialog header when it has too many options.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-la-page_loading_failedPage loading failed">
+        <source>Page loading failed</source><seg-source><mrk mtype="seg" mid="8">Page loading failed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">Sahypany ýükläp bolmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-ph-passwordPassword">
+        <source>Password</source><seg-source><mrk mtype="seg" mid="9">Password</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Parol</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-la-passwordPassword">
+        <source>Password</source><seg-source><mrk mtype="seg" mid="10">Password</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Parol</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-la-time_start_with_ap">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">"translate as non-empty if am/pm indicator starts the 12h time pattern"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-la-12h_time_pattern_without_aph:mm">
+        <source>h:mm</source><seg-source><mrk mtype="seg" mid="11">h:mm</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">h:mm</mrk></target>
+        
+      <note from="developer">Pattern for 12h time, h, hh, m, mm are supported, everything else left as is. escaping with ' not supported</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-clock-la-amAM">
+        <source>AM</source><seg-source><mrk mtype="seg" mid="12">AM</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">GÖ</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-clock-la-pmPM">
+        <source>PM</source><seg-source><mrk mtype="seg" mid="13">PM</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">GS</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-la-deletedDeleted">
+        <source>Deleted</source><seg-source><mrk mtype="seg" mid="14">Deleted</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Öçürildi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-la-undoUndo">
+        <source>Undo</source><seg-source><mrk mtype="seg" mid="15">Undo</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">Yzyna gaýtar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-la-remorse_disappear_hintUndo banner will also disappear automatically">
+        <source>Undo banner will also disappear automatically</source><seg-source><mrk mtype="seg" mid="16">Undo banner will also disappear automatically</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Yzyna gaýtar banneri hem awtomatiki ýitip gider</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-la-swipe_left_or_right_to_return_to_homeSwipe over left or right edge to return to home">
+        <source>Swipe over left or right edge to return to home</source><seg-source><mrk mtype="seg" mid="17">Swipe over left or right edge to return to home</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Öýe dolanmak üçin, çep ýa-da sag tarapyň daşyndan syryň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-bt-show_moreShow more">
+        <source>Show more</source><seg-source><mrk mtype="seg" mid="18">Show more</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">Has köp görkez</mrk></target>
+        
+      <note from="developer">Prompt to show more of the available content</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components-ph-searchSearch">
+        <source>Search</source><seg-source><mrk mtype="seg" mid="19">Search</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">Gözlemek</mrk></target>
+        
+      <note from="developer">Placeholder text of SearchField</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-formatShortDate%1 %3">
+        <source>%1 %3</source><seg-source><mrk mtype="seg" mid="20">%1 %3</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">%1 %3</mrk></target>
+        
+      <note from="developer">Format date - %1: day number, %2: month number, %3: month short name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-weekday_monday_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Name of day 1 of the week (Monday) in standalone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-weekday_tuesday_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Name of day 2 of the week (Tuesday) in standalone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-weekday_wednesday_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Name of day 3 of the week (Wednesday) in standalone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-weekday_thursday_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Name of day 4 of the week (Thursday) in standalone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-weekday_friday_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Name of day 5 of the week (Friday) in standalone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-weekday_saturday_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Name of day 6 of the week (Saturday) in standalone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-weekday_sunday_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Name of day 7 of the week (Sunday) in standalone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-weekday_monday_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Name of day 1 of the week (Monday) in standalone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-weekday_tuesday_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Name of day 2 of the week (Tuesday) in standalone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-weekday_wednesday_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Name of day 3 of the week (Wednesday) in standalone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-weekday_thursday_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Name of day 4 of the week (Thursday) in standalone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-weekday_friday_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Name of day 5 of the week (Friday) in standalone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-weekday_saturday_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Name of day 6 of the week (Saturday) in standalone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-weekday_sunday_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Name of day 7 of the week (Sunday) in standalone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_january_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">January in stand-alone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_february_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">February in stand-alone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_march_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">March in stand-alone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_april_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">April in stand-alone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_may_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">May in stand-alone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_june_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">June in stand-alone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_july_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">July in stand-alone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_august_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">August in stand-alone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_september_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">September in stand-alone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_october_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">October in stand-alone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_november_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">November in stand-alone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_december_standalone">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">December in stand-alone form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_january_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">January in stand-alone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_february_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">February in stand-alone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_march_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">March in stand-alone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_april_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">April in stand-alone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_may_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">May in stand-alone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_june_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">June in stand-alone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_july_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">July in stand-alone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_august_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">August in stand-alone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_september_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">September in stand-alone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_october_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">October in stand-alone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_november_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">November in stand-alone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_december_standalone_capitalized">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">December in stand-alone form capitalized; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_january_standalone_short">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">January in stand-alone short form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_february_standalone_short">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">February in stand-alone short form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_march_standalone_short">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">March in stand-alone short form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_april_standalone_short">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">April in stand-alone short form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_may_standalone_short">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">May in stand-alone short form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_june_standalone_short">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">June in stand-alone short form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_july_standalone_short">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">July in stand-alone short form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_august_standalone_short">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">August in stand-alone short form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_september_standalone_short">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">September in stand-alone short form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_october_standalone_short">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">October in stand-alone short form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_november_standalone_short">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">November in stand-alone short form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-monthname_december_standalone_short">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">December in stand-alone short form; only provide this to override the locale name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-yesterdayYesterday">
+        <source>Yesterday</source><seg-source><mrk mtype="seg" mid="21">Yesterday</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="21">Düýn</mrk></target>
+        
+      <note from="developer">Events that occurred yesterday</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-olderOlder">
+        <source>Older</source><seg-source><mrk mtype="seg" mid="22">Older</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="22">Has köne</mrk></target>
+        
+      <note from="developer">Events that occurred in the oldest timeframe</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-nowJust now">
+        <source>Just now</source><seg-source><mrk mtype="seg" mid="23">Just now</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="23">Edil häzir</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-minutes-future-shortin %nm">
+        <source>in %nm</source><seg-source><mrk mtype="seg" mid="24">in %nm</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="24">%n m-dan</mrk></target>
+        
+      <note from="developer">Number of minutes in the future (short form)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-minutes-short%nm ago">
+        <source>%nm ago</source><seg-source><mrk mtype="seg" mid="25">%nm ago</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="25">%n m-dan öň</mrk></target>
+        
+      <note from="developer">Number of minutes in the past (short form)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-minutes-futurein %n minute(s)">
+        <source>in %n minute(s)</source><seg-source><mrk mtype="seg" mid="26">in %n minute(s)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="26">%n minutdan</mrk></target>
+        
+      <note from="developer">Number of minutes in the future</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-minutes%n minute(s) ago">
+        <source>%n minute(s) ago</source><seg-source><mrk mtype="seg" mid="27">%n minute(s) ago</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="27">%n minutdan öň</mrk></target>
+        
+      <note from="developer">Number of minutes in the past</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-hours-future-shortin %nh">
+        <source>in %nh</source><seg-source><mrk mtype="seg" mid="28">in %nh</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="28">%n s-dan</mrk></target>
+        
+      <note from="developer">Number of hours in the future (short form)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-hours-short%nh ago">
+        <source>%nh ago</source><seg-source><mrk mtype="seg" mid="29">%nh ago</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="29">%n s-dan öň</mrk></target>
+        
+      <note from="developer">Number of hours in the past (short form)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-hours-futurein %n hour(s)">
+        <source>in %n hour(s)</source><seg-source><mrk mtype="seg" mid="30">in %n hour(s)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="30">%n sagatdan</mrk></target>
+        
+      <note from="developer">Number of hours in the future</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-hours%n hour(s) ago">
+        <source>%n hour(s) ago</source><seg-source><mrk mtype="seg" mid="31">%n hour(s) ago</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="31">%n sagat öň</mrk></target>
+        
+      <note from="developer">Number of hours in the past</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-days-future-shortin %nd">
+        <source>in %nd</source><seg-source><mrk mtype="seg" mid="32">in %nd</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="32">%n g-den</mrk></target>
+        
+      <note from="developer">Number of days in the future (short form)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-days-short%nd ago">
+        <source>%nd ago</source><seg-source><mrk mtype="seg" mid="33">%nd ago</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="33">%n g-den öň</mrk></target>
+        
+      <note from="developer">Number of days in the past (short form)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-days-futurein %n day(s)">
+        <source>in %n day(s)</source><seg-source><mrk mtype="seg" mid="34">in %n day(s)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="34">%n günden öň</mrk></target>
+        
+      <note from="developer">Number of days in the future</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-days%n day(s) ago">
+        <source>%n day(s) ago</source><seg-source><mrk mtype="seg" mid="35">%n day(s) ago</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="35">%n gün öň</mrk></target>
+        
+      <note from="developer">Number of days in the past</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-months-future-shortin %n month(s)">
+        <source>in %n month(s)</source><seg-source><mrk mtype="seg" mid="36">in %n month(s)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="36">%n aýdan</mrk></target>
+        
+      <note from="developer">Number of months in the future (short form)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-months-short%n month(s) ago">
+        <source>%n month(s) ago</source><seg-source><mrk mtype="seg" mid="37">%n month(s) ago</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="37">%n aý öň</mrk></target>
+        
+      <note from="developer">Number of months in the past (short form)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-months-futurein %n month(s)">
+        <source>in %n month(s)</source><seg-source><mrk mtype="seg" mid="38">in %n month(s)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="38">%n aýdan</mrk></target>
+        
+      <note from="developer">Number of months in the future</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-months%n month(s) ago">
+        <source>%n month(s) ago</source><seg-source><mrk mtype="seg" mid="39">%n month(s) ago</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="39">%n aý öň</mrk></target>
+        
+      <note from="developer">Number of months in the past</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-duration_short_format">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Format duration pattern in minutes and seconds</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-duration_long_format">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Format duration pattern in hours, minutes, and seconds. Note: hours can be greater than 24</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-time_value_twelve_hours">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Format pattern to yield time value in 12-hour format; only provide this to override the standard format. Default is "h:mm AP"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-time_value_twentyfour_hours">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Format pattern to yield time value in 24-hour format; only provide this to override the standard format. Default is "hh:mm"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-date_format_full">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">allow to override pattern for full date. In addition to Qt patterns, "cccc" is allowed for stand-alone weekday</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-date_format_full_without_yearcccc, d MMMM">
+        <source>cccc, d MMMM</source><seg-source><mrk mtype="seg" mid="40">cccc, d MMMM</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="40">ýýýý, g aaaa</mrk></target>
+        
+      <note from="developer">pattern for full date without year. Should match sailfishsilica-date_format_full otherwise. In addition to Qt patterns, "cccc" is allowed for stand-alone weekday</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-date_format_longd MMMM yyyy">
+        <source>d MMMM yyyy</source><seg-source><mrk mtype="seg" mid="41">d MMMM yyyy</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="41">g AAAA ýýýý</mrk></target>
+        
+      <note from="developer">pattern for long date. In addition to Qt patterns, "cccc" is allowed for stand-alone weekday</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-date_format_mediumd MMM yyyy">
+        <source>d MMM yyyy</source><seg-source><mrk mtype="seg" mid="42">d MMM yyyy</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="42">g AAA ýýýý</mrk></target>
+        
+      <note from="developer">pattern for medium date</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-bytes%n B">
+        <source>%n B</source><seg-source><mrk mtype="seg" mid="43">%n B</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="43">%n B</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-kilobytes%1 kB">
+        <source>%1 kB</source><seg-source><mrk mtype="seg" mid="44">%1 kB</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="44">%1 KB</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-megabytes%1 MB">
+        <source>%1 MB</source><seg-source><mrk mtype="seg" mid="45">%1 MB</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="45">%1 MB</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-gigabytes%1 GB">
+        <source>%1 GB</source><seg-source><mrk mtype="seg" mid="46">%1 GB</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="46">%1 GB</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-terabytes%1 TB">
+        <source>%1 TB</source><seg-source><mrk mtype="seg" mid="47">%1 TB</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="47">%1 TB</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-formatTimepoint%1, %2">
+        <source>%1, %2</source><seg-source><mrk mtype="seg" mid="48">%1, %2</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="48">%1, %2</mrk></target>
+        
+      <note from="developer">Format timepoint - %1: short time, %2: short date</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-time_format_short_12h">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Time formatting pattern for 12h clock, e.g. "h:mm AP", see QDateTime::toString()</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfishsilica-time_format_short_24h">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Time formatting pattern for 24h clock, e.g. "hh:mm"</note></trans-unit>
+    </body>
+  </file>
+</xliff>

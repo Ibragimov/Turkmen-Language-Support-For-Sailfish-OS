@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish_components_telephony.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-telephony-la-no_simNo SIM card">
+        <source>No SIM card</source><seg-source><mrk mtype="seg" mid="1">No SIM card</mrk></seg-source>
+        <target state="needs-translation"><mrk mtype="seg" mid="1">SIM-kart ýok</mrk></target>
+        
+      <note from="developer">Short format indicating that a SIM has not been inserted into the SIM slot (aim for less than 18 characters)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-telephony-la-disabledDisabled">
+        <source>Disabled</source><seg-source><mrk mtype="seg" mid="2">Disabled</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Ýapyldy</mrk></target>
+        
+      <note from="developer">Short format indicating that a SIM is disabled (aim for less than 18 characters)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-telephony-la-lockedLocked">
+        <source>Locked</source><seg-source><mrk mtype="seg" mid="3">Locked</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Gulply</mrk></target>
+        
+      <note from="developer">Short format indicating that a SIM is locked (pin/puk not entered) (aim for less than 18 characters)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-telephony-la-no_sim_insertedNo SIM card inserted">
+        <source>No SIM card inserted</source><seg-source><mrk mtype="seg" mid="4">No SIM card inserted</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">SIM kart dakylmady</mrk></target>
+        
+      <note from="developer">Indicates a SIM has not been inserted into the SIM slot</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-telephony-la-sim_disabledSIM is disabled">
+        <source>SIM is disabled</source><seg-source><mrk mtype="seg" mid="5">SIM is disabled</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">SIM kart ýapyldy</mrk></target>
+        
+      <note from="developer">Indicates a SIM is disabled</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-telephony-la-sim_lockedSIM is locked">
+        <source>SIM is locked</source><seg-source><mrk mtype="seg" mid="6">SIM is locked</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">SIM kart gulply</mrk></target>
+        
+      <note from="developer">Indicates a SIM is locked (pin/puk not entered)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-telephony-la-no_sim_in_slot_with_nameNo SIM card in %1 slot">
+        <source>No SIM card in %1 slot</source><seg-source><mrk mtype="seg" mid="7">No SIM card in %1 slot</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">%1 öýjükde SIM-kart ýok</mrk></target>
+        
+      <note from="developer">Indicates a SIM has not been inserted into the SIM slot. %1 = the slot of the missing SIM, e.g. 'SIM1'</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-telephony-la-sim_disabled_with_name%1 is disabled">
+        <source>%1 is disabled</source><seg-source><mrk mtype="seg" mid="8">%1 is disabled</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">%1 ýapyldy</mrk></target>
+        
+      <note from="developer">Indicates a SIM is disabled. %1 = the SIM name, e.g. 'SIM1'</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-telephony-la-sim_locked_with_name%1 is locked">
+        <source>%1 is locked</source><seg-source><mrk mtype="seg" mid="9">%1 is locked</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">% 1 gulply</mrk></target>
+        
+      <note from="developer">Indicates a SIM is locked. %1 = the SIM name, e.g. 'SIM1' (pin/puk not entered)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-telephony-la-sim_operator_unknownUnknown">
+        <source>Unknown</source><seg-source><mrk mtype="seg" mid="10">Unknown</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Nämälim</mrk></target>
+        
+      <note from="developer">We don't know which operator is associated with the SIM</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-telephony-la-call-viaCall via">
+        <source>Call via</source><seg-source><mrk mtype="seg" mid="11">Call via</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Şu arkaly jaň et</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-telephony-la-send-viaSend via">
+        <source>Send via</source><seg-source><mrk mtype="seg" mid="12">Send via</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">Şeýl ibr</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-telephony-la-short_sim_identitySIM%1">
+        <source>SIM%1</source><seg-source><mrk mtype="seg" mid="13">SIM%1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">SIM%1</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-telephony-la-long_sim_identitySIM card %1">
+        <source>SIM card %1</source><seg-source><mrk mtype="seg" mid="14">SIM card %1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">SIM-kart %1</mrk></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
