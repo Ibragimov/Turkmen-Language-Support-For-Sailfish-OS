@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="commhistoryd.ts" target-language="tk" datatype="plaintext" source-language="en-US">
+    <header>
+      <phase-group>
+        <phase tool-id="lokalize-19.04.3" date="2019-12-12" phase-name="translation-1" process-name="translation" contact-name="Victor Ibragimov" contact-email="victor.ibragimov@gmail.com"/>
+      </phase-group>
+      <tool tool-id="lokalize-19.04.3" tool-name="Lokalize" tool-version="19.04.3"/>
+    </header>
+    <body>
+      <trans-unit approved="yes" id="qtn_msg_notifications_groupMessages" xml:space="preserve">
+        <source>Messages</source>
+        <target phase-name="translation-1" state="translated">Hatlar</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_errors_groupWarnings" xml:space="preserve">
+        <source>Warnings</source>
+        <target phase-name="translation-1" state="translated">Duýduryşlar</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_missed_calls_groupMissed calls" xml:space="preserve">
+        <source>Missed calls</source>
+        <target phase-name="translation-1" state="translated">Alynmadyk jaňlar</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_voicemail_groupVoicemail" xml:space="preserve">
+        <source>Voicemail</source>
+        <target phase-name="translation-1" state="translated">Sesli poçta</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_notification_new_message%n new message(s)" xml:space="preserve">
+        <source>%n new message(s)</source>
+        <target phase-name="translation-1" state="translated">%n täze hat</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_contact_card_labelContact card" xml:space="preserve">
+        <source>Contact card</source>
+        <target phase-name="translation-1" state="translated">Kontakt karta</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_received_contact_card%1 | %2" xml:space="preserve">
+        <source>%1 | %2</source>
+        <target phase-name="translation-1" state="translated">%1 | %2</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_mms_notification_attachment%n attachment(s)" xml:space="preserve">
+        <source>%n attachment(s)</source>
+        <target phase-name="translation-1" state="translated">%n goşundy</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_mms_notification_with_text%1 | %2" xml:space="preserve">
+        <source>%1 | %2</source>
+        <target state="translated">%1 | %2</target>
+        <note from="developer">Notification text for MMS. %1 is attachment text, %2 subject/message. e.g. "1 attachment | Kitty!"</note>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_call_missed%n missed call(s)" xml:space="preserve">
+        <source>%n missed call(s)</source>
+        <target phase-name="translation-1" state="translated">%n alynmadyk jaň</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_call_voicemail_notification%n voicemail(s)" xml:space="preserve">
+        <source>%n voicemail(s)</source>
+        <target phase-name="translation-1" state="translated">%n sesli poçta</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_call_type_privatePrivate number" xml:space="preserve">
+        <source>Private number</source>
+        <target phase-name="translation-1" state="translated">Hususy belgi</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_call_type_voicemailVoicemail" xml:space="preserve">
+        <source>Voicemail</source>
+        <target phase-name="translation-1" state="translated">Sesli poçta</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_voicemail_promptTap to listen" xml:space="preserve">
+        <source>Tap to listen</source>
+        <target phase-name="translation-1" state="translated">Diňlemek üçin bas</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_mms_info_deliveredMultimedia message was delivered to %1" xml:space="preserve">
+        <source>Multimedia message was delivered to %1</source>
+        <target phase-name="translation-1" state="translated">MMS %1-a gowşuryldy</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_mms_info_msg_readMultimedia message was read by %1" xml:space="preserve">
+        <source>Multimedia message was read by %1</source>
+        <target phase-name="translation-1" state="translated">MMS %1 tarapyndan okaldy</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_mms_info_delete_wo_readingMultimedia message was deleted without reading by %1" xml:space="preserve">
+        <source>Multimedia message was deleted without reading by %1</source>
+        <target phase-name="translation-1" state="translated">MMS %1 tarapyndan okalmazdan pozuldy</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_mms_notification_manual_downloadMMS is ready to download" xml:space="preserve">
+        <source>MMS is ready to download</source>
+        <target phase-name="translation-1" state="translated">MMS göçürip almaga taýýar</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_mms_notification_send_failedMMS sending failed" xml:space="preserve">
+        <source>MMS sending failed</source>
+        <target phase-name="translation-1" state="translated">MMS ibermekde näsazlyk bar</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_mms_notification_download_failedMMS downloading failed" xml:space="preserve">
+        <source>MMS downloading failed</source>
+        <target phase-name="translation-1" state="translated">MMS göçürip almakda näsazlyk bar</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_group_chat_remote_joined%1 has joined" xml:space="preserve">
+        <source>%1 has joined</source>
+        <target phase-name="translation-1" state="translated">%1 goşuldy</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_group_chat_remote_left%1 has left" xml:space="preserve">
+        <source>%1 has left</source>
+        <target phase-name="translation-1" state="translated">%1 çykdy</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_group_chat_you_removed%1 removed you from this chat" xml:space="preserve">
+        <source>%1 removed you from this chat</source>
+        <target phase-name="translation-1" state="translated">%1 sizi bu söhbetden aýyrdy</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_group_chat_person_removed%1 removed %2 from this chat" xml:space="preserve">
+        <source>%1 removed %2 from this chat</source>
+        <target phase-name="translation-1" state="translated">%1 %2 bu söhbetden aýyrdy</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_group_chat_topic_changed%1 changed room topic to %2" xml:space="preserve">
+        <source>%1 changed room topic to %2</source>
+        <target phase-name="translation-1" state="translated">%1 mowzugy %2-a üýtgetdi</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_group_chat_topic_cleared%1 removed the topic" xml:space="preserve">
+        <source>%1 removed the topic</source>
+        <target phase-name="translation-1" state="translated">%1 mowzugy aýyrdy</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_group_chat_topic_user_changedYou changed the room topic to %1" xml:space="preserve">
+        <source>You changed the room topic to %1</source>
+        <target phase-name="translation-1" state="translated">Siz mowzugy %1-a üýtgetdiňiz</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_group_chat_topic_cleared_userYou removed the topic" xml:space="preserve">
+        <source>You removed the topic</source>
+        <target phase-name="translation-1" state="translated">Siz mowzugy aýyrdyňyz</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_error_sms_sending_failedSMS sending failed to %1" xml:space="preserve">
+        <source>SMS sending failed to %1</source>
+        <target phase-name="translation-1" state="translated">SMS-i %1-a iberip bolmady</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_error_sending_failedMessage sending failed to %1" xml:space="preserve">
+        <source>Message sending failed to %1</source>
+        <target phase-name="translation-1" state="translated">%1$s-a haty iberip bolmady</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_error_missing_smscSMS sending failed. No message center number found in the sim card." xml:space="preserve">
+        <source>SMS sending failed. No message center number found in the sim card.</source>
+        <target phase-name="translation-1" state="translated">Iberip bolmady. Hat merkezi belgisi tapylmady.</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_re_error_denied_phone_numberFixed dialing active. Sending not allowed to %1." xml:space="preserve">
+        <source>Fixed dialing active. Sending not allowed to %1.</source>
+        <target phase-name="translation-1" state="translated">Bellenen aýlama işjeň. %1-a iberme rugsat ýok.</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_general_supports_offlineContact is offline. Unable to guarantee that the message will be delivered." xml:space="preserve">
+        <source>Contact is offline. Unable to guarantee that the message will be delivered.</source>
+        <target phase-name="translation-1" state="translated">Kontakt awtonom. Hat gelmezligi mümkin.</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_general_does_not_support_offlineUnable to send message. Contact is offline." xml:space="preserve">
+        <source>Unable to send message. Contact is offline.</source>
+        <target phase-name="translation-1" state="translated">Hat iberip bolmaýar. Kontakt awtonom.</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_all_participants_offlineAll participants are offline." xml:space="preserve">
+        <source>All participants are offline.</source>
+        <target phase-name="translation-1" state="translated">Ähli gatnaşyjylar awtonomda.</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_pers_authorization_reqAuthorization request %1" xml:space="preserve">
+        <source>Authorization request %1</source>
+        <target phase-name="translation-1" state="translated">%1-dan dost talaby</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_pers_offlineYou need to be online to perform this operation" xml:space="preserve">
+        <source>You need to be online to perform this operation</source>
+        <target phase-name="translation-1" state="translated">Şuny edip bilmegiňiz üçin siz onlaýn bolmaly.</target>
+      </trans-unit>
+      <trans-unit approved="yes" id="qtn_msg_group_chatGroup chat" xml:space="preserve">
+        <source>Group chat</source>
+        <target phase-name="translation-1" state="translated">Topar söhbeti</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
