@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="jolla-camera.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="camera-la-no_photos_lockscreenNew photos and videos you take will appear here">
+        <source>New photos and videos you take will appear here</source><seg-source><mrk mtype="seg" mid="1">New photos and videos you take will appear here</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Düşüren täze fotosuratlaryňyz we wideolaryňyz bu ýerde peýda bolar</mrk></target>
+        
+      <note from="developer">Placeholder text for an empty camera reel view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera-la-unlock_device_to_access_photos_and_videosUnlock the device to access older photos and videos">
+        <source>Unlock the device to access older photos and videos</source><seg-source><mrk mtype="seg" mid="2">Unlock the device to access older photos and videos</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Has köne fotosuratlara we wideolara girmek üçin enjamyň gulpuny açyň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera-la-no-photosCaptured photos and videos will appear here when you take some">
+        <source>Captured photos and videos will appear here when you take some</source><seg-source><mrk mtype="seg" mid="3">Captured photos and videos will appear here when you take some</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Siz şu käbirleri düşüren wagtyňyz, düşüren fotosuratlar we wideoalar bu ýerde peýda bolar</mrk></target>
+        
+      <note from="developer">Placeholder text for an empty camera reel view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-me-resolution_template%1:%2 (%3Mpix)">
+        <source>%1:%2 (%3Mpix)</source><seg-source><mrk mtype="seg" mid="4">%1:%2 (%3Mpix)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">%1:%2 (%3Mpix)</mrk></target>
+        
+      <note from="developer">template for resolution text, %1 and %2 are aspect ratio, %3 is megapixel value. e.g. 16:9 (2Mpix)"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-ph-cameraCamera">
+        <source>Camera</source><seg-source><mrk mtype="seg" mid="5">Camera</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Kamera</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-save_locationSave location">
+        <source>Save location</source><seg-source><mrk mtype="seg" mid="6">Save location</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Ýerleşişi ýazdyr</mrk></target>
+        
+      <note from="developer">Save GPS coordinates in photos.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-save_location_descriptionSave current GPS coordinates in captured photos.">
+        <source>Save current GPS coordinates in captured photos.</source><seg-source><mrk mtype="seg" mid="7">Save current GPS coordinates in captured photos.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Häzirki GPS koordinatlary düşüren fotosuratlarda ýazdyryň.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-enable_locationPositioning is turned off.  Enable it in Settings | Connectivity | Location">
+        <source>Positioning is turned off.  Enable it in Settings | Connectivity | Location</source><seg-source><mrk mtype="seg" mid="8">Positioning is turned off.  Enable it in Settings | Connectivity | Location</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">Ýerleşdirme ýapyk. Ony Sazlamalarda işlediň | Birikme ukyby | Ýerleşiş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-cb-storageStorage">
+        <source>Storage</source><seg-source><mrk mtype="seg" mid="9">Storage</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Toplaýjy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-device_memoryDevice memory">
+        <source>Device memory</source><seg-source><mrk mtype="seg" mid="10">Device memory</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Enjam ýady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-memory_card_not_insertedMemory card not inserted">
+        <source>Memory card not inserted</source><seg-source><mrk mtype="seg" mid="11">Memory card not inserted</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Ýat kartasy dakylmadyk</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-memory_cardMemory card %1">
+        <source>Memory card %1</source><seg-source><mrk mtype="seg" mid="12">Memory card %1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">Ýat kartasy %1</mrk></target>
+        
+      <note from="developer">the parameter is the capacity of the memory card, e.g. "4.2 GB"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-unmounted_memory_cardMemory card not mounted">
+        <source>Memory card not mounted</source><seg-source><mrk mtype="seg" mid="13">Memory card not mounted</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">Ýat kartasy aýrylan</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-unwritableThe selected storage is not available. Device memory will be used instead.">
+        <source>The selected storage is not available. Device memory will be used instead.</source><seg-source><mrk mtype="seg" mid="14">The selected storage is not available. Device memory will be used instead.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Saýlanan toplaýjy elýeterli däl. Oňa derek, enjam ýady ulanylar.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera-ph-back-cameraBack camera">
+        <source>Back camera</source><seg-source><mrk mtype="seg" mid="15">Back camera</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">Esasy kamera</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-cb-photo-resolutionPhoto resolution">
+        <source>Photo resolution</source><seg-source><mrk mtype="seg" mid="16">Photo resolution</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Fotosurat çözgüdi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera-ph-front-cameraFront camera">
+        <source>Front camera</source><seg-source><mrk mtype="seg" mid="17">Front camera</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Öňdäki kamera</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera-la-camera_mode_hintPush up or down to change between photo and video mode">
+        <source>Push up or down to change between photo and video mode</source><seg-source><mrk mtype="seg" mid="18">Push up or down to change between photo and video mode</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">Kamera bilen wideo tertibi arasynda üýtgetmek üçin, ýokaryk ýa-da aşak syryň</mrk></target>
+        
+      <note from="developer">Push up or down to change between photo and video mode</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera-la-camera_roll_hintSwipe right to access the Camera Roll">
+        <source>Swipe right to access the Camera Roll</source><seg-source><mrk mtype="seg" mid="19">Swipe right to access the Camera Roll</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">Kamera galereýasyna girmek üçin, saga syryň</mrk></target>
+        
+      <note from="developer">Swipe right to access the Camera Roll</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera-me-storage-unavailableThe selected storage is unavailable. Device memory will be used instead">
+        <source>The selected storage is unavailable. Device memory will be used instead</source><seg-source><mrk mtype="seg" mid="20">The selected storage is unavailable. Device memory will be used instead</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">Saýlanan toplaýjy elýeterli däl. Oňa derek, enjam ýady ulanylar.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera-me-using-memory-cardUsing memory card">
+        <source>Using memory card</source><seg-source><mrk mtype="seg" mid="21">Using memory card</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="21">Ýat kartasy ulanmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera-me-storage-mountingBusy mounting the memory card. Device memory will be used instead">
+        <source>Busy mounting the memory card. Device memory will be used instead</source><seg-source><mrk mtype="seg" mid="22">Busy mounting the memory card. Device memory will be used instead</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="22">Busy mounting the memory card. Device memory will be used instead.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-camera-la-microphone_disallowed_by_policyCamera audio won't be recorded, microphone disabled by %1 Device Manager">
+        <source>Camera audio won't be recorded, microphone disabled by %1 Device Manager</source><seg-source><mrk mtype="seg" mid="23">Camera audio won't be recorded, microphone disabled by %1 Device Manager</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="23">Kamera audio ýazga geçirilmez. Mikrofon % 1 enjam dolandyryjy tarapyndan öçürildi</mrk></target>
+        
+      <note from="developer">%1 is an operating system name without the OS suffix</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-camera-la-zoomZoom">
+        <source>Zoom</source><seg-source><mrk mtype="seg" mid="24">Zoom</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="24">Zum</mrk></target>
+        
+      <note from="developer">Title for current zoom position</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-camera-la-zoom_minmin">
+        <source>min</source><seg-source><mrk mtype="seg" mid="25">min</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="25">min</mrk></target>
+        
+      <note from="developer">Abbreviated text for minimum extent of the zoom indicator</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-camera-la-zoom_maxmax">
+        <source>max</source><seg-source><mrk mtype="seg" mid="26">max</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="26">maks</mrk></target>
+        
+      <note from="developer">Abbreviated text for maximum extent of the zoom indicator</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-camera-la-camera_disabled_by_device_managerCamera disabled by %1 Device Manager.">
+        <source>Camera disabled by %1 Device Manager.</source><seg-source><mrk mtype="seg" mid="27">Camera disabled by %1 Device Manager.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="27">Kamera %1 enjam dolandyryjy tarapyndan öçürildi.</mrk></target>
+        
+      <note from="developer">%1 is an operating system name without the OS suffix</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera-la-deletingDeleting">
+        <source>Deleting</source><seg-source><mrk mtype="seg" mid="28">Deleting</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="28">Pozulýar...</mrk></target>
+        
+      <note from="developer">Delete an image</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera-la-portrait-capture-key-locationSelect location for the portrait capture key">
+        <source>Select location for the portrait capture key</source><seg-source><mrk mtype="seg" mid="29">Select location for the portrait capture key</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="29">Dik düşüriş düwme üçin ýerleşiş saýlaň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera-la-landscape-capture-key-locationSelect location for the landscape capture key">
+        <source>Select location for the landscape capture key</source><seg-source><mrk mtype="seg" mid="30">Select location for the landscape capture key</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="30">Kese düşüriş düwme üçin ýerleşiş saýlaň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-timer-seconds-delay%1 second delay">
+        <source>%1 second delay</source><seg-source><mrk mtype="seg" mid="31">%1 second delay</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="31">%1- Ikinji gijikdirme</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-timer-no-delayNo delay">
+        <source>No delay</source><seg-source><mrk mtype="seg" mid="32">No delay</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="32">Gijikme ýok</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-light-sensitivity-autoLight sensitivity • Automatic">
+        <source>Light sensitivity • Automatic</source><seg-source><mrk mtype="seg" mid="33">Light sensitivity • Automatic</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="33">Yşyk duýgurlygy • Awtomatik</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-light-sensitivity-iso_valueLight sensitivity • ISO %1">
+        <source>Light sensitivity • ISO %1</source><seg-source><mrk mtype="seg" mid="34">Light sensitivity • ISO %1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="34">Yşyk duýgurlygy • ISO %1</mrk></target>
+        
+      <note from="developer">%1 replaced with iso value</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-flash-autoFlash automatic">
+        <source>Flash automatic</source><seg-source><mrk mtype="seg" mid="35">Flash automatic</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="35">Wspyşka awtomatik</mrk></target>
+        
+      <note from="developer">"Automatic camera flash mode"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-flash-offFlash disabled">
+        <source>Flash disabled</source><seg-source><mrk mtype="seg" mid="36">Flash disabled</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="36">Wspyşka ýapyk</mrk></target>
+        
+      <note from="developer">"Camera flash disabled"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-flash-onFlash enabled">
+        <source>Flash enabled</source><seg-source><mrk mtype="seg" mid="37">Flash enabled</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="37">Wspyşka açyk</mrk></target>
+        
+      <note from="developer">"Camera flash enabled"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-flash-torchFlash on">
+        <source>Flash on</source><seg-source><mrk mtype="seg" mid="38">Flash on</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="38">Wspyşka açyk</mrk></target>
+        
+      <note from="developer">"Camera flash in torch mode"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-flash-redeyeFlash red eye">
+        <source>Flash red eye</source><seg-source><mrk mtype="seg" mid="39">Flash red eye</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="39">Wspyşka gyzyl-göz</mrk></target>
+        
+      <note from="developer">"Camera flash with red eye reduction"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-wb-automaticAutomatic">
+        <source>Automatic</source><seg-source><mrk mtype="seg" mid="40">Automatic</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="40">Awtomatik</mrk></target>
+        
+      <note from="developer">"Automatic white balance"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-wb-sunnySunny">
+        <source>Sunny</source><seg-source><mrk mtype="seg" mid="41">Sunny</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="41">Güneşli</mrk></target>
+        
+      <note from="developer">"Sunny white balance"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-wb-cloudyCloudy">
+        <source>Cloudy</source><seg-source><mrk mtype="seg" mid="42">Cloudy</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="42">Bulutly</mrk></target>
+        
+      <note from="developer">"Cloudy white balance"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-wb-shadeShade">
+        <source>Shade</source><seg-source><mrk mtype="seg" mid="43">Shade</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="43">Kölege</mrk></target>
+        
+      <note from="developer">"Shade white balance"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-wb-sunsetSunset">
+        <source>Sunset</source><seg-source><mrk mtype="seg" mid="44">Sunset</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="44">Gün ýaşmagy</mrk></target>
+        
+      <note from="developer">"Sunset white balance"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-wb-fluorecentFluorecent">
+        <source>Fluorecent</source><seg-source><mrk mtype="seg" mid="45">Fluorecent</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="45">Fluoressent</mrk></target>
+        
+      <note from="developer">"Fluorecent white balance"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-wb-tungstenTungsten">
+        <source>Tungsten</source><seg-source><mrk mtype="seg" mid="46">Tungsten</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="46">Wolfram</mrk></target>
+        
+      <note from="developer">"Tungsten white balance"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-no_gridNo grid">
+        <source>No grid</source><seg-source><mrk mtype="seg" mid="47">No grid</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="47">Gözenek ýok</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-thirds_gridThirds grid">
+        <source>Thirds grid</source><seg-source><mrk mtype="seg" mid="48">Thirds grid</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="48">Üç bölekli gözenek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="camera_settings-la-ambience_gridAmbience grid">
+        <source>Ambience grid</source><seg-source><mrk mtype="seg" mid="49">Ambience grid</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="49">Gurşaw gözenegi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-camera-ap-nameCamera">
+        <source>Camera</source><seg-source><mrk mtype="seg" mid="50">Camera</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="50">Kamera</mrk></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
