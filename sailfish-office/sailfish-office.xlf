@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish-office.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-he-indexIndex">
+        <source>Index</source><seg-source><mrk mtype="seg" mid="1">Index</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Indeks</mrk></target>
+        
+      <note from="developer">Page with Text document index</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_office-la-page_numberPage %1">
+        <source>Page %1</source><seg-source><mrk mtype="seg" mid="2">Page %1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Sahypa %1</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-he-sheet_indexSheets">
+        <source>Sheets</source><seg-source><mrk mtype="seg" mid="3">Sheets</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Sahypalar</mrk></target>
+        
+      <note from="developer">Page with sheet selector</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-lb-%n-matches%n item(s) found">
+        <source>%n item(s) found</source><seg-source><mrk mtype="seg" mid="4">%n item(s) found</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">%n element tapyldy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-search-no-resultNo result">
+        <source>No result</source><seg-source><mrk mtype="seg" mid="5">No result</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Netije ýok</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-search-documentSearch on document">
+        <source>Search on document</source><seg-source><mrk mtype="seg" mid="6">Search on document</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Resminamanyň içinde gözle</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-he-slide_indexSlides">
+        <source>Slides</source><seg-source><mrk mtype="seg" mid="7">Slides</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Slaýdlar</mrk></target>
+        
+      <note from="developer">Page with slide overview</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-plain_text_errorError loading text file">
+        <source>Error loading text file</source><seg-source><mrk mtype="seg" mid="8">Error loading text file</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">Tekst faýly ýükläp bolmaýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-plain_text_emptyEmpty text file">
+        <source>Empty text file</source><seg-source><mrk mtype="seg" mid="9">Empty text file</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Boş tekst faýly</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-he-pdf_indexIndex">
+        <source>Index</source><seg-source><mrk mtype="seg" mid="10">Index</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Indeks</mrk></target>
+        
+      <note from="developer">Page with PDF index</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-no-tocDocument has no table of content">
+        <source>Document has no table of content</source><seg-source><mrk mtype="seg" mid="11">Document has no table of content</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Resminamada mazmun ýok</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-lb-goto-pageGo to page">
+        <source>Go to page</source><seg-source><mrk mtype="seg" mid="12">Go to page</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">Sahypa bar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-lb-%n-pagesdocument has %n pages">
+        <source>document has %n pages</source><seg-source><mrk mtype="seg" mid="13">document has %n pages</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">Resminamada %n sahypa bar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-deleteDelete">
+        <source>Delete</source><seg-source><mrk mtype="seg" mid="14">Delete</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Pozmak</mrk></target>
+        
+      <note from="developer">Delete a file from the device</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-shareShare">
+        <source>Share</source><seg-source><mrk mtype="seg" mid="15">Share</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">Paýlaş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-notice-anno-textTap where you want to add a note">
+        <source>Tap where you want to add a note</source><seg-source><mrk mtype="seg" mid="16">Tap where you want to add a note</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Bellik goşmak isleýän ýerine basyň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-notice-anno-highlightTap and move your finger over the area">
+        <source>Tap and move your finger over the area</source><seg-source><mrk mtype="seg" mid="17">Tap and move your finger over the area</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Basyp zolagyň üstünde barmagyňyzy geçiriň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-broken-pdfBroken file">
+        <source>Broken file</source><seg-source><mrk mtype="seg" mid="18">Broken file</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">Bozulan faýl</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-locked-pdfLocked file">
+        <source>Locked file</source><seg-source><mrk mtype="seg" mid="19">Locked file</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">Gulply faýl</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-broken-pdf-hintCannot read the PDF document">
+        <source>Cannot read the PDF document</source><seg-source><mrk mtype="seg" mid="20">Cannot read the PDF document</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">PDF resminama okap bolmaýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-locked-pdf-hintEnter password to unlock">
+        <source>Enter password to unlock</source><seg-source><mrk mtype="seg" mid="21">Enter password to unlock</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="21">Gulpuny açmak üçin, paroly</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-pdf-txt-anno-addAdd note">
+        <source>Add note</source><seg-source><mrk mtype="seg" mid="22">Add note</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="22">Bellik goş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-pdf-txt-anno-editEdit">
+        <source>Edit</source><seg-source><mrk mtype="seg" mid="23">Edit</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="23">Düzetmek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-pdf-txt-anno-clearDelete">
+        <source>Delete</source><seg-source><mrk mtype="seg" mid="24">Delete</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="24">Pozmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-pdf-open-browserOpen in browser">
+        <source>Open in browser</source><seg-source><mrk mtype="seg" mid="25">Open in browser</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="25">Brauzerde aç</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-pdf-open-externalOpen in external application">
+        <source>Open in external application</source><seg-source><mrk mtype="seg" mid="26">Open in external application</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="26">Daşky goýmada aç</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-pdf-copy-linkCopy to clipboard">
+        <source>Copy to clipboard</source><seg-source><mrk mtype="seg" mid="27">Copy to clipboard</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="27">Çalşyk bufere göçür</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-pdf-hl-anno-commentAdd a comment">
+        <source>Add a comment</source><seg-source><mrk mtype="seg" mid="28">Add a comment</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="28">Teswir goş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-pdf-hl-anno-comment-editEdit the comment">
+        <source>Edit the comment</source><seg-source><mrk mtype="seg" mid="29">Edit the comment</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="29">Teswiri düzet</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-pdf-hl-anno-clearClear">
+        <source>Clear</source><seg-source><mrk mtype="seg" mid="30">Clear</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="30">Arssalamak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-he-txt-anno-saveSave">
+        <source>Save</source><seg-source><mrk mtype="seg" mid="31">Save</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="31">Ýazdyrmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-he-txt-anno-cancelCancel">
+        <source>Cancel</source><seg-source><mrk mtype="seg" mid="32">Cancel</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="32">Ýatyrmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-ta-text-annotationWrite a note…">
+        <source>Write a note…</source><seg-source><mrk mtype="seg" mid="33">Write a note…</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="33">Bellik ýaz...</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-ta-comment-annotationWrite a comment…">
+        <source>Write a comment…</source><seg-source><mrk mtype="seg" mid="34">Write a comment…</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="34">Teswir ýaz...</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-mi-delete-annotationDelete">
+        <source>Delete</source><seg-source><mrk mtype="seg" mid="35">Delete</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="35">Pozmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-hd-text-annotationNote">
+        <source>Note</source><seg-source><mrk mtype="seg" mid="36">Note</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="36">Bellik</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-hd-comment-annotationComment">
+        <source>Comment</source><seg-source><mrk mtype="seg" mid="37">Comment</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="37">Teswir</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-ta-text-annotation-editWrite a note…">
+        <source>Write a note…</source><seg-source><mrk mtype="seg" mid="38">Write a note…</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="38">Bellik ýaz...</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-ta-comment-annotation-editWrite a comment…">
+        <source>Write a comment…</source><seg-source><mrk mtype="seg" mid="39">Write a comment…</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="39">Teswir ýaz...</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-calligra_open_errorCould not open file:">
+        <source>Could not open file:</source><seg-source><mrk mtype="seg" mid="40">Could not open file:</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="40">Faýl açmakda bir näsazlyk ýüze çykdy:</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-could_not_create_filter_pluginCould not create the filter plugin">
+        <source>Could not create the filter plugin</source><seg-source><mrk mtype="seg" mid="41">Could not create the filter plugin</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="41">Filtr moduly döredip bolmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-could_not_create_output_documentCould not create the output document">
+        <source>Could not create the output document</source><seg-source><mrk mtype="seg" mid="42">Could not create the output document</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="42">Çykyş resminama döredip bolmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-file_not_foundFile not found">
+        <source>File not found</source><seg-source><mrk mtype="seg" mid="43">File not found</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="43">Faýl tapylmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-cannot_create_storageCannot create storage">
+        <source>Cannot create storage</source><seg-source><mrk mtype="seg" mid="44">Cannot create storage</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="44">Toplaýjy döredip bolmaýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-bad_mime_typeBad MIME type">
+        <source>Bad MIME type</source><seg-source><mrk mtype="seg" mid="45">Bad MIME type</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="45">Erbet MIME görnüşi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-error_in_embedded_documentError in embedded document">
+        <source>Error in embedded document</source><seg-source><mrk mtype="seg" mid="46">Error in embedded document</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="46">Içine gurnalan resminamada näsazlyk bar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-format_not_recognizedFormat not recognized">
+        <source>Format not recognized</source><seg-source><mrk mtype="seg" mid="47">Format not recognized</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="47">Format anyklanylmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-not_implementedNot implemented">
+        <source>Not implemented</source><seg-source><mrk mtype="seg" mid="48">Not implemented</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="48">Ornaşdyrylmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-parsing_errorParsing error">
+        <source>Parsing error</source><seg-source><mrk mtype="seg" mid="49">Parsing error</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="49">Seljeriş ýalňyşlygy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-password_protected_fileDocument is password protected">
+        <source>Document is password protected</source><seg-source><mrk mtype="seg" mid="50">Document is password protected</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="50">Resminama parol bilen goralan</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-invalid_file_formatInvalid file format">
+        <source>Invalid file format</source><seg-source><mrk mtype="seg" mid="51">Invalid file format</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="51">Nädogry faýly formaty</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-internal_errorInternal error">
+        <source>Internal error</source><seg-source><mrk mtype="seg" mid="52">Internal error</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="52">Näsazlyk ýüze çykdy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-out_of_memoryOut of memory">
+        <source>Out of memory</source><seg-source><mrk mtype="seg" mid="53">Out of memory</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="53">Ýat ýeri gutardy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-empty_filter_pluginEmpty Filter Plugin">
+        <source>Empty Filter Plugin</source><seg-source><mrk mtype="seg" mid="54">Empty Filter Plugin</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="54">Boş modul filtri</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-wrong_kind_of_documentTrying to load into the wrong kind of document">
+        <source>Trying to load into the wrong kind of document</source><seg-source><mrk mtype="seg" mid="55">Trying to load into the wrong kind of document</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="55">Nädogry resminama görnüşine ýükläp synanyşylýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-faile_to_download_remote_fileFailed to download remote file">
+        <source>Failed to download remote file</source><seg-source><mrk mtype="seg" mid="56">Failed to download remote file</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="56">Uzakdaky faýly göçürip alyp bolmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="office_calligra_error-unknownUnknown error">
+        <source>Unknown error</source><seg-source><mrk mtype="seg" mid="57">Unknown error</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="57">Näbelli ýalňyşlyk</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-he-detailsDetails">
+        <source>Details</source><seg-source><mrk mtype="seg" mid="58">Details</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="58">Jikme-jikler</mrk></target>
+        
+      <note from="developer">Details page title</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-filepathFile path">
+        <source>File path</source><seg-source><mrk mtype="seg" mid="59">File path</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="59">Faýl ugry</mrk></target>
+        
+      <note from="developer">File path detail of the document</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-filesizeSize">
+        <source>Size</source><seg-source><mrk mtype="seg" mid="60">Size</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="60">Ölçeg</mrk></target>
+        
+      <note from="developer">File size detail of the document</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-filetypeType">
+        <source>Type</source><seg-source><mrk mtype="seg" mid="61">Type</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="61">Görnüş</mrk></target>
+        
+      <note from="developer">File type detail of the document</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-lastmodifiedLast modified">
+        <source>Last modified</source><seg-source><mrk mtype="seg" mid="62">Last modified</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="62">Soňky üýtgedileni</mrk></target>
+        
+      <note from="developer">Last modified date of the document</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-sheetcountSheets">
+        <source>Sheets</source><seg-source><mrk mtype="seg" mid="63">Sheets</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="63">Sahypalar</mrk></target>
+        
+      <note from="developer">Sheet count of the spreadsheet</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-slidecountSlides">
+        <source>Slides</source><seg-source><mrk mtype="seg" mid="64">Slides</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="64">Slaýdlar</mrk></target>
+        
+      <note from="developer">Slide count detail of the presentation</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-pagecountPage Count">
+        <source>Page Count</source><seg-source><mrk mtype="seg" mid="65">Page Count</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="65">Sahypa sany</mrk></target>
+        
+      <note from="developer">Page count of the text document</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-indexcountIndex Count">
+        <source>Index Count</source><seg-source><mrk mtype="seg" mid="66">Index Count</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="66">Indeks sany</mrk></target>
+        
+      <note from="developer">Index count for unknown document types.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_office-he-sort_bySort by">
+        <source>Sort by</source><seg-source><mrk mtype="seg" mid="67">Sort by</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="67">Şu boýunça tertiple</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_office-me-sort_nameName">
+        <source>Name</source><seg-source><mrk mtype="seg" mid="68">Name</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="68">Ady</mrk></target>
+        
+      <note from="developer">Sort by name</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_office-me-sort_typeType">
+        <source>Type</source><seg-source><mrk mtype="seg" mid="69">Type</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="69">Görnüş</mrk></target>
+        
+      <note from="developer">Sort by type</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_office-me-sort_dateDate">
+        <source>Date</source><seg-source><mrk mtype="seg" mid="70">Date</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="70">Sene</mrk></target>
+        
+      <note from="developer">Sort by date</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_office-me-sort_by_namename">
+        <source>name</source><seg-source><mrk mtype="seg" mid="71">name</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="71">ady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_office-me-sort_by_typetype">
+        <source>type</source><seg-source><mrk mtype="seg" mid="72">type</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="72">görnüş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_office-me-sort_by_datedate">
+        <source>date</source><seg-source><mrk mtype="seg" mid="73">date</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="73">sene</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-he-apptitleDocuments">
+        <source>Documents</source><seg-source><mrk mtype="seg" mid="74">Documents</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="74">Resminamalar</mrk></target>
+        
+      <note from="developer">Application title</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-tf-search-documentsSearch documents">
+        <source>Search documents</source><seg-source><mrk mtype="seg" mid="75">Search documents</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="75">Resminamalary gözle</mrk></target>
+        
+      <note from="developer">Document search field placeholder text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-show_searchShow search">
+        <source>Show search</source><seg-source><mrk mtype="seg" mid="76">Show search</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="76">Gözleg görkez</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-hide_searchHide search">
+        <source>Hide search</source><seg-source><mrk mtype="seg" mid="77">Hide search</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="77">Gözleg gizle</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-me-sort_bySort by: %1">
+        <source>Sort by: %1</source><seg-source><mrk mtype="seg" mid="78">Sort by:</mrk> <mrk mtype="seg" mid="79">%1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="78">Şeýle sortla:</mrk> <mrk mtype="seg" mid="79">%1</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-no_documentsNo documents">
+        <source>No documents</source><seg-source><mrk mtype="seg" mid="80">No documents</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="80">Bu ýerde enjamyňyza geçirilen resminamalary görüp bilersiňiz. Hiç zat entek ýazdyrylmady.</mrk></target>
+        
+      <note from="developer">View placeholder shown when there are no documents</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-not-foundNo documents found">
+        <source>No documents found</source><seg-source><mrk mtype="seg" mid="81">No documents found</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="81">Resminama tapylmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-shareShare">
+        <source>Share</source><seg-source><mrk mtype="seg" mid="82">Share</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="82">Paýlaşmak</mrk></target>
+        
+      <note from="developer">Share a file</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-cover_no_documentsNo documents">
+        <source>No documents</source><seg-source><mrk mtype="seg" mid="83">No documents</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="83">Resminamalary goş</mrk></target>
+        
+      <note from="developer">Cover placeholder shown when there are no documents</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-la-localfiles_descriptionFiles found on this device.">
+        <source>Files found on this device.</source><seg-source><mrk mtype="seg" mid="84">Files found on this device.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="84">Bu enjamda faýllar tapyldy</mrk></target>
+        
+      <note from="developer">Description for local device files provider</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-he-localfiles_titleThis Device">
+        <source>This Device</source><seg-source><mrk mtype="seg" mid="85">This Device</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="85">Enjamda</mrk></target>
+        
+      <note from="developer">Title for local device files provider</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-office-ap-nameDocuments">
+        <source>Documents</source><seg-source><mrk mtype="seg" mid="86">Documents</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="86">Resminamalar</mrk></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
