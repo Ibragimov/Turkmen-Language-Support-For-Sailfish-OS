@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="settings-sailfish-browser.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-ph-browserBrowser">
+        <source>Browser</source>
+        <target state="translated">Brauzer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-la-home_pageHome Page">
+        <source>Home Page</source>
+        <target state="translated">Öý sahypa</target>
+        <note from="developer">Label for home page text field</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-ph-type_home_pageType home page">
+        <source>Type home page</source>
+        <target state="translated">Öý sahypa giriz</target>
+        <note from="developer">No home page, type home page</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-la-search_engineSearch engine">
+        <source>Search engine</source>
+        <target state="translated">Gözleg hereketlendiriji</target>
+        <note from="developer">Label for combobox that sets search engine used in browser</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-bt-privacyPrivacy">
+        <source>Privacy</source>
+        <target state="translated">Gizlinlik</target>
+        <note from="developer">Button for opening privacy settings page.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-la-close_all_tabsClose all tabs on exit">
+        <source>Close all tabs on exit</source>
+        <target state="translated">Çykanyňda ähli salmalary ýap</target>
+        <note from="developer">Label for text switch that makes all tabs closed upon closing browser application</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-la-close_all_tabs_descriptionUpon exiting Sailfish Browser all open tabs will be closed">
+        <source>Upon exiting Sailfish Browser all open tabs will be closed</source>
+        <target state="translated">Sailfish brauzerden çykanyňda, ähli açyk salmalar ýapylar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-ph-privacyPrivacy">
+        <source>Privacy</source>
+        <target state="translated">Gizlinlik</target>
+        <note from="developer">Privacy settings page header</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-la-trackingDo not track">
+        <source>Do not track</source>
+        <target state="translated">Yzarlamaň</target>
+        <note from="developer">Tell sites that I do not want to be tracked.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-la-tracking_descriptionTell sites that I do not want to be tracked">
+        <source>Tell sites that I do not want to be tracked</source>
+        <target state="translated">Saýtlara yzarlamaýandygymy isleýändigimi aýdyň</target>
+        <note from="developer">Tell sites that I do not want to be tracked.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-ph-clear_private_dataClear private data">
+        <source>Clear private data</source>
+        <target state="translated">Şahsy maglumaty arassala</target>
+        <note from="developer">Clear private data section header</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-la-clear_historyHistory">
+        <source>History</source>
+        <target state="translated">Taryh</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-la-clear_history_descriptionClears history and open tabs">
+        <source>Clears history and open tabs</source>
+        <target state="translated">Taryhy arassalaýar we salmalary açýar</target>
+        <note from="developer">Description for clearing history. This will clear history and tabs.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-la-clear_cookiesCookies">
+        <source>Cookies</source>
+        <target state="translated">Kukiler</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-la-clear_passwordsSaved passwords">
+        <source>Saved passwords</source>
+        <target state="translated">Ýazdyrylan parollar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-la-clear_cacheCache">
+        <source>Cache</source>
+        <target state="translated">Keş</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-la-clear_favoritesFavorites">
+        <source>Favorites</source>
+        <target state="translated">Halanýanlar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-bt-clearClear">
+        <source>Clear</source>
+        <target state="translated">Arssalamak</target>
+        <note from="developer">Button for clearing selected private data items.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_browser-la-cleared_private_dataCleared">
+        <source>Cleared</source>
+        <target state="translated">Arassalanan</target>
+        <note from="developer">Remorse item for clearing private data</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_applications-browserBrowser">
+        <source>Browser</source>
+        <target state="translated">Brauzer</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

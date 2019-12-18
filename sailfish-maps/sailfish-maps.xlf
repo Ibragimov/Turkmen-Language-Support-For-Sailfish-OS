@@ -1,0 +1,438 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish-maps.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-m%1 m">
+        <source>%1 m</source>
+        <target state="translated">%1 m</target>
+        <note from="developer">Label showing distance in meters</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-km%1 km">
+        <source>%1 km</source>
+        <target state="translated">%1 km</target>
+        <note from="developer">Label showing distance in kilometers</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-mi%1 mi">
+        <source>%1 mi</source>
+        <target state="translated">%1 mi</target>
+        <note from="developer">Label showing distance in miles</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-yds%1 yds">
+        <source>%1 yds</source>
+        <target state="translated">%1 ýrd</target>
+        <note from="developer">Label showing distance in yards</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-unit_mm">
+        <source>m</source>
+        <target state="translated">m</target>
+        <note from="developer">Label showing unit meters</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-unit_kmkm">
+        <source>km</source>
+        <target state="translated">km</target>
+        <note from="developer">Label showing unit kilometers</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-unit_mimi">
+        <source>mi</source>
+        <target state="translated">mi</target>
+        <note from="developer">Label showing unit miles</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-unit_ydsyds">
+        <source>yds</source>
+        <target state="translated">ýrd</target>
+        <note from="developer">Label showing unit yards</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-he-map_terms_of_useMap terms of use">
+        <source>Map terms of use</source>
+        <target state="translated">Kartalar Ulanyş şertleri</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-maps_eulaUse of Maps is governed by the &lt;a href='eula'&gt;Sailfish EULA&lt;/a&gt;. All third party map data is subject to the terms of the third party map data provider available &lt;a href='here'&gt;here&lt;/a&gt;. The product manufacturer, seller and Jolla accepts no liability for any such third party content.">
+        <source>Use of Maps is governed by the &lt;a href='eula'&gt;Sailfish EULA&lt;/a&gt;. All third party map data is subject to the terms of the third party map data provider available &lt;a href='here'&gt;here&lt;/a&gt;. The product manufacturer, seller and Jolla accepts no liability for any such third party content.</source>
+        <target state="translated">Karta ulanyşy &lt;a href='eula'&gt;Sailfish EULA&lt;/a&gt; tarapyndan dolandyrylýar. Ähli üçünji tarap karta maglumaty &lt;a href='here'&gt;bu ýerde&lt;/a&gt; üçünji tarap karta maglumaty üpjünçiniň şertleri berjaý edýär. Önüm  öndürijim satyjy we Sailfish şol ýaly üçünji tarap mazmuny üçin jogäpkärçilik kabul etmeýär.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-got_itGot it,&lt;br /&gt; tap to continue">
+        <source>Got it,&lt;br /&gt; tap to continue</source>
+        <target state="translated">Düşündüm, dowam etmek üçin &lt;br /&gt;basyň</target>
+        <note from="developer">Instruction for how to continue from map tooltip</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-deletingDeleting">
+        <source>Deleting</source>
+        <target state="translated">Pozulýar...</target>
+        <note from="developer">Deleting place in 5 seconds</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-change_imageChange image">
+        <source>Change image</source>
+        <target state="translated">Surat üýtget</target>
+        <note from="developer">Button to change image to represent favorite location</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-add_imageAdd image">
+        <source>Add image</source>
+        <target state="translated">Surat goş</target>
+        <note from="developer">Button to select image to represent favorite location</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-he-select_imageSelect image">
+        <source>Select image</source>
+        <target state="translated">Surat saýla</target>
+        <note from="developer">Header for image picker</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-searching_locationWaiting for location">
+        <source>Waiting for location</source>
+        <target state="translated">Ýerleşişe garaşylýar</target>
+        <note from="developer">Text for current location tile on first page before location name is known</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-turn_on_locationTurn on Location">
+        <source>Turn on Location</source>
+        <target state="translated">Ýerleşdirme aç</target>
+        <note from="developer">Title text on tile to enable location services</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-turn_on_location_descriptionThis is required to pinpoint your location.">
+        <source>This is required to pinpoint your location.</source>
+        <target state="translated">Bu ýerleşişiňizi takyk bellemek üçin gerek.</target>
+        <note from="developer">Description text on tile to enable location services</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-map_controlsMap controls">
+        <source>Map controls</source>
+        <target state="translated">Karta dolandyryşlary</target>
+        <note from="developer">Title for map usage instructions</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-single_tap_headerSingle tap">
+        <source>Single tap</source>
+        <target state="translated">Ýeke basyş</target>
+        <note from="developer">Instruction header for single tap on map</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-single_tap_textTo center map to a tapped location and show more details and option to return to previous page.">
+        <source>To center map to a tapped location and show more details and option to return to previous page.</source>
+        <target state="translated">Basylan ýerleşişe karta merkezleşdirmek üçin, öňki sahypa dolanmak üçin has köp jikme-jikligi we opsiýalary görkeziň.</target>
+        <note from="developer">Instruction text for single tap on map</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-double_tap_headerDouble tap">
+        <source>Double tap</source>
+        <target state="translated">Iki gezek bas</target>
+        <note from="developer">Instruction header for double tap on map</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-double_tap_textTo zoom in to the tapped location. You can also spread to do that. Pinch to zoom out.">
+        <source>To zoom in to the tapped location. You can also spread to do that. Pinch to zoom out.</source>
+        <target state="translated">Basylan ýerleşişi ulaltmak üçin. Ulaltmak üçin barmaklary ýaýradyp bilersiňiz we kiçeltmek üçin çümmükläp bilersiňiz.</target>
+        <note from="developer">Instruction text for double tap on map</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-long_press_headerLong press">
+        <source>Long press</source>
+        <target state="translated">Uzyn basyş</target>
+        <note from="developer">Instruction header for long press on map</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-long_press_textAfter playing around, to center to your own location.">
+        <source>After playing around, to center to your own location.</source>
+        <target state="translated">Töwereginde oýnamakdan soň, öz ýerleşişiňize merkezleşdirmek üçin.</target>
+        <note from="developer">Instruction text for long press on map</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-satellite_mapSatellite map">
+        <source>Satellite map</source>
+        <target state="translated">Hemra karta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-street_mapStreet map">
+        <source>Street map</source>
+        <target state="translated">Köçe karta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-transit_mapTransit map">
+        <source>Transit map</source>
+        <target state="translated">Geçiş karta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-pedestrian_mapPedestrian map">
+        <source>Pedestrian map</source>
+        <target state="translated">Pyýada karta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-unknown_locationUnknown location">
+        <source>Unknown location</source>
+        <target state="translated">Näbelli ýerleşiş</target>
+        <note from="developer">Text to show for locations without address, like in locations far out on the ocean</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-bt-directionsDirections">
+        <source>Directions</source>
+        <target state="translated">Ugurlar</target>
+        <note from="developer">Button to open dialog to get directions</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-bt-whats_nearWhat's near">
+        <source>What's near</source>
+        <target state="translated">Ýakynda näme bar</target>
+        <note from="developer">Button to start a what's near search</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-bt-callCall">
+        <source>Call</source>
+        <target state="translated">Jaň etmek</target>
+        <note from="developer">Button to call the place</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-no-copied_to_clipboardCopied to clipboard">
+        <source>Copied to clipboard</source>
+        <target state="translated">Çalşyk buferine göçürildi</target>
+        <note from="developer">Notification to be shown when text copied to clipboard</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-bt-open_websiteOpen website">
+        <source>Open website</source>
+        <target state="translated">Web-saýty aç</target>
+        <note from="developer">Button to open the place's website</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-bt-emailEmail">
+        <source>Email</source>
+        <target state="translated">E-poçta</target>
+        <note from="developer">Button to compose an email to the place</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-user_notesUser notes">
+        <source>User notes</source>
+        <target state="translated">Ulanyjy bellikler</target>
+        <note from="developer">Label showing user notes</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-unit_hh">
+        <source>h</source>
+        <target state="translated">s</target>
+        <note from="developer">Label showing time unit hours</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-unit_minmin">
+        <source>min</source>
+        <target state="translated">min</target>
+        <note from="developer">Label showing time unit minutes</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-ap-nameMaps">
+        <source>Maps</source>
+        <target state="translated">Kartalar</target>
+        <note from="developer">Application name</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-quickaction-la-where_am_iWhere am I?">
+        <source>Where am I?</source>
+        <target state="translated">Men nirede?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-he-whats_nearWhat's near">
+        <source>What's near</source>
+        <target state="translated">Ýakynda näme bar</target>
+        <note from="developer">What's near title</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-he-popular_placesPopular places">
+        <source>Popular places</source>
+        <target state="translated">Meşhur ýerler</target>
+        <note from="developer">Section header for search categories</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-ph-problems_downloading_contentProblems downloading content">
+        <source>Problems downloading content</source>
+        <target state="translated">Mazmuny göçürip almakda näsazlyklar bar</target>
+        <note from="developer">Text to show instead of result when content could not be downloaded</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-ph-could_not_find_anythingSorry, we couldn't find anything">
+        <source>Sorry, we couldn't find anything</source>
+        <target state="translated">Bagyşlaň, biz hiç zat tapyp bilmedik</target>
+        <note from="developer">Text to show instead of a search result when no places where found</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-ph-my_locationMy location">
+        <source>My location</source>
+        <target state="translated">Ýerleşişim</target>
+        <note from="developer">Text shown when for my locatio in search fields</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-he-show_directionsShow directions">
+        <source>Show directions</source>
+        <target state="translated">Ugurlary görkez</target>
+        <note from="developer">Header/button to accept directions dialog</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-fromFrom">
+        <source>From</source>
+        <target state="translated">Kimden</target>
+        <note from="developer">Text label for directions 'from' search field</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-toTo">
+        <source>To</source>
+        <target state="translated">Kime</target>
+        <note from="developer">Text label for directions 'to' search field</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-me-carcar">
+        <source>car</source>
+        <target state="translated">ulag</target>
+        <note from="developer">Menu item to travel by car. In English it is the second word of the sentence "By car."</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-me-footfoot">
+        <source>foot</source>
+        <target state="translated">aýak</target>
+        <note from="developer">Menu item to travel by foot. In English it is the second word of the sentence "By foot."</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-byBy">
+        <source>By</source>
+        <target state="translated">Tarapyndan</target>
+        <note from="developer">Method of transportation. In English it is the first word of the sentence "By car."</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-me-fastestfastest">
+        <source>fastest</source>
+        <target state="translated">iň çalt</target>
+        <note from="developer">Menu item to choose fastest route. In English it is the second word of the sentence "Route fastest."</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-me-shortestshortest">
+        <source>shortest</source>
+        <target state="translated">iň gysga</target>
+        <note from="developer">Menu item to choose shortest route. In English it is the second word of the sentence "Route shortest."</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-routeRoute">
+        <source>Route</source>
+        <target state="translated">Marşrut</target>
+        <note from="developer">Optimize directions. In English it is the first word of the sentence "Route fastest."</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-me-searchSearch">
+        <source>Search</source>
+        <target state="translated">Gözlemek</target>
+        <note from="developer">Menu item to navigate to search page</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-he-mapsMaps">
+        <source>Maps</source>
+        <target state="translated">Kartalar</target>
+        <note from="developer">Application title</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-ahoySwipe left to explore">
+        <source>Swipe left to explore</source>
+        <target state="translated">Karta görmek üçin çepe syryň!</target>
+        <note from="developer">First page instruction text to show first time application is opened</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-he-recent_placesRecent places">
+        <source>Recent places</source>
+        <target state="translated">Soňky ýerler</target>
+        <note from="developer">Section header for recent places list</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-removingRemoving">
+        <source>Removing</source>
+        <target state="translated">Aýyrmak:</target>
+        <note from="developer">Removing place in 5 seconds</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-he-saved_placesSaved places">
+        <source>Saved places</source>
+        <target state="translated">Ýazdyryln ýerler</target>
+        <note from="developer">Section header for saved places list</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-me-editEdit">
+        <source>Edit</source>
+        <target state="translated">Düzetmek</target>
+        <note from="developer">Menu item to edit a saved location</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-me-remove_from_favoritesRemove from favorites">
+        <source>Remove from favorites</source>
+        <target state="translated">Halanýanlardan aýyr</target>
+        <note from="developer">Menu item to remove from favorites</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-me-add_to_favoritesAdd to favorites">
+        <source>Add to favorites</source>
+        <target state="translated">Halanýanlara goş</target>
+        <note from="developer">Menu item to add to favorites</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-me-saveSave">
+        <source>Save</source>
+        <target state="translated">Ýazdyrmak</target>
+        <note from="developer">Menu item to save a recent location
+----------
+Menu item to save a location</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-me-remove_from_recentRemove from recent">
+        <source>Remove from recent</source>
+        <target state="translated">Soňkylardan aýyr</target>
+        <note from="developer">Menu item to remove a location from recent locations</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-me-deleteDelete">
+        <source>Delete</source>
+        <target state="translated">Pozmak</target>
+        <note from="developer">Menu item to delete a location from saved locations</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-no-unable_to_find_placeNo known place available">
+        <source>No known place available</source>
+        <target state="translated">Elýeterli belli ýer ýok</target>
+        <note from="developer">Notification when asking action without place</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-me-reset_mapReset map">
+        <source>Reset map</source>
+        <target state="translated">Karta nol et</target>
+        <note from="developer">Menu item to open a fresh map without search results</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-me-shareShare">
+        <source>Share</source>
+        <target state="translated">Paýlaşmak</target>
+        <note from="developer">Menu item to share this location on a social network</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-me-new_searchNew search">
+        <source>New search</source>
+        <target state="translated">Täze gözlg</target>
+        <note from="developer">Menu item to navigate to search page</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-night_modeNight mode">
+        <source>Night mode</source>
+        <target state="translated">Gije tertibi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-day_modeDay mode">
+        <source>Day mode</source>
+        <target state="translated">Gün tertibi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-saved_locationsSaved locations">
+        <source>Saved locations</source>
+        <target state="translated">Ýazdyrylan ýerleşişler</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-saved_locations_hiddenSaved locations hidden">
+        <source>Saved locations hidden</source>
+        <target state="translated">Ýazdyrylan ýerleşişler gizlenen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-no-unable_to_find_routeUnable to find a route">
+        <source>Unable to find a route</source>
+        <target state="translated">Ýol tapyp bolmaýar</target>
+        <note from="developer">Notification to be shown when no route can be calculated</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-he-acceptAccept">
+        <source>Accept</source>
+        <target state="translated">Kabul etmek</target>
+        <note from="developer">Header of save location dialog</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-location_nameLocation name">
+        <source>Location name</source>
+        <target state="translated">Ýerleşişiň ady</target>
+        <note from="developer">Text field label when saving place</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-la-notesNotes">
+        <source>Notes</source>
+        <target state="translated">Bellikler</target>
+        <note from="developer">Textfield for additional notes about location</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-he-searchSearch">
+        <source>Search</source>
+        <target state="translated">Gözlemek</target>
+        <note from="developer">Title of search page</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-he-categoriesCategories">
+        <source>Categories</source>
+        <target state="translated">Kategoriýalar</target>
+        <note from="developer">Section header for search categories</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-he-suggestionsSuggestions">
+        <source>Suggestions</source>
+        <target state="translated">Teklipler</target>
+        <note from="developer">Section header for search suggestions</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps-he-resultsResults">
+        <source>Results</source>
+        <target state="translated">Netijeler</target>
+        <note from="developer">Section header for search results</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps_settings-he-mapsMaps">
+        <source>Maps</source>
+        <target state="translated">Kartalar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps_settings-la-distance_unitsDistance units">
+        <source>Distance units</source>
+        <target state="translated">Aralyk birlikleri</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps_settings-la-requires_networkDistance units based on location requires network connectivity to determine which distance unit to use.">
+        <source>Distance units based on location requires network connectivity to determine which distance unit to use.</source>
+        <target state="translated">Haýsy aralyk birligi ulanmalydygyny anyklamak üçin, ýerleşiş boýunça aralyk birlikleri tor birikme ukyby talap ediýär</target>
+        <note from="developer">Network connectivity requirement</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps_settings-me-based_on_locationBased on location">
+        <source>Based on location</source>
+        <target state="translated">Ýerleşiş boýunça</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps_settings-me-metricMetric">
+        <source>Metric</source>
+        <target state="translated">Metrik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="maps_settings-me-imperialImperial">
+        <source>Imperial</source>
+        <target state="translated">Iňlis</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

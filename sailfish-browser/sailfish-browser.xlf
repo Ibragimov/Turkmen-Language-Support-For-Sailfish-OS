@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish-browser.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-web_browsingWeb browsing">
+        <source>Web browsing</source>
+        <target state="translated">Web-brauzirleme</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-he-create_new_tabCreate a new tab">
+        <source>Create a new tab</source>
+        <target state="translated">Täze salma döret</target>
+        <note from="developer">Create a new tab cover text</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-private_modePrivate browsing">
+        <source>Private browsing</source>
+        <target state="translated">Şahsy brauzirleme</target>
+        <note from="developer">Label for private browsing above address bar</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-he-edit_favoriteEdit favorite">
+        <source>Edit favorite</source>
+        <target state="translated">Halanýany düzet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-accept_editSave">
+        <source>Save</source>
+        <target state="translated">Ýazdyrmak</target>
+        <note from="developer">Save the bookmark/favorite</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-ph-title_editEnter title">
+        <source>Enter title</source>
+        <target state="translated">Ady giriz</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-title_editorTitle">
+        <source>Title</source>
+        <target state="translated">Sözbaşy</target>
+        <note from="developer">Label for bookmark/favorite's title edit field</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-ph-url_editEnter URL">
+        <source>Enter URL</source>
+        <target state="translated">Web-salgy giriz</target>
+        <note from="developer">Placeholder for textfield to edit bookmark's URL</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-url_editorURL">
+        <source>URL</source>
+        <target state="translated">Web-salgy</target>
+        <note from="developer">Label for textfield to edit bookmark's URL</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_connection_secureConnection is secure">
+        <source>Connection is secure</source>
+        <target state="translated">Birikme howpsuz</target>
+        <note from="developer">The SSL/TLS connection is good</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_connection_insecureConnection is not secure">
+        <source>Connection is not secure</source>
+        <target state="translated">Birikme howply</target>
+        <note from="developer">Either no SSL/TLS is in use, or the SSL/TLS connection is broken in some way</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_noneThe page does't offer any security">
+        <source>The page does't offer any security</source>
+        <target state="translated">Sahypa hiç howpsuzlygy teklip etmeýär</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_domain_mismatchThis site may not be legitimate and any information you enter could be stolen by attackers">
+        <source>This site may not be legitimate and any information you enter could be stolen by attackers</source>
+        <target state="translated">Bu saýt kanunsyz bolmagy mümkin we girizen islendik maglumatyňyz ogrylar tarapyndan ogurlanyp bilner.</target>
+        <note from="developer">The domain in the TLS certificate and the domain connected to are not the same</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_not_valid_at_this_timeThe security certificate has expired or isn't valid yet">
+        <source>The security certificate has expired or isn't valid yet</source>
+        <target state="translated">Howpsuzlyk ygtyýarnamanyň möhleti geçdi ýa-da ol entek ýöremeýär</target>
+        <note from="developer">The TLS certificate has expired or is not yet valid</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_weak_cryptoThe conection only provides weak security">
+        <source>The conection only provides weak security</source>
+        <target state="translated">Birikme diňe gowşak howpsuzlygy üpjün edýär</target>
+        <note from="developer">The TLS certificate is insecure because it uses weak encryption or hashing methods</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_insecure_content_loadedSome content on the page is transmitted insecurely">
+        <source>Some content on the page is transmitted insecurely</source>
+        <target state="translated">Sahypadaky käbir mazmuny ähtibarsyz geçirilýär</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_content_active_blockedParts of the page that are not secure have been blocked">
+        <source>Parts of the page that are not secure have been blocked</source>
+        <target state="translated">Sahypanyň howpsuz däl bölümler beklenildi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_content_display_blockedParts of the page that are not secure have been blocked">
+        <source>Parts of the page that are not secure have been blocked</source>
+        <target state="translated">Sahypanyň howpsuz däl bölümler beklenildi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-sh-cert_detailsCertificate">
+        <source>Certificate</source>
+        <target state="translated">Sertifikat</target>
+        <note from="developer">Header separating out the main security info from the details</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_ownerOwner">
+        <source>Owner</source>
+        <target state="translated">Eýesi</target>
+        <note from="developer">Label for the owner field of a TLS certificate</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_subjectWebsite">
+        <source>Website</source>
+        <target state="translated">Web-saýt</target>
+        <note from="developer">Label for the subject field of a TLS certificate</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_issuerIssuer">
+        <source>Issuer</source>
+        <target state="translated">Iberiji</target>
+        <note from="developer">Label for the issuer field of a TLS certificate</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_valid_datesValid">
+        <source>Valid</source>
+        <target state="translated">Hakyky</target>
+        <note from="developer">Label for the TLS certificate validity period (dates)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_trackingTracking">
+        <source>Tracking</source>
+        <target state="translated">Yzarlaýyş</target>
+        <note from="developer">Label prefixing the status of whether tracking tech is being used on a page</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_tracking_content_loadedThe page includes items used to track your behaviour">
+        <source>The page includes items used to track your behaviour</source>
+        <target state="translated">Sahypada özüňizi alyp barşy yzarlamak üçin ulanylan elemetleri bar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-cert_tracking_content_blockedItems used to track your behaviour have been blocked">
+        <source>Items used to track your behaviour have been blocked</source>
+        <target state="translated">Özüňizi alyp barşy yazarlamak üçin ulanylan elementler bekleniler</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-ph-searchSearch">
+        <source>Search</source>
+        <target state="translated">Gözlemek</target>
+        <note from="developer">Placeholder text for search (used in about:config page).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-config-warningChanging these advanced settings can cause issues with stability, security and performance of Sailfish Browser. Continue ?">
+        <source>Changing these advanced settings can cause issues with stability, security and performance of Sailfish Browser. Continue ?</source>
+        <target state="translated">Bu giňişleýin sazlamalary üýtgetmek durnuklylygy, howpsuzlygy we brauzeriň öndürijiligi bilen meselelere sebäp bolmagy mümkin. Şonda-da dowam etmelimi? </target>
+        <note from="developer">Warning of changing browser configurations.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-tap_to_cancelTap to cancel">
+        <source>Tap to cancel</source>
+        <target state="translated">Ýatyrmak üçin bas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-no-downloadingDownloading %1">
+        <source>Downloading %1</source>
+        <target state="translated">%1 göçürilip alynýar...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-me-open_new_tabOpen in new tab">
+        <source>Open in new tab</source>
+        <target state="translated">Täze tabda aç</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-me-share_linkShare">
+        <source>Share</source>
+        <target state="translated">Paýlaşmak</target>
+        <note from="developer">Share link from browser pulley menu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-me-add_to_launcherAdd to App Grid">
+        <source>Add to App Grid</source>
+        <target state="translated">Goýma gözenegine goş</target>
+        <note from="developer">Add bookmark to App Grid menu item. This should be relatively short to fit to the menu.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-me-edit_favoriteEdit favorite">
+        <source>Edit favorite</source>
+        <target state="translated">Halanýany düzet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-me-remove_favoriteRemove favorite">
+        <source>Remove favorite</source>
+        <target state="translated">Halanýanlardan aýyr</target>
+        <note from="developer">"Remove favorited / bookmarked web page"</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-he-add_bookmark_to_launcherAdd to App Grid">
+        <source>Add to App Grid</source>
+        <target state="translated">Goýma gözenegine goş</target>
+        <note from="developer">Title of the "Add to App Grid" dialog.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-me-deleteDelete">
+        <source>Delete</source>
+        <target state="translated">Pozmak</target>
+        <note from="developer">Delete history entry</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-press_enter_to_openPress enter to open">
+        <source>Press enter to open</source>
+        <target state="translated">Açmak üçin "Giriz" bas</target>
+        <note from="developer">Shown as placeholder in history list when entered text or url did not match to history.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-ph-type_find_from_pageFind from page">
+        <source>Find from page</source>
+        <target state="translated">Web-sahypada gözle</target>
+        <note from="developer">Placeholder text for finding text from the web page</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-ph-type_url_or_searchType URL or search">
+        <source>Type URL or search</source>
+        <target state="translated">Gözle ýa-da salgy giriz</target>
+        <note from="developer">Placeholder text for url typing and searching</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-press_enter_to_searchPress enter to search">
+        <source>Press enter to search</source>
+        <target state="translated">Gözlemek üçin "Giriz" bas</target>
+        <note from="developer">View placeholder text for find-in-page search.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-he-tabsTabs">
+        <source>Tabs</source>
+        <target state="translated">Salmalar</target>
+        <note from="developer">Tabs</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-me-normal_browsingNormal browsing">
+        <source>Normal browsing</source>
+        <target state="translated">Adaty brauzirleme</target>
+        <note from="developer">Menu item switching back to normal browser</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-me-private_browsingPrivate browsing">
+        <source>Private browsing</source>
+        <target state="translated">Şahsy brauzirleme</target>
+        <note from="developer">Menu item switching to private browser</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-me-close_allClose all tabs">
+        <source>Close all tabs</source>
+        <target state="translated">Ähli salmalary ýap</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-closed-all-tabsClosed all tabs">
+        <source>Closed all tabs</source>
+        <target state="translated">Ähli salmalar ýapyk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-me-new_tabNew tab">
+        <source>New tab</source>
+        <target state="translated">Täze tab aç</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-pull_down_to_create_tab_hintPull down to create a new tab">
+        <source>Pull down to create a new tab</source>
+        <target state="translated">Täze salma döretmek üçin aşak çek</target>
+        <note from="developer">Hint to create a new tab from pull down menu.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-selection_copiedCopied to clipboard">
+        <source>Copied to clipboard</source>
+        <target state="translated">Çalşyk buferine göçürildi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-no_resultsNo results">
+        <source>No results</source>
+        <target state="translated">Netije ýok</target>
+        <note from="developer">No text search results were found from the page.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_browser-la-loadingLoading">
+        <source>Loading</source>
+        <target state="translated">Ýüklenilýär</target>
+        <note from="developer">Loading text that is visible when url is not yet resolved.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-browser-ap-nameBrowser">
+        <source>Browser</source>
+        <target state="translated">Brauzer</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
