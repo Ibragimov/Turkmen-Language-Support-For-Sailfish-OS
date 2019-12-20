@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish_components_contacts_qt5.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-short_detail_label_personalpersonal">
+        <source>personal</source><seg-source><mrk mtype="seg" mid="1">personal</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Şahsy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-short_detail_label_workwork">
+        <source>work</source><seg-source><mrk mtype="seg" mid="2">work</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Iş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-short_detail_label_otherother">
+        <source>other</source><seg-source><mrk mtype="seg" mid="3">other</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Başga</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_first_namefirst name">
+        <source>first name</source><seg-source><mrk mtype="seg" mid="4">first name</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">Ady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_last_namelast name">
+        <source>last name</source><seg-source><mrk mtype="seg" mid="5">last name</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Familiýa</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_middle_namemiddle name">
+        <source>middle name</source><seg-source><mrk mtype="seg" mid="6">middle name</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Atasynyň ady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type-companycompany">
+        <source>company</source><seg-source><mrk mtype="seg" mid="7">company</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Kompaniýa</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_job_titlejob title">
+        <source>job title</source><seg-source><mrk mtype="seg" mid="8">job title</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">Iş ady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_rolerole">
+        <source>role</source><seg-source><mrk mtype="seg" mid="9">role</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Rol</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_departmentdepartment">
+        <source>department</source><seg-source><mrk mtype="seg" mid="10">department</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Bölüm</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_nicknamenickname">
+        <source>nickname</source><seg-source><mrk mtype="seg" mid="11">nickname</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Lakam</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_phonephone">
+        <source>phone</source><seg-source><mrk mtype="seg" mid="12">phone</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">Telefon</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_emailemail">
+        <source>email</source><seg-source><mrk mtype="seg" mid="13">email</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">E-poçta</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_imIM">
+        <source>IM</source><seg-source><mrk mtype="seg" mid="14">IM</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">IM</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_addressaddress">
+        <source>address</source><seg-source><mrk mtype="seg" mid="15">address</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">Salgy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_websitewebsite">
+        <source>website</source><seg-source><mrk mtype="seg" mid="16">website</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Web-saýt</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_birthdaybirthday">
+        <source>birthday</source><seg-source><mrk mtype="seg" mid="17">birthday</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Doglan gün</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_datedate">
+        <source>date</source><seg-source><mrk mtype="seg" mid="18">date</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">Sene</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_notenote">
+        <source>note</source><seg-source><mrk mtype="seg" mid="19">note</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">Bellik</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_phone_assistantassistant">
+        <source>assistant</source><seg-source><mrk mtype="seg" mid="20">assistant</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">Kömekçi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_phone_faxfax">
+        <source>fax</source><seg-source><mrk mtype="seg" mid="21">fax</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="21">Faks</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_phone_pagerpager">
+        <source>pager</source><seg-source><mrk mtype="seg" mid="22">pager</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="22">Peýjer</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_phone_modemmodem">
+        <source>modem</source><seg-source><mrk mtype="seg" mid="23">modem</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="23">Modem</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_phone_videovideo">
+        <source>video</source><seg-source><mrk mtype="seg" mid="24">video</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="24">Wideo</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_phone_bbsBBS">
+        <source>BBS</source><seg-source><mrk mtype="seg" mid="25">BBS</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="25">BBS</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_phone_carcar">
+        <source>car</source><seg-source><mrk mtype="seg" mid="26">car</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="26">Awtoulag</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_phone_mobilemobile">
+        <source>mobile</source><seg-source><mrk mtype="seg" mid="27">mobile</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="27">Mobil</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_phone_landlinelandline">
+        <source>landline</source><seg-source><mrk mtype="seg" mid="28">landline</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="28">Şäher telefony</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_phone_voicevoice">
+        <source>voice</source><seg-source><mrk mtype="seg" mid="29">voice</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="29">Ses</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_phone_messagingmessaging">
+        <source>messaging</source><seg-source><mrk mtype="seg" mid="30">messaging</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="30">Hat alyşmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_phone_dtmfDTMF">
+        <source>DTMF</source><seg-source><mrk mtype="seg" mid="31">DTMF</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="31">DTMF</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_address_internationalinternational">
+        <source>international</source><seg-source><mrk mtype="seg" mid="32">international</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="32">Halkara</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_address_parcelparcel">
+        <source>parcel</source><seg-source><mrk mtype="seg" mid="33">parcel</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="33">Posylka</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_address_postalpostal">
+        <source>postal</source><seg-source><mrk mtype="seg" mid="34">postal</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="34">Poçta</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_address_domesticdomestic">
+        <source>domestic</source><seg-source><mrk mtype="seg" mid="35">domestic</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="35">Içerki</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_im_videovideo">
+        <source>video</source><seg-source><mrk mtype="seg" mid="36">video</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="36">Wideo</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_im_sipvoipVOIP">
+        <source>VOIP</source><seg-source><mrk mtype="seg" mid="37">VOIP</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="37">VoIP</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_im_sipSIP">
+        <source>SIP</source><seg-source><mrk mtype="seg" mid="38">SIP</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="38">SIP</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_im_imppIMPP">
+        <source>IMPP</source><seg-source><mrk mtype="seg" mid="39">IMPP</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="39">IMPP</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_website_homepagehome page">
+        <source>home page</source><seg-source><mrk mtype="seg" mid="40">home page</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="40">Öý sahypa</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_website_blogblog">
+        <source>blog</source><seg-source><mrk mtype="seg" mid="41">blog</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="41">Blog</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_website_favoritefavorite">
+        <source>favorite</source><seg-source><mrk mtype="seg" mid="42">favorite</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="42">Halanýan</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_anniversary_weddingwedding">
+        <source>wedding</source><seg-source><mrk mtype="seg" mid="43">wedding</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="43">Toý</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_anniversary_engagementengagement">
+        <source>engagement</source><seg-source><mrk mtype="seg" mid="44">engagement</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="44">Goşulmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_anniversary_househouse">
+        <source>house</source><seg-source><mrk mtype="seg" mid="45">house</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="45">Öý</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_anniversary_employmentemployment">
+        <source>employment</source><seg-source><mrk mtype="seg" mid="46">employment</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="46">Iş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type_anniversary_memorialmemorial">
+        <source>memorial</source><seg-source><mrk mtype="seg" mid="47">memorial</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="47">Ýadygärligi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_field_address_streetStreet">
+        <source>Street</source><seg-source><mrk mtype="seg" mid="48">Street</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="48">Köçe</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_field_address_localityCity">
+        <source>City</source><seg-source><mrk mtype="seg" mid="49">City</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="49">Şäher</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_field_address_regionRegion">
+        <source>Region</source><seg-source><mrk mtype="seg" mid="50">Region</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="50">Sebit</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_field_address_postcodePostal code">
+        <source>Postal code</source><seg-source><mrk mtype="seg" mid="51">Postal code</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="51">Poçta indeksi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_field_address_countryCountry">
+        <source>Country</source><seg-source><mrk mtype="seg" mid="52">Country</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="52">Ýurt</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_field_address_poboxP.O. box">
+        <source>P.O. box</source><seg-source><mrk mtype="seg" mid="53">P.O. box</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="53">Poçta salgysy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-subtype_display_format">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Define the order and separator of type/subtype, such as 'Mobile'/'phone' - do not translate the &lt;...&gt; tokens [Only required to change default] Example: "&lt;subtype&gt; &lt;type&gt;"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-label_display_format">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Define the order and separator of label/detail, such as 'Work'/'address' - do not translate the &lt;...&gt; tokens [Only required to change default] Example: "&lt;label&gt; &lt;detail&gt;"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-address_display_format">
+        <source />
+        <target state="translated" />
+        
+      <note from="developer">Define the order and formatting of address elements - do not translate the &lt;...&gt; tokens [Only required to change default] Example: "&lt;pobox&gt;, &lt;street&gt;, &lt;city&gt;, &lt;zipcode&gt;, &lt;region&gt;, &lt;country&gt;"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_type-imInstant messaging">
+        <source>Instant messaging</source><seg-source><mrk mtype="seg" mid="54">Instant messaging</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="54">Tiz hat alyşma</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_no_labelNone">
+        <source>None</source><seg-source><mrk mtype="seg" mid="55">None</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="55">Ýok</mrk></target>
+        
+      <note from="developer">When selecting a detail label, to select none of the options</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-bt-detail_select_labelSelect label">
+        <source>Select label</source><seg-source><mrk mtype="seg" mid="56">Select label</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="56">Belgi saýla</mrk></target>
+        
+      <note from="developer">Select "personal", "work" or "other" to label this contact detail (phone, email, address etc.) appropriately</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-detail_no_typeNone">
+        <source>None</source><seg-source><mrk mtype="seg" mid="57">None</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="57">Ýok</mrk></target>
+        
+      <note from="developer">When selecting a detail type, to select none of the options</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-ph-contact_dateSet date">
+        <source>Set date</source><seg-source><mrk mtype="seg" mid="58">Set date</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="58">Sene belle</mrk></target>
+        
+      <note from="developer">Set date value</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-bt-contact_field_deleteRemove">
+        <source>Remove</source><seg-source><mrk mtype="seg" mid="59">Remove</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="59">Aýyrmak</mrk></target>
+        
+      <note from="developer">Delete contact detail</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-presence_availableAvailable">
+        <source>Available</source><seg-source><mrk mtype="seg" mid="60">Available</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="60">Elýeterli</mrk></target>
+        
+      <note from="developer">Presence state: available</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-presence_awayAway">
+        <source>Away</source><seg-source><mrk mtype="seg" mid="61">Away</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="61">Uzakda</mrk></target>
+        
+      <note from="developer">Presence state: away</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-presence_extended_awayExtended away">
+        <source>Extended away</source><seg-source><mrk mtype="seg" mid="62">Extended away</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="62">Uzaldylan</mrk></target>
+        
+      <note from="developer">Presence state: extended away</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-presence_busyBusy">
+        <source>Busy</source><seg-source><mrk mtype="seg" mid="63">Busy</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="63">Meşgul</mrk></target>
+        
+      <note from="developer">Presence state: busy</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-presence_hiddenHidden">
+        <source>Hidden</source><seg-source><mrk mtype="seg" mid="64">Hidden</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="64">Gizlenen</mrk></target>
+        
+      <note from="developer">Presence state: hidden</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-presence_offlineOffline">
+        <source>Offline</source><seg-source><mrk mtype="seg" mid="65">Offline</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="65">Awtonom</mrk></target>
+        
+      <note from="developer">Presence state: offline</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-presence_unknownUnknown">
+        <source>Unknown</source><seg-source><mrk mtype="seg" mid="66">Unknown</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="66">Nämälim</mrk></target>
+        
+      <note from="developer">Presence state: unknown</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-multimedia_messageMultimedia message">
+        <source>Multimedia message</source><seg-source><mrk mtype="seg" mid="67">Multimedia message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="67">MMS</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-messageMessage">
+        <source>Message</source><seg-source><mrk mtype="seg" mid="68">Message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="68">Hat</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-callCall">
+        <source>Call</source><seg-source><mrk mtype="seg" mid="69">Call</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="69">Jaň etmek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-send_messageSend message">
+        <source>Send message</source><seg-source><mrk mtype="seg" mid="70">Send message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="70">Hat ibermek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-he-activityActivity">
+        <source>Activity</source><seg-source><mrk mtype="seg" mid="71">Activity</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="71">Işjeňlik</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-avatar_gallerySelect from gallery">
+        <source>Select from gallery</source><seg-source><mrk mtype="seg" mid="72">Select from gallery</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="72">Galereýadan saýla</mrk></target>
+        
+      <note from="developer">Select avatar from gallery</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-avatar_removeNo image">
+        <source>No image</source><seg-source><mrk mtype="seg" mid="73">No image</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="73">Awatary aýryň</mrk></target>
+        
+      <note from="developer">Remove avatar</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-no_peopleNo people">
+        <source>No people</source><seg-source><mrk mtype="seg" mid="74">No people</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="74">Adam ýok</mrk></target>
+        
+      <note from="developer">Displayed when there are no contacts</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-he-recentRecent">
+        <source>Recent</source><seg-source><mrk mtype="seg" mid="75">Recent</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="75">Soňky</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-edit_contactEdit">
+        <source>Edit</source><seg-source><mrk mtype="seg" mid="76">Edit</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="76">Düzetmek</mrk></target>
+        
+      <note from="developer">Edit contact, from list</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-remove_contact_from_favoritesRemove from favorites">
+        <source>Remove from favorites</source><seg-source><mrk mtype="seg" mid="77">Remove from favorites</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="77">Halanýanlardan aýyr</mrk></target>
+        
+      <note from="developer">Set contact as not favorite</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-add_contact_to_favoritesAdd to favorites">
+        <source>Add to favorites</source><seg-source><mrk mtype="seg" mid="78">Add to favorites</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="78">Halanýanlara goş</mrk></target>
+        
+      <note from="developer">Set contact as favorite</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-delete_contactDelete contact">
+        <source>Delete contact</source><seg-source><mrk mtype="seg" mid="79">Delete contact</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="79">Kontakty öçür</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-action_callCall">
+        <source>Call</source><seg-source><mrk mtype="seg" mid="80">Call</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="80">Jaň etmek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-action_smsSMS">
+        <source>SMS</source><seg-source><mrk mtype="seg" mid="81">SMS</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="81">SMS iber</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-action-emailSend email">
+        <source>Send email</source><seg-source><mrk mtype="seg" mid="82">Send email</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="82">E-poçta ibermek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-action-imSend message">
+        <source>Send message</source><seg-source><mrk mtype="seg" mid="83">Send message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="83">Hat ibermek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-action-view_on_mapView on map">
+        <source>View on map</source><seg-source><mrk mtype="seg" mid="84">View on map</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="84">Kartada görkez</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-action_open_in_browserOpen in browser">
+        <source>Open in browser</source><seg-source><mrk mtype="seg" mid="85">Open in browser</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="85">Brauzerde aç</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-action-show_dateShow date">
+        <source>Show date</source><seg-source><mrk mtype="seg" mid="86">Show date</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="86">Sene görkez</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-activityActivity">
+        <source>Activity</source><seg-source><mrk mtype="seg" mid="87">Activity</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="87">Işjeňlik</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-activity_descriptionPast communication events">
+        <source>Past communication events</source><seg-source><mrk mtype="seg" mid="88">Past communication events</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="88">Geçen aragatnaşyk çäreleri</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-action-copy_to_clipboardCopy to clipboard">
+        <source>Copy to clipboard</source><seg-source><mrk mtype="seg" mid="89">Copy to clipboard</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="89">Çalşyk bufere göçür</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-edit_detailEdit">
+        <source>Edit</source><seg-source><mrk mtype="seg" mid="90">Edit</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="90">Düzetmek</mrk></target>
+        
+      <note from="developer">Edit a particular detail value, e.g. phone number or email address</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-see_all_activitySee all activity">
+        <source>See all activity</source><seg-source><mrk mtype="seg" mid="91">See all activity</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="91">Ähli işjeňlik görkez</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-contact_not_foundContact not found">
+        <source>Contact not found</source><seg-source><mrk mtype="seg" mid="92">Contact not found</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="92">Kontakt tapyp bolmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-contact_save_errorUnable to save contact">
+        <source>Unable to save contact</source><seg-source><mrk mtype="seg" mid="93">Unable to save contact</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="93">Kontakt ýazdyryp bolmaýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-ph-vcard_namecontact">
+        <source>contact</source><seg-source><mrk mtype="seg" mid="94">contact</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="94">Kontakt</mrk></target>
+        
+      <note from="developer">Placeholder name for contact vcard filename</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-deleted_contactDeleted contact">
+        <source>Deleted contact</source><seg-source><mrk mtype="seg" mid="95">Deleted contact</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="95">Kontakt öçürildi</mrk></target>
+        
+      <note from="developer">Deleted contact, providing a way to undo for 4 seconds</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-deleteDelete">
+        <source>Delete</source><seg-source><mrk mtype="seg" mid="96">Delete</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="96">Pozmak</mrk></target>
+        
+      <note from="developer">Deletes contact</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-linkLink">
+        <source>Link</source><seg-source><mrk mtype="seg" mid="97">Link</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="97">Bag</mrk></target>
+        
+      <note from="developer">Manage links (associated contacts) for this contact</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-shareShare">
+        <source>Share</source><seg-source><mrk mtype="seg" mid="98">Share</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="98">Paýlaşmak</mrk></target>
+        
+      <note from="developer">Share contact via Bluetooth, Email, etc.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-editEdit">
+        <source>Edit</source><seg-source><mrk mtype="seg" mid="99">Edit</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="99">Düzetmek</mrk></target>
+        
+      <note from="developer">Edit contact</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-copy_contact_nameCopy name">
+        <source>Copy name</source><seg-source><mrk mtype="seg" mid="100">Copy name</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="100">Ady göçür</mrk></target>
+        
+      <note from="developer">Menu option to copy the contact's display name shown in the contact card header</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-copy_contact_informationCopy details">
+        <source>Copy details</source><seg-source><mrk mtype="seg" mid="101">Copy details</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="101">Jikme-jikligi göçür</mrk></target>
+        
+      <note from="developer">Menu option to copy the contact's extra details shown in the contact card header</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-importing_contacts_from_fileImporting contacts from %1...">
+        <source>Importing contacts from %1...</source><seg-source><mrk mtype="seg" mid="102">Importing contacts from %1...</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="102">Şundan kontaktlary importirlenýär: %1...</mrk></target>
+        
+      <note from="developer">Importing contacts from a specified file</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-importing_contacts_from_simImporting contacts from SIM card...">
+        <source>Importing contacts from SIM card...</source><seg-source><mrk mtype="seg" mid="103">Importing contacts from SIM card...</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="103">SIM-kartdan kontaktlar importirlenýär...</mrk></target>
+        
+      <note from="developer">Importing contacts from SIM</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-failed_to_import_contacts_fileUnable to import contacts from %1.">
+        <source>Unable to import contacts from %1.</source><seg-source><mrk mtype="seg" mid="104">Unable to import contacts from %1.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="104">%1-dan kontaktlary importirläp bolmaýar</mrk></target>
+        
+      <note from="developer">Error while importing contacts from the specified file</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-failed_to_import_contacts_simUnable to import contacts from SIM card.">
+        <source>Unable to import contacts from SIM card.</source><seg-source><mrk mtype="seg" mid="105">Unable to import contacts from SIM card.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="105">SIM-kartdan kontaktlar importirläp bolmaýar...</mrk></target>
+        
+      <note from="developer">Error while importing contacts from SIM</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="contacts_settings-la-imported_n_contactsImported %n new contact(s).">
+        <source>Imported %n new contact(s).</source><seg-source><mrk mtype="seg" mid="106">Imported %n new contact(s).</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="106">%n täze kontakt importirlenildi.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="contacts_settings-la-no_new_contactsNo new contacts to import.">
+        <source>No new contacts to import.</source><seg-source><mrk mtype="seg" mid="107">No new contacts to import.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="107">Importirlemeli täze kontakt ýok.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-contacts_importedContacts imported.">
+        <source>Contacts imported.</source><seg-source><mrk mtype="seg" mid="108">Contacts imported.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="108">Kontaktlar importirlenildi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-he-import_contactsImport contacts">
+        <source>Import contacts</source><seg-source><mrk mtype="seg" mid="109">Import contacts</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="109">Kontaktlary importirle</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="contacts_settings-la-found_n_contacts_file%n contact(s) found in %1.">
+        <source>%n contact(s) found in %1.</source><seg-source><mrk mtype="seg" mid="110">%n contact(s) found in %1.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="110">%n kontakt %1-da tapyldy.</mrk></target>
+        
+      <note from="developer">When importing contacts from a file, this describes the number of contacts found</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="contacts_settings-la-found_n_contacts_sim%n contact(s) found on SIM card.">
+        <source>%n contact(s) found on SIM card.</source><seg-source><mrk mtype="seg" mid="111">%n contact(s) found on SIM card.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="111">%n kontakt SIM-kartda tapyldy</mrk></target>
+        
+      <note from="developer">When importing contacts from SIM, this describes the number of contacts found</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-view_contactView contact">
+        <source>View contact</source><seg-source><mrk mtype="seg" mid="112">View contact</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="112">Kontakty gör</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-view_all_contactView all contacts">
+        <source>View all contacts</source><seg-source><mrk mtype="seg" mid="113">View all contacts</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="113">Ähli kontaktlary gör</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-unnamed_contactUnnamed">
+        <source>Unnamed</source><seg-source><mrk mtype="seg" mid="114">Unnamed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="114">Atsyz</mrk></target>
+        
+      <note from="developer">Default text shown instead of a contact name, if the contact name is not known</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-finding_linksFinding links...">
+        <source>Finding links...</source><seg-source><mrk mtype="seg" mid="115">Finding links...</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="115">Baglara gözlenilýär...</mrk></target>
+        
+      <note from="developer">Displayed while the page is in the process of loading links (i.e. associated contacts with similar details)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-add_linksAdd more links">
+        <source>Add more links</source><seg-source><mrk mtype="seg" mid="116">Add more links</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="116">Has köp baglary goş</mrk></target>
+        
+      <note from="developer">Allows user to choose more contacts to be linked to this one</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-he-linksLinks">
+        <source>Links</source><seg-source><mrk mtype="seg" mid="117">Links</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="117">Baglar</mrk></target>
+        
+      <note from="developer">Header for page enabling management of links (associated contacts with similar details) for this contact</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-link_suggestionsLink suggestions">
+        <source>Link suggestions</source><seg-source><mrk mtype="seg" mid="118">Link suggestions</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="118">Bag teklipler</mrk></target>
+        
+      <note from="developer">List of suggestions for contacts that could be linked to this one as they have similar details</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_pickers-la-count_selected%n selected">
+        <source>%n selected</source><seg-source><mrk mtype="seg" mid="119">%n selected</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="119">%n saýlanyldy</mrk></target>
+        
+      <note from="developer">Indicates number of selected contacts</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_pickers-la-select_contactsSelect contacts">
+        <source>Select contacts</source><seg-source><mrk mtype="seg" mid="120">Select contacts</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="120">Kontaktlary saýla</mrk></target>
+        
+      <note from="developer">Hint that the user should select contacts</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-select_allSelect all">
+        <source>Select all</source><seg-source><mrk mtype="seg" mid="121">Select all</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="121">Ähli saýla</mrk></target>
+        
+      <note from="developer">Select all contacts</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-clear_allClear all">
+        <source>Clear all</source><seg-source><mrk mtype="seg" mid="122">Clear all</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="122">Ähli arassala</mrk></target>
+        
+      <note from="developer">Clear contacts selection</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_pickers-la-selected_contactsSelected contacts">
+        <source>Selected contacts</source><seg-source><mrk mtype="seg" mid="123">Selected contacts</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="123">Saýlanan kontaktlar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_pickers-la-no_contacts_selectedNo contacts selected">
+        <source>No contacts selected</source><seg-source><mrk mtype="seg" mid="124">No contacts selected</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="124">Saýlanan kontakt ýok</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-he-selectSelect">
+        <source>Select</source><seg-source><mrk mtype="seg" mid="125">Select</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="125">Saýlamak</mrk></target>
+        
+      <note from="developer">Choose an option from the list</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-ph-search_peopleSearch people">
+        <source>Search people</source><seg-source><mrk mtype="seg" mid="126">Search people</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="126">Kontaktlary gözle</mrk></target>
+        
+      <note from="developer">Search contacts list</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_pickers-he-select_phone_numberSelect number">
+        <source>Select number</source><seg-source><mrk mtype="seg" mid="127">Select number</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="127">Belgi saýla</mrk></target>
+        
+      <note from="developer">Page title of contact phone number selector</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_pickers-he-select_email_addressSelect email">
+        <source>Select email</source><seg-source><mrk mtype="seg" mid="128">Select email</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="128">E-poçta saýlaň</mrk></target>
+        
+      <note from="developer">Page title of contact email address selector</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_pickers-he-select_contactSelect contact">
+        <source>Select contact</source><seg-source><mrk mtype="seg" mid="129">Select contact</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="129">Kontakt saýla</mrk></target>
+        
+      <note from="developer">Page title of contact selector</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_pickers-me-searchSearch">
+        <source>Search</source><seg-source><mrk mtype="seg" mid="130">Search</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="130">Gözlemek</mrk></target>
+        
+      <note from="developer">Show contact search view</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-he-share_contactShare contact">
+        <source>Share contact</source><seg-source><mrk mtype="seg" mid="131">Share contact</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="131">Kontakty paýlaş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="contacts-bt-contact_add_addressAdd address">
+        <source>Add address</source><seg-source><mrk mtype="seg" mid="132">Add address</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="132">Salgy goş</mrk></target>
+        
+      <note from="developer">Add an address for this contact</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="contacts-bt-contact_add_dateAdd date">
+        <source>Add date</source><seg-source><mrk mtype="seg" mid="133">Add date</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="133">Sene goş</mrk></target>
+        
+      <note from="developer">Add a date (e.g. a wedding anniversary date) for this contact</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="contacts-bt-contact_add_emailAdd email">
+        <source>Add email</source><seg-source><mrk mtype="seg" mid="134">Add email</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="134">E-poçta goş</mrk></target>
+        
+      <note from="developer">Add an email for this contact</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="contacts-bt-contact_add_detailAdd detail">
+        <source>Add detail</source><seg-source><mrk mtype="seg" mid="135">Add detail</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="135">Jikme-jikligi goş</mrk></target>
+        
+      <note from="developer">Add miscellaneous detail (e.g. middle name, company department, etc.) for this contact</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="contacts-bt-contact_add_noteAdd note">
+        <source>Add note</source><seg-source><mrk mtype="seg" mid="136">Add note</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="136">Bellik goş</mrk></target>
+        
+      <note from="developer">Add a note for this contact</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="contacts-bt-contact_add_phoneAdd phone">
+        <source>Add phone</source><seg-source><mrk mtype="seg" mid="137">Add phone</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="137">Telefon goş</mrk></target>
+        
+      <note from="developer">Add a phone number for this contact</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="contacts-bt-contact_add_websiteAdd website">
+        <source>Add website</source><seg-source><mrk mtype="seg" mid="138">Add website</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="138">Web-saýt goş</mrk></target>
+        
+      <note from="developer">Add a website for this contact</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-no_presenceNo accounts available with presence functionality">
+        <source>No accounts available with presence functionality</source><seg-source><mrk mtype="seg" mid="139">No accounts available with presence functionality</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="139">Barlyk funksionallyk bilen elýeterli hasaplar ýok</mrk></target>
+        
+      <note from="developer">Displayed when there are no presence accounts</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-no_presence_hintYou can add or modify accounts in Settings | Accounts">
+        <source>You can add or modify accounts in Settings | Accounts</source><seg-source><mrk mtype="seg" mid="140">You can add or modify accounts in Settings | Accounts</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="140">Hasaplary Sazlamalarda goşup ýa-da üýtgedip bilersiňiz | Hasaplar</mrk></target>
+        
+      <note from="developer">Informs the user to configure an account in Settings | Accounts</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-he-presence_detailsPresence">
+        <source>Presence</source><seg-source><mrk mtype="seg" mid="141">Presence</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="141">Barlyk</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-la-controlled_servicesControlled services">
+        <source>Controlled services</source><seg-source><mrk mtype="seg" mid="142">Controlled services</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="142">Dolandyrylan hyzmatlar</mrk></target>
+        
+      <note from="developer">List of services with presence that the global switches affect</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-ph-recipientRecipient">
+        <source>Recipient</source><seg-source><mrk mtype="seg" mid="143">Recipient</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="143">Alyjy</mrk></target>
+        
+      <note from="developer">A single recipient</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-ph-recipientsRecipients">
+        <source>Recipients</source><seg-source><mrk mtype="seg" mid="144">Recipients</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="144">Alyjylar</mrk></target>
+        
+      <note from="developer">Summary of all selected recipients, e.g. "Bob, Jane, 75553243"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="components_contacts-me-saveSave">
+        <source>Save</source><seg-source><mrk mtype="seg" mid="145">Save</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="145">Ýazdyrmak</mrk></target>
+        
+      <note from="developer">Save contact</note></trans-unit>
+    </body>
+  </file>
+</xliff>

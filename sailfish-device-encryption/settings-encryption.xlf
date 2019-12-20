@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="settings-encryption.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-back_upBack up">
+        <source>Back up</source><seg-source><mrk mtype="seg" mid="1">Back up</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Ätiýaçlamak</mrk></target>
+        
+      <note from="developer">A link to Settings | System | Backup Action or verb that can be used for %1 in settings_encryption-la-encrypt_user_data_warning and settings_encryption-la-encrypt_user_data_description Strongly proposing user to do a backup.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-he-encryption_informationEncryption information">
+        <source>Encryption information</source><seg-source><mrk mtype="seg" mid="2">Encryption information</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Şifrleme maglumaty</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-he-encryptionEncryption">
+        <source>Encryption</source><seg-source><mrk mtype="seg" mid="3">Encryption</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Şifrleme</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-battery_chargingBattery level low. Do not remove the charger.">
+        <source>Battery level low. Do not remove the charger.</source><seg-source><mrk mtype="seg" mid="4">Battery level low.</mrk> <mrk mtype="seg" mid="5">Do not remove the charger.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">Zarýad pes.</mrk> <mrk mtype="seg" mid="5">Enjamyňyzy zarýadlaýja birigen saklaň.</mrk></target>
+        
+      <note from="developer">Battery low warning for device reset when charger is attached. Same as settings_reset-la-battery_charging
+----------
+Battery low warning for device encryption when charger is attached.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-battery_level_lowBattery level too low.">
+        <source>Battery level too low.</source><seg-source><mrk mtype="seg" mid="6">Battery level too low.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Zarýad pes.</mrk></target>
+        
+      <note from="developer">Battery low warning for device reset when charger is not attached. Same as settings_reset-la-battery_level_low
+----------
+Battery low warning for device encryption when charger is not attached.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-mtp_disconnectMedia transfer (MTP) will be disconnected.">
+        <source>Media transfer (MTP) will be disconnected.</source><seg-source><mrk mtype="seg" mid="7">Media transfer (MTP) will be disconnected.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Media geçirişiň (MTP) birikmesi kesiler</mrk></target>
+        
+      <note from="developer">USB MTP mode disconnect warning</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-encrypt_user_data_descriptionThis will erase all user data from the device. This means losing user data that you have added to the device, reverts apps to clean state, accounts, contacts, photos and other media.&lt;br&gt;&lt;br&gt;%1 user data to memory card before encrypting the device.">
+        <source>This will erase all user data from the device. This means losing user data that you have added to the device, reverts apps to clean state, accounts, contacts, photos and other media.&lt;br&gt;&lt;br&gt;%1 user data to memory card before encrypting the device.</source><seg-source><mrk mtype="seg" mid="8">This will erase all user data from the device.</mrk> <mrk mtype="seg" mid="9">This means losing user data that you have added to the device, reverts apps to clean state, accounts, contacts, photos and other media.&lt;br&gt;&lt;br&gt;%1 user data to memory card before encrypting the device.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">Ol enjamdaky ähli ulanyjy maglumaty pozar.</mrk> <mrk mtype="seg" mid="9">Şu diýmek, siziň enjama goşan ulanyjy maglumaty ýitirmek, goýmalary, hasaplary, kontaktlary, fotosuratlary we başga media arassa ýagdaýa dikeltmek.&lt;br&gt;&lt;br&gt;Enjamy şifrlemekden öň %1 ulanyjy maglumaty ýat kartasyna.</mrk></target>
+        
+      <note from="developer">Takes "Back up" (settings_encryption-la-back_up) formatted hyperlink as parameter. This is done because we're creating programmatically a hyperlink for it.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-bt-encryptEncrypt">
+        <source>Encrypt</source><seg-source><mrk mtype="seg" mid="10">Encrypt</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Şifrle</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-encryption_user_data_descriptionYour user data is encrypted which means that only authorized users can access it. Users are authenticated with security code.">
+        <source>Your user data is encrypted which means that only authorized users can access it. Users are authenticated with security code.</source><seg-source><mrk mtype="seg" mid="11">Your user data is encrypted which means that only authorized users can access it.</mrk> <mrk mtype="seg" mid="12">Users are authenticated with security code.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Ulanyjy maglumaty şifrlenen, diýmek diňe ygtyýarly ulanyjylar oňa girip biler.</mrk> <mrk mtype="seg" mid="12">Ulanyjylar howpsuz kod bilen tassyklanylýar.</mrk></target>
+        
+      <note from="developer">Shown in the Settings -&gt; Encryption page when user data is already encrypted.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-encryption_user_dataUser data">
+        <source>User data</source><seg-source><mrk mtype="seg" mid="13">User data</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">Ulanyjy maglumaty</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-encryptionEncryption">
+        <source>Encryption</source><seg-source><mrk mtype="seg" mid="14">Encryption</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Şifrleme</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-enabledEnabled">
+        <source>Enabled</source><seg-source><mrk mtype="seg" mid="15">Enabled</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">Açyk</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-device_typeDevice type">
+        <source>Device type</source><seg-source><mrk mtype="seg" mid="16">Device type</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Enjam görnüşi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-versionVersion">
+        <source>Version</source><seg-source><mrk mtype="seg" mid="17">Version</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Wersiýa</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-sizeSize">
+        <source>Size</source><seg-source><mrk mtype="seg" mid="18">Size</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">Ölçeg</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-he-backup_reminderDid you remember to backup?">
+        <source>Did you remember to backup?</source><seg-source><mrk mtype="seg" mid="19">Did you remember to backup?</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">Siz ätiýaçlamagy ýatdan çykarmadyňyzmy?</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-encrypt_user_data_warningAccepting this will erase all user data on the device. This means losing user data that you have added to the device (e.g. reverts apps to clean state, accounts, contacts, photos and other media). %1 user data to memory card.&lt;br&gt;&lt;br&gt; This is an irreversible change and you will need to enter a security code on all future boots in order to access your data.&lt;br&gt;&lt;br&gt;If you accept the device will reboot automatically and you will be prompted for the security code before encrypting user data.">
+        <source>Accepting this will erase all user data on the device. This means losing user data that you have added to the device (e.g. reverts apps to clean state, accounts, contacts, photos and other media). %1 user data to memory card.&lt;br&gt;&lt;br&gt; This is an irreversible change and you will need to enter a security code on all future boots in order to access your data.&lt;br&gt;&lt;br&gt;If you accept the device will reboot automatically and you will be prompted for the security code before encrypting user data.</source><seg-source><mrk mtype="seg" mid="20">Accepting this will erase all user data on the device.</mrk> <mrk mtype="seg" mid="21">This means losing user data that you have added to the device (e.g. reverts apps to clean state, accounts, contacts, photos and other media).</mrk> <mrk mtype="seg" mid="22">%1 user data to memory card.&lt;br&gt;&lt;br&gt; This is an irreversible change and you will need to enter a security code on all future boots in order to access your data.&lt;br&gt;&lt;br&gt;If you accept the device will reboot automatically and you will be prompted for the security code before encrypting user data.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">Ony kabul etmek enjamdaky ähli ulanyjy maglumaty pozar.</mrk> <mrk mtype="seg" mid="21">Şu diýmek, siziň enjama goşan ulanyjy maglumaty ýitirmek (goýmalary, hasaplary, kontaktlary, fotosuratlary we başga media arassa ýagdaýa dikeltmek).</mrk> <mrk mtype="seg" mid="22">%1 ulanyjy maglumat ýat kartasyna.&lt;br&gt;&lt;br&gt; Bu ýatyrylmadyk üýtgetme we maglumatyňyza girmek üçin siz ähli geljek işledişlerde howpsuz kody girizmeli.&lt;br&gt;&lt;br&gt;Eger siz kabul etseňiz, enjam awtomatiki täzeden başlar we ulanyjy maglumaty şifrlemekden öň sizden howpsuzlyk kody soralar.</mrk></target>
+        
+      <note from="developer">Takes "Back up" (settings_encryption-la-back_up) formatted hyperlink as parameter. This is done because we're creating programmatically a hyperlink for it.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-make_backup_and_restore_itHow do I make a backup and restore it?">
+        <source>How do I make a backup and restore it?</source><seg-source><mrk mtype="seg" mid="23">How do I make a backup and restore it?</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="23">Men ätiýaçlama nähili etmeli we ony nähili dikeltmeli?</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-encrypt_user_data_security_code_noticeYou will need to enter your security code before user data can be encrypted.">
+        <source>You will need to enter your security code before user data can be encrypted.</source><seg-source><mrk mtype="seg" mid="24">You will need to enter your security code before user data can be encrypted.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="24">Ulanyjy maglumat şifrläp bilmekden öň, siz öz howpsuzlyk kody girizmeli.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-encrypt_user_data_create_security_code_noticeYou will need to set a security code before user data can be encrypted.">
+        <source>You will need to set a security code before user data can be encrypted.</source><seg-source><mrk mtype="seg" mid="25">You will need to set a security code before user data can be encrypted.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="25">Ulanyjy maglumat şifrläp bilmekden öň, siz öz howpsuzlyk kody bellemeli.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_encryption-la-encrypt_user_data_confirmationDo you want to encrypt user data?">
+        <source>Do you want to encrypt user data?</source><seg-source><mrk mtype="seg" mid="26">Do you want to encrypt user data?</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="26">Ulanyjy maglumat şifrlemek isleýärsiňizmi?</mrk></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish-unlock-ui.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-device-encryption-unlock-ui-la-enter_security_codeEnter security code">
+        <source>Enter security code</source><seg-source><mrk mtype="seg" mid="1">Enter security code</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Howpsuzlyk koduny giriziň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-device-encryption-unlock-ui-la-emergency_callEmergency call">
+        <source>Emergency call</source><seg-source><mrk mtype="seg" mid="2">Emergency call</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Gyssagly jaň</mrk></target>
+        
+      <note from="developer">Shown when user has chosen emergency call mode</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-device-encryption-unlock-ui-la-incorrect_security_codeIncorrect security code">
+        <source>Incorrect security code</source><seg-source><mrk mtype="seg" mid="3">Incorrect security code</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Nädogry howpsuzlyk kody</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-device-encryption-unlock-ui-la-rebootingOne moment...">
+        <source>One moment...</source><seg-source><mrk mtype="seg" mid="4">One moment...</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">Birje minut...</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-device-encryption-unlock-ui-la-goodbyeGoodbye!">
+        <source>Goodbye!</source><seg-source><mrk mtype="seg" mid="5">Goodbye!</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Sag boluň!</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-device-encryption-unlock-ui-la-last_chanceEntering an incorrect security code once more will permanently block your access to the device.">
+        <source>Entering an incorrect security code once more will permanently block your access to the device.</source><seg-source><mrk mtype="seg" mid="6">Entering an incorrect security code once more will permanently block your access to the device.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Eger nädogry howpsuzlyk kody ýene girizseňiz, enjamyňyz hemişelik gulplanylar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-device-encryption-unlock-ui-la-invalid_emergency_numberOnly emergency calls permitted">
+        <source>Only emergency calls permitted</source><seg-source><mrk mtype="seg" mid="7">Only emergency calls permitted</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Diňe gyssagly jaňlar</mrk></target>
+        
+      <note from="developer">Indicates that user has entered invalid emergency number</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-device-encryption-unlock-ui-bt-start_callCall">
+        <source>Call</source><seg-source><mrk mtype="seg" mid="8">Call</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">Jaň etmek</mrk></target>
+        
+      <note from="developer">Starts the phone call</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-device-encryption-unlock-ui-bt-end_callEnd">
+        <source>End</source><seg-source><mrk mtype="seg" mid="9">End</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Tamamlamak</mrk></target>
+        
+      <note from="developer">Ends the phone call</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-device-encryption-unlock-ui-la-calling_emergency_numberCalling emergency number">
+        <source>Calling emergency number</source><seg-source><mrk mtype="seg" mid="10">Calling emergency number</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Gyssagly belgä jaň etmek</mrk></target>
+        
+      <note from="developer">Shown when calling emergency number</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-device-encryption-unlock-ui-la-emergency_call_failedEmergency call failed">
+        <source>Emergency call failed</source><seg-source><mrk mtype="seg" mid="11">Emergency call failed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Gyssagly jaň edip bolmady</mrk></target>
+        
+      <note from="developer">Shown when calling emergency number fails</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-device-encryption-unlock-ui-la-emergency_call_endedEmergency call ended">
+        <source>Emergency call ended</source><seg-source><mrk mtype="seg" mid="12">Emergency call ended</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">Gyssagly jaň gutardy</mrk></target>
+        
+      <note from="developer">Shown when emergency call ends</note></trans-unit>
+    </body>
+  </file>
+</xliff>
