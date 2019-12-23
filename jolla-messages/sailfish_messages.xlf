@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish_messages.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-sim_card_supportSIM card does not support SMS/MMS">
+        <source>SIM card does not support SMS/MMS</source><seg-source><mrk mtype="seg" mid="1">SIM card does not support SMS/MMS</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">SIM-karta SMS/MMS goldamaz</mrk></target>
+        
+      <note from="developer">The SIM in the device does not support sending messages</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-im_account_connectedConnected to %1">
+        <source>Connected to %1</source><seg-source><mrk mtype="seg" mid="2">Connected to %1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">%1-a birigen</mrk></target>
+        
+      <note from="developer">%1 is provider name, e.g. Google</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-im_account_connectingConnecting to %1...">
+        <source>Connecting to %1...</source><seg-source><mrk mtype="seg" mid="3">Connecting to %1...</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">%1-a birigilýär...</mrk></target>
+        
+      <note from="developer">%1 is provider name, e.g. Google</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-im_account_offlineYou are offline on %1">
+        <source>You are offline on %1</source><seg-source><mrk mtype="seg" mid="4">You are offline on %1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">Siz %1-da awtonomda</mrk></target>
+        
+      <note from="developer">%1 is provider name, e.g. Google</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-im_network_errorUnable to connect to %1 due to a network error">
+        <source>Unable to connect to %1 due to a network error</source><seg-source><mrk mtype="seg" mid="5">Unable to connect to %1 due to a network error</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Tor bilen näsazlyk sebäpli %1-a birigip bolmady</mrk></target>
+        
+      <note from="developer">%1 is provider name, e.g. Google</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-im_authentication_error%1 authentication failed&lt;br&gt;Check your username and password">
+        <source>%1 authentication failed&lt;br&gt;Check your username and password</source><seg-source><mrk mtype="seg" mid="6">%1 authentication failed&lt;br&gt;Check your username and password</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">%1 hakykylyk barlagy bilen näsazlyk ýüze çykdy.&lt;br&gt;Öz ulanyjy adyňyzy we parolyňyzy barlaň.</mrk></target>
+        
+      <note from="developer">%1 is provider name, e.g. Google</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-im_encryption_errorUnable to connect to %1 due to an encryption error">
+        <source>Unable to connect to %1 due to an encryption error</source><seg-source><mrk mtype="seg" mid="7">Unable to connect to %1 due to an encryption error</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Şifrleme bilen näsazlyk sebäpli %1-a birigip bolmady</mrk></target>
+        
+      <note from="developer">%1 is provider name, e.g. Google</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-im_generic_errorUnable to connect to %1&lt;br&gt;Check your connection and settings">
+        <source>Unable to connect to %1&lt;br&gt;Check your connection and settings</source><seg-source><mrk mtype="seg" mid="8">Unable to connect to %1&lt;br&gt;Check your connection and settings</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">%1-a birikmekde näsazlyk ýüze çykdy.&lt;br&gt;Birikmäňizi we sazlamalary barlaň.</mrk></target>
+        
+      <note from="developer">%1 is provider name, e.g. Google</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-ph-chat_placeholder_genericType message">
+        <source>Type message</source><seg-source><mrk mtype="seg" mid="9">Type message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Hat ýaz</mrk></target>
+        
+      <note from="developer">Generic placeholder for chat input</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-invalid_recipient_detailsInvalid recipient: %1">
+        <source>Invalid recipient: %1</source><seg-source><mrk mtype="seg" mid="10">Invalid recipient:</mrk> <mrk mtype="seg" mid="11">%1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Nädogry alyjy:</mrk> <mrk mtype="seg" mid="11">%1</mrk></target>
+        
+      <note from="developer">Invalid recipient error with details</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la_error_multiple_local_accountsCannot send message, multiple local accounts found">
+        <source>Cannot send message, multiple local accounts found</source><seg-source><mrk mtype="seg" mid="12">Cannot send message, multiple local accounts found</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">Hat iberip bolmaýar. Köpsanly ýerli hasaplar tapyldy.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la_error_im_accountCannot find instant messaging account">
+        <source>Cannot find instant messaging account</source><seg-source><mrk mtype="seg" mid="13">Cannot find instant messaging account</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">Tiz hat alyşma hasaby tapyp bolmaýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la_error_im_account_group_conversationCannot use group conversations with instant messaging">
+        <source>Cannot use group conversations with instant messaging</source><seg-source><mrk mtype="seg" mid="14">Cannot use group conversations with instant messaging</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Tiz hat alyşma bilen topar gepleşikleri ulanyp bolmaýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-messages-la-new_messageNew message">
+        <source>New message</source><seg-source><mrk mtype="seg" mid="15">New message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">Täze hat</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-messages-ph-recipientrecipient">
+        <source>recipient</source><seg-source><mrk mtype="seg" mid="16">recipient</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Alyjy</mrk></target>
+        
+      <note from="developer">A single recipient</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-messages-ph-recipientsRecipients">
+        <source>Recipients</source><seg-source><mrk mtype="seg" mid="17">Recipients</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Alyjylar</mrk></target>
+        
+      <note from="developer">Summary of all selected recipients, e.g. "Bob, Jane, 75553243"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-va-text_messageText message">
+        <source>Text message</source><seg-source><mrk mtype="seg" mid="18">Text message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">SMS</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-unknown_accountUnknown">
+        <source>Unknown</source><seg-source><mrk mtype="seg" mid="19">Unknown</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">Nämälim</mrk></target>
+        
+      <note from="developer">Name for unknown/invalid messaging accounts</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-messages-la-message_typeMessage type">
+        <source>Message type</source><seg-source><mrk mtype="seg" mid="20">Message type</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">Hat görnüşi</mrk></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

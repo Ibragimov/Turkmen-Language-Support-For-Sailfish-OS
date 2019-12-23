@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="messages.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-me-message_copy_clipboardCopy to Clipboard">
+        <source>Copy to Clipboard</source><seg-source><mrk mtype="seg" mid="1">Copy to Clipboard</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Çalşyk bufere göçür</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-me-dialog_discardDiscard">
+        <source>Discard</source><seg-source><mrk mtype="seg" mid="2">Discard</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Aýyrmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-ph-mms_empty_textMultimedia message">
+        <source>Multimedia message</source><seg-source><mrk mtype="seg" mid="3">Multimedia message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">MMS</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-send_status_failedProblem with sending message">
+        <source>Problem with sending message</source><seg-source><mrk mtype="seg" mid="4">Problem with sending message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">Hat ibermekde näsazlyk bar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-message_state_sendingSending...">
+        <source>Sending...</source><seg-source><mrk mtype="seg" mid="5">Sending...</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Iberilýär...</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-message_state_downloadingDownloading...">
+        <source>Downloading...</source><seg-source><mrk mtype="seg" mid="6">Downloading...</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Göçürilip alynýar...</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-message_state_waitingWaiting...">
+        <source>Waiting...</source><seg-source><mrk mtype="seg" mid="7">Waiting...</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Garaşylýar...</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-messages-new_message_coverNEW&lt;br/&gt;MESSAGE">
+        <source>NEW&lt;br/&gt;MESSAGE</source><seg-source><mrk mtype="seg" mid="8">NEW&lt;br/&gt;MESSAGE</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">Täze&lt;br/&gt;hat</mrk></target>
+        
+      <note from="developer">cover text on message editor mode, &lt;br/&gt; can be used for line feed</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-access_contact_card_hintSwipe left to access the contact card">
+        <source>Swipe left to access the contact card</source><seg-source><mrk mtype="seg" mid="9">Swipe left to access the contact card</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Kontakt kartasyna girmek üçin çege syryň</mrk></target>
+        
+      <note from="developer">Swipe left to access the contact card</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-ph-sender_des_not_support_repliesSender does not support replies">
+        <source>Sender does not support replies</source><seg-source><mrk mtype="seg" mid="10">Sender does not support replies</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Iberiji jogaplary goldamaz</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-he-todayToday">
+        <source>Today</source><seg-source><mrk mtype="seg" mid="11">Today</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Şu gün</mrk></target>
+        
+      <note from="developer">Section header for messages that arrived on the current day.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-he-yesterdayYesterday">
+        <source>Yesterday</source><seg-source><mrk mtype="seg" mid="12">Yesterday</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">Düýn</mrk></target>
+        
+      <note from="developer">Section header for messages that arrived on the previous day.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-me-retry_messageRetry">
+        <source>Retry</source><seg-source><mrk mtype="seg" mid="13">Retry</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">Ýene synanyşyň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-me-cancelCancel">
+        <source>Cancel</source><seg-source><mrk mtype="seg" mid="14">Cancel</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Ýatyrmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-me-copy_message_textCopy text">
+        <source>Copy text</source><seg-source><mrk mtype="seg" mid="15">Copy text</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">Teksti göçür</mrk></target>
+        
+      <note from="developer">Shown when message has attachments, and only the text of the message will be copied.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-me-copy_messageCopy">
+        <source>Copy</source><seg-source><mrk mtype="seg" mid="16">Copy</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Göçürmek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-me-delete_messageDelete">
+        <source>Delete</source><seg-source><mrk mtype="seg" mid="17">Delete</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Pozmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-date_time%1 %2">
+        <source>%1 %2</source><seg-source><mrk mtype="seg" mid="18">%1 %2</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">%1 %2</mrk></target>
+        
+      <note from="developer">This string is used to decide what order the date and time should appear together. First argument is the date, second is the time.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-mms_manual_download_promptTap to download multimedia message">
+        <source>Tap to download multimedia message</source><seg-source><mrk mtype="seg" mid="19">Tap to download multimedia message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">MMS göçürip almak üçin basyň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-receive_status_failedProblem with downloading message">
+        <source>Problem with downloading message</source><seg-source><mrk mtype="seg" mid="20">Problem with downloading message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">Hat göçürip almakda bir näsazlyk ýüze çykdy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-me-delete_conversationDelete">
+        <source>Delete</source><seg-source><mrk mtype="seg" mid="21">Delete</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="21">Pozmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-messages-save_image_to_gallerySave to Gallery">
+        <source>Save to Gallery</source><seg-source><mrk mtype="seg" mid="22">Save to Gallery</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="22">Galereýada ýazdyr</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-me-save_contactSave">
+        <source>Save</source><seg-source><mrk mtype="seg" mid="23">Save</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="23">Ýazdyrmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-saved_contactSaved contact">
+        <source>Saved contact</source><seg-source><mrk mtype="seg" mid="24">Saved contact</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="24">Kontakt ýazdyryldy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-error_saving_contactError saving contact">
+        <source>Error saving contact</source><seg-source><mrk mtype="seg" mid="25">Error saving contact</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="25">Kontakty ýazdyrmakda bir näsazlyk ýüze çykdy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-me-new_conversationNew message">
+        <source>New message</source><seg-source><mrk mtype="seg" mid="26">New message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="26">Täze hat</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-message-empty_state_accountsNo accounts available with messaging functionality. You can add or modify accounts in Settings | Accounts">
+        <source>No accounts available with messaging functionality. You can add or modify accounts in Settings | Accounts</source><seg-source><mrk mtype="seg" mid="27">No accounts available with messaging functionality.</mrk> <mrk mtype="seg" mid="28">You can add or modify accounts in Settings | Accounts</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="27">Hat alyşma funksionallyk bilen elýeterli hasaplar ýok.</mrk> <mrk mtype="seg" mid="28">Hasaplary Sazlamalarda goşup ýa-da üýtgedip bilersiňiz | Hasaplar.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-message-someoneMessage someone">
+        <source>Message someone</source><seg-source><mrk mtype="seg" mid="29">Message someone</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="29">Hat ýok. Dosta hat ibermek üçin aşak çekiň.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-saved_photoSaved photo">
+        <source>Saved photo</source><seg-source><mrk mtype="seg" mid="30">Saved photo</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="30">Ýazdyrylan fotosurat</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-messages-open_fileOpen file">
+        <source>Open file</source><seg-source><mrk mtype="seg" mid="31">Open file</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="31">Faýl aç</mrk></target>
+        
+      <note from="developer">Display text for notification action</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-error_saving_photoError saving photo">
+        <source>Error saving photo</source><seg-source><mrk mtype="seg" mid="32">Error saving photo</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="32">Fotosuraty ýazdyrmakda bir näsazlyk ýüze çykdy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-messages-la-n-contacts%n contacts">
+        <source>%n contacts</source><seg-source><mrk mtype="seg" mid="33">%n contacts</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="33">%n kontakt</mrk></target>
+        
+      <note from="developer">The count of contacts in a VCard. This will only be shown for a count of greater than 1.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-header_multimedia_messageMultimedia Message">
+        <source>Multimedia Message</source><seg-source><mrk mtype="seg" mid="34">Multimedia Message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="34">MMS</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-he-recipientsRecipients">
+        <source>Recipients</source><seg-source><mrk mtype="seg" mid="35">Recipients</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="35">Alyjylar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-me-save_all_contactsSave all contacts">
+        <source>Save all contacts</source><seg-source><mrk mtype="seg" mid="36">Save all contacts</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="36">Ähli kontaktlary ýazdyr</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-saved_n_contactsSaved %n contacts">
+        <source>Saved %n contacts</source><seg-source><mrk mtype="seg" mid="37">Saved %n contacts</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="37">%n kontakt ýazdyryldy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-la-error_saving_contactsError saving contacts">
+        <source>Error saving contacts</source><seg-source><mrk mtype="seg" mid="38">Error saving contacts</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="38">Kontaktlary ýazdyrmakda bir näsazlyk ýüze çykdy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-he-contactsContacts">
+        <source>Contacts</source><seg-source><mrk mtype="seg" mid="39">Contacts</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="39">Kontaktlar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-he-messagesMessages">
+        <source>Messages</source><seg-source><mrk mtype="seg" mid="40">Messages</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="40">Hatlar</mrk></target>
+        
+      <note from="developer">Messages settings page header</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-he-smsSMS">
+        <source>SMS</source><seg-source><mrk mtype="seg" mid="41">SMS</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="41">SMS</mrk></target>
+        
+      <note from="developer">SMS settings section header</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-la-smscSMS Center address">
+        <source>SMS Center address</source><seg-source><mrk mtype="seg" mid="42">SMS Center address</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="42">SMS hat merkezi salgysy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-la-delivery_reportsDelivery reports">
+        <source>Delivery reports</source><seg-source><mrk mtype="seg" mid="43">Delivery reports</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="43">Eltiş hasabatlary</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-ls-delivery_reports_descriptionRequest report when recipient receives the SMS">
+        <source>Request report when recipient receives the SMS</source><seg-source><mrk mtype="seg" mid="44">Request report when recipient receives the SMS</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="44">Alyjy SMS alanda hasabat talab et</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-la-change_delivery_reports_failedChanging delivery reports status failed">
+        <source>Changing delivery reports status failed</source><seg-source><mrk mtype="seg" mid="45">Changing delivery reports status failed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="45">Gowşuryş hasabatlaryň statusy üýtgetmekde bir näsazlyk ýüze çykdy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-la-show_character_counterShow character counter">
+        <source>Show character counter</source><seg-source><mrk mtype="seg" mid="46">Show character counter</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="46">Nyşan sanaýjyny görkez</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-ls-show_character_counter_descriptionShow the number of messages typed and the number of available characters remaining in the last message">
+        <source>Show the number of messages typed and the number of available characters remaining in the last message</source><seg-source><mrk mtype="seg" mid="47">Show the number of messages typed and the number of available characters remaining in the last message</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="47">Ýazdyrylan hatlaryň we soňky hatda galan elýeterli nyşanlaryň sany görkeziň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-he-mmsMMS">
+        <source>MMS</source><seg-source><mrk mtype="seg" mid="48">MMS</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="48">MMS</mrk></target>
+        
+      <note from="developer">MMS settings section header</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-bt-mms_sizeMaximum message size">
+        <source>Maximum message size</source><seg-source><mrk mtype="seg" mid="49">Maximum message size</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="49">Maksimum hat ölçegi</mrk></target>
+        
+      <note from="developer">Selection of MMS maximum message size</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-ls-mms_size_descriptionNote that your or recipient's network service provider might restrict the message size">
+        <source>Note that your or recipient's network service provider might restrict the message size</source><seg-source><mrk mtype="seg" mid="50">Note that your or recipient's network service provider might restrict the message size</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="50">Siziň ýa-da alyjynyň tor hyzmat üpjünçi hat ölçegini çäklendirip biler</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-me-mms_size_smallSmall (%1 kB)">
+        <source>Small (%1 kB)</source><seg-source><mrk mtype="seg" mid="51">Small (%1 kB)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="51">Kiçi (%1 kB)</mrk></target>
+        
+      <note from="developer">MMS maximum message size ComboBox item</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-la-mms_size_smallSmall">
+        <source>Small</source><seg-source><mrk mtype="seg" mid="52">Small</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="52">Kiçi</mrk></target>
+        
+      <note from="developer">MMS maximum message size value</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-me-mms_size_mediumMedium (%1 kB)">
+        <source>Medium (%1 kB)</source><seg-source><mrk mtype="seg" mid="53">Medium (%1 kB)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="53">Orta (%1 kB)</mrk></target>
+        
+      <note from="developer">MMS maximum message size ComboBox item</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-la-mms_size_mediumMedium">
+        <source>Medium</source><seg-source><mrk mtype="seg" mid="54">Medium</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="54">Orta</mrk></target>
+        
+      <note from="developer">MMS maximum message size value</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-me-mms_size_largeLarge (%1 kB)">
+        <source>Large (%1 kB)</source><seg-source><mrk mtype="seg" mid="55">Large (%1 kB)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="55">Uly (%1 kB)</mrk></target>
+        
+      <note from="developer">MMS maximum message size ComboBox item</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-la-mms_size_largeLarge">
+        <source>Large</source><seg-source><mrk mtype="seg" mid="56">Large</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="56">Uly</mrk></target>
+        
+      <note from="developer">MMS maximum message size value</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-me-mms_size_extra_largeExtra large (%1 MB)">
+        <source>Extra large (%1 MB)</source><seg-source><mrk mtype="seg" mid="57">Extra large (%1 MB)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="57">Has uly (%1 MB)</mrk></target>
+        
+      <note from="developer">MMS maximum message size ComboBox item</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-la-mms_size_extra_largeExtra large">
+        <source>Extra large</source><seg-source><mrk mtype="seg" mid="58">Extra large</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="58">Aşa uly</mrk></target>
+        
+      <note from="developer">MMS maximum message size value</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-bt-mms_request_reportsRequest reports">
+        <source>Request reports</source><seg-source><mrk mtype="seg" mid="59">Request reports</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="59">Hasabatlary talap et</mrk></target>
+        
+      <note from="developer">Request MMS reports</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-ls-mms_request_reports_descriptionYou can request report when recipient receives and/or reads the MMS">
+        <source>You can request report when recipient receives and/or reads the MMS</source><seg-source><mrk mtype="seg" mid="60">You can request report when recipient receives and/or reads the MMS</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="60">Alyjynyň MMS alanda we/ýa-da okanda siz hasabaty talap edip bilersiňiz</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-me-mms_request_reports_noneNone">
+        <source>None</source><seg-source><mrk mtype="seg" mid="61">None</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="61">Ýok</mrk></target>
+        
+      <note from="developer">Request MMS reports ComboBox item</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-me-mms_request_reports_deliveryDelivery">
+        <source>Delivery</source><seg-source><mrk mtype="seg" mid="62">Delivery</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="62">Gowşuryldy</mrk></target>
+        
+      <note from="developer">Request MMS reports ComboBox item</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-me-mms_request_reports_readRead">
+        <source>Read</source><seg-source><mrk mtype="seg" mid="63">Read</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="63">Okalan</mrk></target>
+        
+      <note from="developer">Request MMS reports ComboBox item</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-me-mms_request_reports_bothBoth">
+        <source>Both</source><seg-source><mrk mtype="seg" mid="64">Both</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="64">Ikisi hem</mrk></target>
+        
+      <note from="developer">Request MMS reports ComboBox item</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-bt-mms_send_read_reportsSend read reports">
+        <source>Send read reports</source><seg-source><mrk mtype="seg" mid="65">Send read reports</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="65">Okaldy hasabatlary iber</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-ls-mms_send_read_reports_descriptionSender gets information that you've opened the MMS">
+        <source>Sender gets information that you've opened the MMS</source><seg-source><mrk mtype="seg" mid="66">Sender gets information that you've opened the MMS</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="66">Siziň MMS açanyňyzda iberijä habar iberiler</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-bt-mms_auto_downloadDownload MMS automatically">
+        <source>Download MMS automatically</source><seg-source><mrk mtype="seg" mid="67">Download MMS automatically</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="67">MMS awtomatik göçürip al</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-ls-mms_auto_download_descriptionDownloading MMS uses mobile data and might have additional costs">
+        <source>Downloading MMS uses mobile data and might have additional costs</source><seg-source><mrk mtype="seg" mid="68">Downloading MMS uses mobile data and might have additional costs</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="68">MMS göçürip alma mobil maglumaty ulanýar we goşmaça çykdaýjylary bolmagy mümkin</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_messages-la-change_smsc_failedChanging the SMS Center address failed">
+        <source>Changing the SMS Center address failed</source><seg-source><mrk mtype="seg" mid="69">Changing the SMS Center address failed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="69">SMS hat merkezi salgysyny üýtgetmekde bir näsazlyk ýüze çykdy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="messages-ap-nameMessages">
+        <source>Messages</source><seg-source><mrk mtype="seg" mid="70">Messages</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="70">Hatlar</mrk></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

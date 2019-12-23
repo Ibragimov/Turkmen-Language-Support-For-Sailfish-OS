@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="calendar.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-ph-invite_peopleInvite people">
+        <source>Invite people</source><seg-source><mrk mtype="seg" mid="1">Invite people</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Adamlary çagyrmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-me-show_agendaShow agenda">
+        <source>Show agenda</source><seg-source><mrk mtype="seg" mid="2">Show agenda</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Gün tertibini görkez</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-la-new_eventNew event">
+        <source>New event</source><seg-source><mrk mtype="seg" mid="3">New event</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Täze çäre döret</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-move_to_optionalMove to optional">
+        <source>Move to optional</source><seg-source><mrk mtype="seg" mid="4">Move to optional</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">Opsionala geçir</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-move_to_invitedMove to invited">
+        <source>Move to invited</source><seg-source><mrk mtype="seg" mid="5">Move to invited</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Çagyrylana geçir</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-search_contactSearch">
+        <source>Search</source><seg-source><mrk mtype="seg" mid="6">Search</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Gözlemek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-invalid_email_addressInvalid email address">
+        <source>Invalid email address</source><seg-source><mrk mtype="seg" mid="7">Invalid email address</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Nädogry e-poçta salgysy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-invited_attendeeInvited">
+        <source>Invited</source><seg-source><mrk mtype="seg" mid="8">Invited</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">Çagyryldy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-optional_attendeeOptional">
+        <source>Optional</source><seg-source><mrk mtype="seg" mid="9">Optional</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Islege bagly</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-he_select_calendarSelect calendar">
+        <source>Select calendar</source><seg-source><mrk mtype="seg" mid="10">Select calendar</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Senenama saýla</mrk></target>
+        
+      <note from="developer">Header for page where calendar is selected for a event</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-la-change_month_hintSwipe here to change month">
+        <source>Swipe here to change month</source><seg-source><mrk mtype="seg" mid="11">Swipe here to change month</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Aý üýtgetmek üçin syryň</mrk></target>
+        
+      <note from="developer">Swipe here to change month</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-other_click_to_select%1 + %n other">
+        <source>%1 + %n other</source><seg-source><mrk mtype="seg" mid="12">%1 + %n other</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">%1 + %n başga</mrk></target>
+        
+      <note from="developer">%1 replaced with best match email and %n tells how many other addresses this cotact has</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-date_pattern_month_yearMMMM yyyy">
+        <source>MMMM yyyy</source><seg-source><mrk mtype="seg" mid="13">MMMM yyyy</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">AAAA ýýýý</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-me-change_yearChange year">
+        <source>Change year</source><seg-source><mrk mtype="seg" mid="14">Change year</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Ýyl üýtget</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-day-new_eventNew event">
+        <source>New event</source><seg-source><mrk mtype="seg" mid="15">New event</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">Täze çäre döret</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-day-editEdit">
+        <source>Edit</source><seg-source><mrk mtype="seg" mid="16">Edit</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Düzetmek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-day-deleteDelete">
+        <source>Delete</source><seg-source><mrk mtype="seg" mid="17">Delete</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Pozmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-date_pattern_date_monthd MMMM">
+        <source>d MMMM</source><seg-source><mrk mtype="seg" mid="18">d MMMM</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">g AAAA</mrk></target>
+        
+      <note from="developer">Long date pattern without year. Used e.g. in month view.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-la-overlapping_eventsSee overlapping events">
+        <source>See overlapping events</source><seg-source><mrk mtype="seg" mid="19">See overlapping events</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">Çakyşýan çäreleri görkez</mrk></target>
+        
+      <note from="developer">label on hour view for too many overlapping events to be shown</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar_daypage_hour_indicator_12h_pattern%1 %2">
+        <source>%1 %2</source><seg-source><mrk mtype="seg" mid="20">%1 %2</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">%1 %2</mrk></target>
+        
+      <note from="developer">Hour pattern in day page flickable for 12h mode, %1 is hour, %2 is am/pm indicator, shown at 12 and 6</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-event-event_cannot_be_modifiedThis event cannot be modified">
+        <source>This event cannot be modified</source><seg-source><mrk mtype="seg" mid="21">This event cannot be modified</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="21">Bu çäre üýtgedip bolmaýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-event-ph-delete_recurringThis is a recurring event">
+        <source>This is a recurring event</source><seg-source><mrk mtype="seg" mid="22">This is a recurring event</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="22">Bu döwürleýin çäre</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-event-delete_confirmationConfirm, if you want to delete this event or all events.">
+        <source>Confirm, if you want to delete this event or all events.</source><seg-source><mrk mtype="seg" mid="23">Confirm, if you want to delete this event or all events.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="23">Siz bu çäre ýa-da tutuş seriýa pozmak isleýärsiňizmi?</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-event-delete_occurrenceDelete this event">
+        <source>Delete this event</source><seg-source><mrk mtype="seg" mid="24">Delete this event</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="24">Bu çäre pozuň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-event-delete_all_occurencesDelete the series">
+        <source>Delete the series</source><seg-source><mrk mtype="seg" mid="25">Delete the series</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="25">Ähli çäreleri pozuň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-calendar-event_time_problem_notificationEvent start time needs to be before end time">
+        <source>Event start time needs to be before end time</source><seg-source><mrk mtype="seg" mid="26">Event start time needs to be before end time</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="26">Çäreniň başlangyç wagty gutaryş wagtyndan öň bolmaly</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-ph-event_edit_saveSave">
+        <source>Save</source><seg-source><mrk mtype="seg" mid="27">Save</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="27">Ýazdyrmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-add-event_nameEvent name">
+        <source>Event name</source><seg-source><mrk mtype="seg" mid="28">Event name</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="28">Çäre ady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-add-event_locationEvent location">
+        <source>Event location</source><seg-source><mrk mtype="seg" mid="29">Event location</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="29">Çäre ýerleşişi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-add-descriptionDescription">
+        <source>Description</source><seg-source><mrk mtype="seg" mid="30">Description</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="30">Suratlandyrma</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-invited_people%n people invited">
+        <source>%n people invited</source><seg-source><mrk mtype="seg" mid="31">%n people invited</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="31">%n adam çagryldy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-invite_peopleInvite people">
+        <source>Invite people</source><seg-source><mrk mtype="seg" mid="32">Invite people</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="32">Adamlary çagyrmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-cannot_invite_peopleYou cannot invite people to a local calendar event">
+        <source>You cannot invite people to a local calendar event</source><seg-source><mrk mtype="seg" mid="33">You cannot invite people to a local calendar event</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="33">Siz adamlary ýerli senenama çäresine çagyryp bilmersiňiz</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-calendar-recurrence_end_moved_notificationRecurrence end date moved to event start date">
+        <source>Recurrence end date moved to event start date</source><seg-source><mrk mtype="seg" mid="34">Recurrence end date moved to event start date</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="34">Gaýtalanma gutaryş senesi çäreniň başlangyç senesine geçirildi</mrk></target>
+        
+      <note from="developer">System notification for recurrence end date moved due to user selecting event start date after the earlier value</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-nonexistant_notebook(none)">
+        <source>(none)</source><seg-source><mrk mtype="seg" mid="35">(none)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="35">Ýok</mrk></target>
+        
+      <note from="developer">Shown as placeholder for non-existant notebook, e.g. when default notebook has been deleted</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-add-all_dayAll day">
+        <source>All day</source><seg-source><mrk mtype="seg" mid="36">All day</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="36">Tutuş gün</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-add-recurringRecurring">
+        <source>Recurring</source><seg-source><mrk mtype="seg" mid="37">Recurring</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="37">Gaýtalaýan</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-add-onceOnce">
+        <source>Once</source><seg-source><mrk mtype="seg" mid="38">Once</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="38">Bir gezek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-add-every_dayEvery Day">
+        <source>Every Day</source><seg-source><mrk mtype="seg" mid="39">Every Day</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="39">Her gün</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-add-every_weekEvery Week">
+        <source>Every Week</source><seg-source><mrk mtype="seg" mid="40">Every Week</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="40">Her hepde</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-add-every_2_weeksEvery 2 Weeks">
+        <source>Every 2 Weeks</source><seg-source><mrk mtype="seg" mid="41">Every 2 Weeks</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="41">Her 2 hepdeden</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-add-every_monthEvery Month">
+        <source>Every Month</source><seg-source><mrk mtype="seg" mid="42">Every Month</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="42">Her aý</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-add-every_yearEvery Year">
+        <source>Every Year</source><seg-source><mrk mtype="seg" mid="43">Every Year</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="43">Her ýyl</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-add-customCustom">
+        <source>Custom</source><seg-source><mrk mtype="seg" mid="44">Custom</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="44">Laýyk</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-add-recurrence_endRecurrence end">
+        <source>Recurrence end</source><seg-source><mrk mtype="seg" mid="45">Recurrence end</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="45">Gaýtalama soňy</mrk></target>
+        
+      <note from="developer">Picker for recurrence end date</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-add-remind_meRemind me">
+        <source>Remind me</source><seg-source><mrk mtype="seg" mid="46">Remind me</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="46">Maňa ýatlat</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-event-he-edit_recurringThis is a recurring event">
+        <source>This is a recurring event</source><seg-source><mrk mtype="seg" mid="47">This is a recurring event</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="47">Bu döwürleýin çäre</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-event-edit_recurring_confirmationDo you want to edit this event or the series">
+        <source>Do you want to edit this event or the series</source><seg-source><mrk mtype="seg" mid="48">Do you want to edit this event or the series</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="48">Siz bu çäre ýa-da tutuş seriýa düzetmek isleýärsiňizmi?</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-event-edit_occurrenceEdit this event">
+        <source>Edit this event</source><seg-source><mrk mtype="seg" mid="49">Edit this event</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="49">Bu çäre düzet</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-event-edit_all_occurrencesEdit the series">
+        <source>Edit the series</source><seg-source><mrk mtype="seg" mid="50">Edit the series</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="50">Ähli çäreleri düzet</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-all_dayAll day">
+        <source>All day</source><seg-source><mrk mtype="seg" mid="51">All day</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="51">Tutuş gün</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-calendar-ph-vcalendar_default_namecalendarevent">
+        <source>calendarevent</source><seg-source><mrk mtype="seg" mid="52">calendarevent</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="52">Senenama çäreleri</mrk></target>
+        
+      <note from="developer">Placeholder name for calendar event filename</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-event-deleteDelete">
+        <source>Delete</source><seg-source><mrk mtype="seg" mid="53">Delete</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="53">Pozmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-event-shareShare">
+        <source>Share</source><seg-source><mrk mtype="seg" mid="54">Share</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="54">Paýlaş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-calendar-he-share-eventShare event">
+        <source>Share event</source><seg-source><mrk mtype="seg" mid="55">Share event</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="55">Çäre paýlaş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-event-editEdit">
+        <source>Edit</source><seg-source><mrk mtype="seg" mid="56">Edit</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="56">Düzetmek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-calendar-import-successfullImport successful">
+        <source>Import successful</source><seg-source><mrk mtype="seg" mid="57">Import successful</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="57">Importirleme tamamlandy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="jolla-calendar-import-failedImport failed">
+        <source>Import failed</source><seg-source><mrk mtype="seg" mid="58">Import failed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="58">Import bilen näsazlyk</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-ph-event_edit_importImport">
+        <source>Import</source><seg-source><mrk mtype="seg" mid="59">Import</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="59">Import</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-me-syncSync">
+        <source>Sync</source><seg-source><mrk mtype="seg" mid="60">Sync</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="60">Sinhronla</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-me-settingsSettings">
+        <source>Settings</source><seg-source><mrk mtype="seg" mid="61">Settings</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="61">Senenamalary dolandyrmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-me-go_to_todayGo to today">
+        <source>Go to today</source><seg-source><mrk mtype="seg" mid="62">Go to today</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="62">Şu gün baryň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-me-new_eventNew event">
+        <source>New event</source><seg-source><mrk mtype="seg" mid="63">New event</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="63">Täze çäre döret</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-me-schedule_is_freeYour schedule is free">
+        <source>Your schedule is free</source><seg-source><mrk mtype="seg" mid="64">Your schedule is free</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="64">Rejäňiz boş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-settings-settingsSettings">
+        <source>Settings</source><seg-source><mrk mtype="seg" mid="65">Settings</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="65">Senenamalary dolandyrmak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-todayToday">
+        <source>Today</source><seg-source><mrk mtype="seg" mid="66">Today</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="66">Şu gün</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-yesterdayYesterday">
+        <source>Yesterday</source><seg-source><mrk mtype="seg" mid="67">Yesterday</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="67">Düýn</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-tomorrowTomorrow">
+        <source>Tomorrow</source><seg-source><mrk mtype="seg" mid="68">Tomorrow</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="68">Ertir</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-ap-nameCalendar">
+        <source>Calendar</source><seg-source><mrk mtype="seg" mid="69">Calendar</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="69">Senenama</mrk></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

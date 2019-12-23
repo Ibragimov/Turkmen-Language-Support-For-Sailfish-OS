@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="sailfish-components-calendar-qt5.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-date_pattern_date_monthd MMMM">
+        <source>d MMMM</source><seg-source><mrk mtype="seg" mid="1">d MMMM</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">g AAAA</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-all_dayAll day">
+        <source>All day</source><seg-source><mrk mtype="seg" mid="2">All day</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Tutuş gün</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-view-reminderReminder %1">
+        <source>Reminder %1</source><seg-source><mrk mtype="seg" mid="3">Reminder %1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="3">Ýatladyjy %1</mrk></target>
+        
+      <note from="developer">%1 gets replaced with reminder time, e.g. "15 minutes before"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-response_failed_body_acceptFailed to accept invitation">
+        <source>Failed to accept invitation</source><seg-source><mrk mtype="seg" mid="4">Failed to accept invitation</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">Çakylyk kabul edip bolmady</mrk></target>
+        
+      <note from="developer">Failed to send invitation response (accept)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-response_failed_body_tentativeFailed to tentatively accept invitation">
+        <source>Failed to tentatively accept invitation</source><seg-source><mrk mtype="seg" mid="5">Failed to tentatively accept invitation</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Çakylyk takmynan kabul edip bolmady</mrk></target>
+        
+      <note from="developer">Failed to send invitation response (tentative)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-la-response_failed_body_declineFailed to decline invitation">
+        <source>Failed to decline invitation</source><seg-source><mrk mtype="seg" mid="6">Failed to decline invitation</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Çakylyk kabul ret edip bolmady</mrk></target>
+        
+      <note from="developer">Failed to send invitation response (decline)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-people_count%n people">
+        <source>%n people</source><seg-source><mrk mtype="seg" mid="7">%n people</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">%n adam</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-event_organizerorganizer">
+        <source>organizer</source><seg-source><mrk mtype="seg" mid="8">organizer</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">Guramaçy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish-calendar-la-event_optional_attendeeoptional">
+        <source>optional</source><seg-source><mrk mtype="seg" mid="9">optional</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Islege bagly</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-he-event_descriptionDescription">
+        <source>Description</source><seg-source><mrk mtype="seg" mid="10">Description</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Suratlandyrma</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-me-show_event_in_calendarShow in Calendar">
+        <source>Show in Calendar</source><seg-source><mrk mtype="seg" mid="11">Show in Calendar</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Senenamada görkez</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="calendar-la-calendarCalendar">
+        <source>Calendar</source><seg-source><mrk mtype="seg" mid="12">Calendar</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">Senenama</mrk></target>
+        
+      <note from="developer">event calendar selection header</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-datewidget_startsStarts">
+        <source>Starts</source><seg-source><mrk mtype="seg" mid="13">Starts</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">Başlaýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-datewidget_endsEnds">
+        <source>Ends</source><seg-source><mrk mtype="seg" mid="14">Ends</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Gutarýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-show_moreShow more">
+        <source>Show more</source><seg-source><mrk mtype="seg" mid="15">Show more</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">Has köp görkez</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-todayToday">
+        <source>Today</source><seg-source><mrk mtype="seg" mid="16">Today</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Şu gün</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-reminder-neverNever">
+        <source>Never</source><seg-source><mrk mtype="seg" mid="17">Never</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Hiç wagt</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-reminder-at_time_of_eventAt time of event">
+        <source>At time of event</source><seg-source><mrk mtype="seg" mid="18">At time of event</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">Çäre wagty</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-reminder-n_days%n days">
+        <source>%n days</source><seg-source><mrk mtype="seg" mid="19">%n days</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">%n gün</mrk></target>
+        
+      <note from="developer">e.g. '5 days', count of days prior to event start. Fragment of "&lt;X days&gt;, &lt;Y hours&gt;, &lt;Z minutes&gt; before".</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-reminder-n_hours%n hours">
+        <source>%n hours</source><seg-source><mrk mtype="seg" mid="20">%n hours</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">%n sagat</mrk></target>
+        
+      <note from="developer">e.g. '5 hours', count of hours prior to event start. Fragment of "&lt;X days&gt;, &lt;Y hours&gt;, &lt;Z minutes&gt; before".</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-reminder-n_minutes%n minutes">
+        <source>%n minutes</source><seg-source><mrk mtype="seg" mid="21">%n minutes</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="21">%n minut</mrk></target>
+        
+      <note from="developer">e.g. '5 minutes', count of minutes prior to event start. Fragment of "&lt;X days&gt;, &lt;Y hours&gt;, &lt;Z minutes&gt; before".</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-reminder-days_hours_minutes_before%1, %2, %3 before">
+        <source>%1, %2, %3 before</source><seg-source><mrk mtype="seg" mid="22">%1, %2, %3 before</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="22">%1, %2, %3 öň</mrk></target>
+        
+      <note from="developer">Where %1 is "x days", %2 is "y hours", %3 is "z minutes"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-reminder-days_hours_before%1, %2 before">
+        <source>%1, %2 before</source><seg-source><mrk mtype="seg" mid="23">%1, %2 before</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="23">%1, %2 öň</mrk></target>
+        
+      <note from="developer">Where %1 is "x days", %2 is "y hours"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-reminder-days_minutes_before%1, %2 before">
+        <source>%1, %2 before</source><seg-source><mrk mtype="seg" mid="24">%1, %2 before</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="24">%1, %2 öň</mrk></target>
+        
+      <note from="developer">Where %1 is "x days", %2 is "y minutes"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-reminder-days_before%n days before">
+        <source>%n days before</source><seg-source><mrk mtype="seg" mid="25">%n days before</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="25">%n gün öň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-reminder-hours_minutes_before%1, %2 before">
+        <source>%1, %2 before</source><seg-source><mrk mtype="seg" mid="26">%1, %2 before</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="26">%1, %2 öň</mrk></target>
+        
+      <note from="developer">Where %1 "x hours", %2 is "y minutes"</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-reminder-hours_before%n hours before">
+        <source>%n hours before</source><seg-source><mrk mtype="seg" mid="27">%n hours before</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="27">%n sagatdan öň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-reminder-minutes_before%n minutes before">
+        <source>%n minutes before</source><seg-source><mrk mtype="seg" mid="28">%n minutes before</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="28">%n minutdan öň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-personal_calendar_namePersonal">
+        <source>Personal</source><seg-source><mrk mtype="seg" mid="29">Personal</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="29">Şahsy</mrk></target>
+        
+      <note from="developer">Personal calendar name.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-event_attending_question_yesAttending? Yes">
+        <source>Attending? Yes</source><seg-source><mrk mtype="seg" mid="30">Attending?</mrk> <mrk mtype="seg" mid="31">Yes</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="30">Gatnaşýaňyzmy?</mrk> <mrk mtype="seg" mid="31">Hawa</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-event_attending_question_maybeAttending? Maybe">
+        <source>Attending? Maybe</source><seg-source><mrk mtype="seg" mid="32">Attending?</mrk> <mrk mtype="seg" mid="33">Maybe</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="32">Gatnaşýaňyzmy?</mrk> <mrk mtype="seg" mid="33">Belki</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-event_attending_question_noAttending? No">
+        <source>Attending? No</source><seg-source><mrk mtype="seg" mid="34">Attending?</mrk> <mrk mtype="seg" mid="35">No</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="34">Gatnaşýaňyzmy?</mrk> <mrk mtype="seg" mid="35">Ýok</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-event_attending_questionAttending?">
+        <source>Attending?</source><seg-source><mrk mtype="seg" mid="36">Attending?</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="36">Gatnaşýaňyzmy?</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-event_attendbutton_yesYes">
+        <source>Yes</source><seg-source><mrk mtype="seg" mid="37">Yes</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="37">Hawa</mrk></target>
+        
+      <note from="developer">Yes calendar invitation button. Shall be short to fit in 1 row</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-event-subj_acceptAccepted: %1">
+        <source>Accepted: %1</source><seg-source><mrk mtype="seg" mid="38">Accepted:</mrk> <mrk mtype="seg" mid="39">%1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="38">Kabul edildi:</mrk> <mrk mtype="seg" mid="39">%1</mrk></target>
+        
+      <note from="developer">Subject modifier for accept response. %1 is original invitation subject</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-event_attendbutton_maybeMaybe">
+        <source>Maybe</source><seg-source><mrk mtype="seg" mid="40">Maybe</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="40">Belki</mrk></target>
+        
+      <note from="developer">Maybe calendar invitation button. Shall be short to fit in 1 row</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-event-subj_tentativeTentative: %1">
+        <source>Tentative: %1</source><seg-source><mrk mtype="seg" mid="41">Tentative:</mrk> <mrk mtype="seg" mid="42">%1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="41">Belli däl:</mrk> <mrk mtype="seg" mid="42">%1</mrk></target>
+        
+      <note from="developer">Subject modifier for tentative response. %1 is original invitation subject</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-event_attendbutton_noNo">
+        <source>No</source><seg-source><mrk mtype="seg" mid="43">No</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="43">Ýok</mrk></target>
+        
+      <note from="developer">"No" calendar invitation button. Shall be short to fit in 1 row</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-event-subj_declinedDeclined: %1">
+        <source>Declined: %1</source><seg-source><mrk mtype="seg" mid="44">Declined:</mrk> <mrk mtype="seg" mid="45">%1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="44">Ret edildi:</mrk> <mrk mtype="seg" mid="45">%1</mrk></target>
+        
+      <note from="developer">Subject modifier for decline response. %1 is original invitation subject</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailfish_calendar-la-date_month_pattern%1.%2">
+        <source>%1.%2</source><seg-source><mrk mtype="seg" mid="46">%1.%2</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="46">%1.%2</mrk></target>
+        
+      <note from="developer">Pattern for date and month, %1 is day, %2 is month</note></trans-unit>
+    </body>
+  </file>
+</xliff>
