@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="settings-sailfishos.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-fs_optimizing_for_os_updateA new OS update is around the corner.&lt;br&gt;&lt;br&gt;To be able to download the OS update, we need to maintenance the filesystem. This requires approx. 1.5 GB of free space.&lt;br&gt;&lt;br&gt;You will be able to use your device, but you might notice some slowdowns. It may take up to an hour to complete.">
+        <source>A new OS update is around the corner.&lt;br&gt;&lt;br&gt;To be able to download the OS update, we need to maintenance the filesystem. This requires approx. 1.5 GB of free space.&lt;br&gt;&lt;br&gt;You will be able to use your device, but you might notice some slowdowns. It may take up to an hour to complete.</source><seg-source><mrk mtype="seg" mid="1">A new OS update is around the corner.&lt;br&gt;&lt;br&gt;To be able to download the OS update, we need to maintenance the filesystem.</mrk> <mrk mtype="seg" mid="2">This requires approx. 1.5 GB of free space.&lt;br&gt;&lt;br&gt;You will be able to use your device, but you might notice some slowdowns.</mrk> <mrk mtype="seg" mid="3">It may take up to an hour to complete.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Täze OU täzeleme basym gelýär.&lt;br&gt;&lt;br&gt;Täzeleme göçürip alandan öň, biz faýl ulgamynda tehniki hyzmat barlagy ýerine ýetireris.</mrk> <mrk mtype="seg" mid="2">Ol takmynan 1,5 GB boş ýeri talap edýär.&lt;br&gt;&lt;br&gt;Siz öz enjamyňyzy ulanyp bilersiňiz, emma siz käbir ýuwaşatmalary synlap bilersiňiz.</mrk> <mrk mtype="seg" mid="3">Tamamlamagyň  bir sagada çekmegi mümkin.</mrk></target>
+        
+      <note from="developer">Text shown when a new OS update can be downloaded after filesystem optimizing, which could take a long timr during which you may continue to use your device, but may notice some slowdowns.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-bt-start_fs_optimizingStart optimizing">
+        <source>Start optimizing</source><seg-source><mrk mtype="seg" mid="4">Start optimizing</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="4">Optimizirleme başlat</mrk></target>
+        
+      <note from="developer">Text for filesystem optimizing button</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-fs_optimizing_in_progressOptimizing in progress">
+        <source>Optimizing in progress</source><seg-source><mrk mtype="seg" mid="5">Optimizing in progress</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Optimizirleme işelnilýär</mrk></target>
+        
+      <note from="developer">Progress label shown while optimizing the filesystem</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-download_system_update_hintPull down to download system update">
+        <source>Pull down to download system update</source><seg-source><mrk mtype="seg" mid="6">Pull down to download system update</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Ulgam täzlemeleri göçürip almak üçin aşak çek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-sailfishosSailfish OS updates">
+        <source>Sailfish OS updates</source><seg-source><mrk mtype="seg" mid="7">Sailfish OS updates</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Sailfish OU täzelemeleri:</mrk></target>
+        
+      <note from="developer">The settings item label shown in settings main page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-sailfishos_shortOS updates">
+        <source>OS updates</source><seg-source><mrk mtype="seg" mid="8">OS updates</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">OU täzelemeleri</mrk></target>
+        
+      <note from="developer">Abbreviated form of settings_sailfishos-sailfishos</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-me-check_system_updateCheck for update">
+        <source>Check for update</source><seg-source><mrk mtype="seg" mid="9">Check for update</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Täzelemeleri barlaň</mrk></target>
+        
+      <note from="developer">Check for system update menu item</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-me-download_system_updateDownload">
+        <source>Download</source><seg-source><mrk mtype="seg" mid="10">Download</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Göçürip almak</mrk></target>
+        
+      <note from="developer">Download system update menu item</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-me-downloading_system_updateDownloading">
+        <source>Downloading</source><seg-source><mrk mtype="seg" mid="11">Downloading</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Göçürilip alynýar...</mrk></target>
+        
+      <note from="developer">Downloading system update menu item (disabled)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-me-install_system_updateInstall">
+        <source>Install</source><seg-source><mrk mtype="seg" mid="12">Install</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">Gurnamak</mrk></target>
+        
+      <note from="developer">Install system update menu item</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-me-waiting_for_connectionWaiting for connection">
+        <source>Waiting for connection</source><seg-source><mrk mtype="seg" mid="13">Waiting for connection</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">Birikmä garaşylýar...</mrk></target>
+        
+      <note from="developer">Waiting for connection menu item (disabled)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-me-preparing_for_updatePreparing for update">
+        <source>Preparing for update</source><seg-source><mrk mtype="seg" mid="14">Preparing for update</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Täzeleme taýýarlanylýar</mrk></target>
+        
+      <note from="developer">Preparing for update menu item (disabled)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-me-checkingChecking for updates">
+        <source>Checking for updates</source><seg-source><mrk mtype="seg" mid="15">Checking for updates</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">Täzelemeler gözlenilýär...</mrk></target>
+        
+      <note from="developer">Checking for updates menu item (disabled)</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-backup_failed_detailed_descriptionChoose 'Continue without backup' to update the OS without backing up your data, or 'Cancel' to cancel the OS update. We recommend backing up your data before updating the OS.">
+        <source>Choose 'Continue without backup' to update the OS without backing up your data, or 'Cancel' to cancel the OS update. We recommend backing up your data before updating the OS.</source><seg-source><mrk mtype="seg" mid="16">Choose 'Continue without backup' to update the OS without backing up your data, or 'Cancel' to cancel the OS update.</mrk> <mrk mtype="seg" mid="17">We recommend backing up your data before updating the OS.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Öz maglumatyňyzy ätiýaçlamazdan OU täzelemek üçin, "Ätýaçlamasyz domaw et" saýlaň ýa-da OU täzelemesini ýatyrmak üçin "Ýatyr" basyň.</mrk> <mrk mtype="seg" mid="17">Biz OU täzelemeden öň öz maglumatlaryňyzy täzelemegiňizi maslahat berýäris.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-continue_without_backupContinue without backup">
+        <source>Continue without backup</source><seg-source><mrk mtype="seg" mid="18">Continue without backup</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">Ätiýaçlamasyz dowam et</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-up_to_dateUp to date">
+        <source>Up to date</source><seg-source><mrk mtype="seg" mid="19">Up to date</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">Täzelenen</mrk></target>
+        
+      <note from="developer">System update check status text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-update_available_with_sizeUpdate available for download (%1)">
+        <source>Update available for download (%1)</source><seg-source><mrk mtype="seg" mid="20">Update available for download (%1)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">Täzeleme elýeterli (%1)</mrk></target>
+        
+      <note from="developer">System update check status text, takes size as a parameter</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-update_availableUpdate available for download">
+        <source>Update available for download</source><seg-source><mrk mtype="seg" mid="21">Update available for download</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="21">Täzeleme göçürip almaga elýeterli</mrk></target>
+        
+      <note from="developer">System update check status text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-ready_to_installUpdate ready to be installed">
+        <source>Update ready to be installed</source><seg-source><mrk mtype="seg" mid="22">Update ready to be installed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="22">Täzeleme gurnamaga taýýar</mrk></target>
+        
+      <note from="developer">System update check status text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-downloadingDownloading update">
+        <source>Downloading update</source><seg-source><mrk mtype="seg" mid="23">Downloading update</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="23">Täzeleme göçürilip alynýar...</mrk></target>
+        
+      <note from="developer">System update check status text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-waiting_for_connectionWaiting for connection">
+        <source>Waiting for connection</source><seg-source><mrk mtype="seg" mid="24">Waiting for connection</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="24">Birikmä garaşylýar...</mrk></target>
+        
+      <note from="developer">System update check status text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-checkingChecking for updates">
+        <source>Checking for updates</source><seg-source><mrk mtype="seg" mid="25">Checking for updates</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="25">Täzelemeler gözlenilýär...</mrk></target>
+        
+      <note from="developer">System update check status text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-preparing_for_updatePreparing for update">
+        <source>Preparing for update</source><seg-source><mrk mtype="seg" mid="26">Preparing for update</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="26">Täzeleme taýýarlanylýar</mrk></target>
+        
+      <note from="developer">System update size check status text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-last_checkedLast checked: %1">
+        <source>Last checked: %1</source><seg-source><mrk mtype="seg" mid="27">Last checked:</mrk> <mrk mtype="seg" mid="28">%1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="27">Soňky barlanan:</mrk> <mrk mtype="seg" mid="28">%1</mrk></target>
+        
+      <note from="developer">Time elapsed since last update check. Takes a timestamp as a parameter (in format 'N minutes/hours/days ago'). Notice that the timestamp localization expects that it's in the beginning of a sentence, thus a colon is needed after "Last checked".</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-release_notesRelease notes">
+        <source>Release notes</source><seg-source><mrk mtype="seg" mid="29">Release notes</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="29">Bildirişleri iber</mrk></target>
+        
+      <note from="developer">Link to release notes web page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-backupBackup">
+        <source>Backup</source><seg-source><mrk mtype="seg" mid="30">Backup</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="30">Ätiýaç nusga</mrk></target>
+        
+      <note from="developer">Data backup details</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-no_backup_services_availableNo backup services available. To allow backups, insert a memory card or add a cloud storage account in Settings | Accounts.">
+        <source>No backup services available. To allow backups, insert a memory card or add a cloud storage account in Settings | Accounts.</source><seg-source><mrk mtype="seg" mid="31">No backup services available.</mrk> <mrk mtype="seg" mid="32">To allow backups, insert a memory card or add a cloud storage account in Settings | Accounts.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="31">Ätiýaç hyzmat elýeterli däl.</mrk> <mrk mtype="seg" mid="32">Atiýaçlamalara rugsat bermek üçin, ýat karty dakyň ýa-da bulup toplaýjy hasaby Sazalamalar | Hasaplar-da goşuň.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-backup_switchMake backup">
+        <source>Make backup</source><seg-source><mrk mtype="seg" mid="33">Make backup</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="33">Ätiýaç döret</mrk></target>
+        
+      <note from="developer">Text for backup switch</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-backup_descriptionYou can backup your device while downloading the update">
+        <source>You can backup your device while downloading the update</source><seg-source><mrk mtype="seg" mid="34">You can backup your device while downloading the update</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="34">Täzelemesi göçürilip alynýarka-da, enjamyňyzy ätiýaçlap bilersiňiz</mrk></target>
+        
+      <note from="developer">Description text for backup switch</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-he-sailfishosSailfish OS">
+        <source>Sailfish OS</source><seg-source><mrk mtype="seg" mid="35">Sailfish OS</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="35">Sailfish OU</mrk></target>
+        
+      <note from="developer">Page header for the system update page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-versionVersion %1">
+        <source>Version %1</source><seg-source><mrk mtype="seg" mid="36">Version %1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="36">Wersiýa %1</mrk></target>
+        
+      <note from="developer">System update version heading text</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-install_disk_space_lowInstalling the update requires %1 free space. Currently %2 available.">
+        <source>Installing the update requires %1 free space. Currently %2 available.</source><seg-source><mrk mtype="seg" mid="37">Installing the update requires %1 free space.</mrk> <mrk mtype="seg" mid="38">Currently %2 available.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="37">Täzeleme %1 boş ýeri talap edýär.</mrk> <mrk mtype="seg" mid="38">%2 häzir elýeterli.</mrk></target>
+        
+      <note from="developer">Disk space low warning for system update installation. Takes required and currently available disk space values as parameters.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-download_disk_space_lowDownloading the update requires %1 free space. Currently %2 available.">
+        <source>Downloading the update requires %1 free space. Currently %2 available.</source><seg-source><mrk mtype="seg" mid="39">Downloading the update requires %1 free space.</mrk> <mrk mtype="seg" mid="40">Currently %2 available.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="39">Täzeleme %1 boş ýeri talap edýär.</mrk> <mrk mtype="seg" mid="40">%2 häzir elýeterli.</mrk></target>
+        
+      <note from="developer">Disk space low warning for system update downloading. Takes required and currently available disk space values as parameters.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-battery_chargingBattery level low. Do not remove the charger.">
+        <source>Battery level low. Do not remove the charger.</source><seg-source><mrk mtype="seg" mid="41">Battery level low.</mrk> <mrk mtype="seg" mid="42">Do not remove the charger.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="41">Zarýad pes.</mrk> <mrk mtype="seg" mid="42">Enjamyňyzy zarýadlaýja birigen saklaň.</mrk></target>
+        
+      <note from="developer">Battery low warning for system update installation when charger is attached.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-battery_level_lowBattery level too low.">
+        <source>Battery level too low.</source><seg-source><mrk mtype="seg" mid="43">Battery level too low.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="43">Zarýad pes.</mrk></target>
+        
+      <note from="developer">Battery low warning for system update installation when charger is not attached.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-free_device_spaceFree up space on your device">
+        <source>Free up space on your device</source><seg-source><mrk mtype="seg" mid="44">Free up space on your device</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="44">Enjamyňyzda ýeri boşadyň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-li-developer_updates_not_enabledDeveloper updates not enabled">
+        <source>Developer updates not enabled</source><seg-source><mrk mtype="seg" mid="45">Developer updates not enabled</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="45">Döredijiniň täzelemeleri işletmeli däl</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-li-account_neededJolla account needed">
+        <source>Jolla account needed</source><seg-source><mrk mtype="seg" mid="46">Jolla account needed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="46">Jolla hasaby gerek</mrk></target>
+        
+      <note from="developer">View placeholder when there's no Jolla account created or the user has not yet signed in</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-li-account_needs_updateJolla account needs to be updated">
+        <source>Jolla account needs to be updated</source><seg-source><mrk mtype="seg" mid="47">Jolla account needs to be updated</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="47">Jolla hasabyňyzy täzelemeli.</mrk></target>
+        
+      <note from="developer">View placeholder text shown when there's some problem with the account that requires the user to go to settings and sign in again.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-li-rnd_ssu_registration_requiredDevice in R&amp;D mode. Updating requires registration in Settings | System | Developer tools">
+        <source>Device in R&amp;D mode. Updating requires registration in Settings | System | Developer tools</source><seg-source><mrk mtype="seg" mid="48">Device in R&amp;D mode.</mrk> <mrk mtype="seg" mid="49">Updating requires registration in Settings | System | Developer tools</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="48">Enjam R&amp;D tertibinde.</mrk> <mrk mtype="seg" mid="49">Täzeleme Sazlamalar | Ulgam | Dörediji gurallar-da bellige almagy talap edýär</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-li-cbeta_domain_ssu_registration_requiredDevice in CBeta domain. Updating requires registration in Settings | System | Developer tools">
+        <source>Device in CBeta domain. Updating requires registration in Settings | System | Developer tools</source><seg-source><mrk mtype="seg" mid="50">Device in CBeta domain.</mrk> <mrk mtype="seg" mid="51">Updating requires registration in Settings | System | Developer tools</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="50">Enjam CBeta domende.</mrk> <mrk mtype="seg" mid="51">Täzeleme Sazlamalar | Ulgam | Dörediji gurallar-da bellige almagy talap edýär</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-li-custom_domain_ssu_registration_requiredDevice in '%0' domain. Updating requires registration in Settings | System | Developer tools">
+        <source>Device in '%0' domain. Updating requires registration in Settings | System | Developer tools</source><seg-source><mrk mtype="seg" mid="52">Device in '%0' domain.</mrk> <mrk mtype="seg" mid="53">Updating requires registration in Settings | System | Developer tools</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="52">Enjam '%0' domende.</mrk> <mrk mtype="seg" mid="53">Täzeleme Sazlamalar | Ulgam | Dörediji gurallar-da bellige almagy talap edýär</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-settings_accountsSettings | Accounts">
+        <source>Settings | Accounts</source><seg-source><mrk mtype="seg" mid="54">Settings | Accounts</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="54">Sazlamalar | Hasaplar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-li-account_needed_hint_textGo to %1 and create an account">
+        <source>Go to %1 and create an account</source><seg-source><mrk mtype="seg" mid="55">Go to %1 and create an account</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="55">%1-a baryp hasaby döret</mrk></target>
+        
+      <note from="developer">View placeholder hint text shown when there's no Jolla account created or the user has not yet signed in. Takes "Settings | Accounts" (settings_sailfishos-la-settings_accounts) as parameter. This is done because we're creating programmatically a hyperlink for it.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-li-account_needs_update_hint_textGo to %1 and sign in again">
+        <source>Go to %1 and sign in again</source><seg-source><mrk mtype="seg" mid="56">Go to %1 and sign in again</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="56">%1-a baryp täzeden hasaba giriň</mrk></target>
+        
+      <note from="developer">View placeholder hint text shown when there's some problem with the account that requires the user to go to settings and sign in again. Takes "Settings | Accounts" (settings_sailfishos-la-settings_accounts) as parameter. This is done because we're creating programmatically a hyperlink for it.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-os_update_settingsOS update settings">
+        <source>OS update settings</source><seg-source><mrk mtype="seg" mid="57">OS update settings</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="57">Sazlamalar</mrk></target>
+        
+      <note from="developer">Section header text for OS update settings</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-check_methodCheck for updates">
+        <source>Check for updates</source><seg-source><mrk mtype="seg" mid="58">Check for updates</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="58">Täzelemeleri barlaň</mrk></target>
+        
+      <note from="developer">Combo box label for the "check for updates" setting</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-me-manualManual">
+        <source>Manual</source><seg-source><mrk mtype="seg" mid="59">Manual</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="59">El bilen edilen</mrk></target>
+        
+      <note from="developer">Settings option for "check for updates" and "download updates" combo boxes.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-me-wlan_onlyWLAN only">
+        <source>WLAN only</source><seg-source><mrk mtype="seg" mid="60">WLAN only</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="60">Diňe WLAN</mrk></target>
+        
+      <note from="developer">Settings option for "check for updates" and "download updates" combo boxes.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-me-automaticAutomatic">
+        <source>Automatic</source><seg-source><mrk mtype="seg" mid="61">Automatic</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="61">Awtomatik</mrk></target>
+        
+      <note from="developer">Settings option for "check for updates" and "download updates" combo boxes.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-me-alwaysAlways">
+        <source>Always</source><seg-source><mrk mtype="seg" mid="62">Always</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="62">Hemişe</mrk></target>
+        
+      <note from="developer">Settings option for "check for updates" and "download updates" combo boxes.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-whats_newWhat's new">
+        <source>What's new</source><seg-source><mrk mtype="seg" mid="63">What's new</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="63">Näme täzelik bar</mrk></target>
+        
+      <note from="developer">Label for the "what's new" section of the system update</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-install_disclaimerThis operation takes some time, in which you're not able to use the device, make or receive any calls or make emergency calls. Device will reboot after installation.">
+        <source>This operation takes some time, in which you're not able to use the device, make or receive any calls or make emergency calls. Device will reboot after installation.</source><seg-source><mrk mtype="seg" mid="64">This operation takes some time, in which you're not able to use the device, make or receive any calls or make emergency calls.</mrk> <mrk mtype="seg" mid="65">Device will reboot after installation.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="64">Täzeleme biraz wagt alar. Şu wagtyň dowamynda siz enjamy ulanyp, islendik jaňy edip hem-de alyp ýa-da gyssagly jaňlary edip bilmersiňiz.</mrk> <mrk mtype="seg" mid="65">Gurnaw gutaransoň, enjamyňyz ýapylyp açylyp.</mrk></target>
+        
+      <note from="developer">System update install disclaimer</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settings_sailfishos-la-install_disclaimer_no_callsThis operation takes some time, in which you're not able to use the device. Device will reboot after installation.">
+        <source>This operation takes some time, in which you're not able to use the device. Device will reboot after installation.</source><seg-source><mrk mtype="seg" mid="66">This operation takes some time, in which you're not able to use the device.</mrk> <mrk mtype="seg" mid="67">Device will reboot after installation.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="66">Täzeleme biraz wagt alar. Şu wagtyň dowamynda siz enjamy ulanyp bilmersiňiz.</mrk> <mrk mtype="seg" mid="67">Gurnaw gutaransoň, enjamyňyz ýapylyp açylyp.</mrk></target>
+        
+      <note from="developer">System update install disclaimer</note></trans-unit>
+    </body>
+  </file>
+</xliff>
