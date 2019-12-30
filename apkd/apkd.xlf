@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="apkd.ts" source-language="en-US" datatype="plaintext" target-language="tk">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_interaction_service-he-install_system_apksInstall system apk(s)">
+        <source>Install system apk(s)</source><seg-source><mrk mtype="seg" mid="1">Install system apk(s)</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="1">Ulgamyň Android goýma paketi gurnaň</mrk></target>
+        
+      <note from="developer">Title of the system APK installation dialog, n is the number of .apk files to install</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_interaction_service-he-install_system_apks_descriptionPrivileged software detected. Installation poses potential security threats to your device and data. Are you sure you want to continue?">
+        <source>Privileged software detected. Installation poses potential security threats to your device and data. Are you sure you want to continue?</source><seg-source><mrk mtype="seg" mid="2">Privileged software detected.</mrk> <mrk mtype="seg" mid="3">Installation poses potential security threats to your device and data.</mrk> <mrk mtype="seg" mid="4">Are you sure you want to continue?</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="2">Saýlanan programma üpjünçiligi anyklanyldy.</mrk> <mrk mtype="seg" mid="3">Gurnaw enjamyňyzy we maglumatyňyzy potensial howpsuzlyk howplaryna açýar.</mrk> <mrk mtype="seg" mid="4">Dowam etmek isleýäniňiz çynmy?</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_interaction_service-system_apk_installation_not_allowedSoftware installation prevented by Sailfish Device Manager">
+        <source>Software installation prevented by Sailfish Device Manager</source><seg-source><mrk mtype="seg" mid="5">Software installation prevented by Sailfish Device Manager</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="5">Sailfish enjam dolandyryjy tarapyndan beklenilen programma üpjünçiligi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_interaction_service-system_apk_sideloading_not_allowedInstalling untrusted software disabled">
+        <source>Installing untrusted software disabled</source><seg-source><mrk mtype="seg" mid="6">Installing untrusted software disabled</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="6">Ynamdar däl programma üpjünçiligi gurnamak öçürilen</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_interaction_service-bu-decline_install_system_apksDecline">
+        <source>Decline</source><seg-source><mrk mtype="seg" mid="7">Decline</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="7">Ret etmek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_interaction_service-bu-accept_install_system_apksInstall and reboot">
+        <source>Install and reboot</source><seg-source><mrk mtype="seg" mid="8">Install and reboot</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="8">Gurnaň we ýapyp açyň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_interaction_service-he-install_system_apks_failedInstallation of privileged apk(s) failed!">
+        <source>Installation of privileged apk(s) failed!</source><seg-source><mrk mtype="seg" mid="9">Installation of privileged apk(s) failed!</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="9">Saýlanan Android goýma paketi gurnamakda bir näsazlyk ýüze çykdy</mrk></target>
+        
+      <note from="developer">Notification text which is displayed if installation of system apks failed, n is the number of .apk files to install</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-android_trademark_infoAndroid is a trademark of Google Inc. The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.">
+        <source>Android is a trademark of Google Inc. The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.</source><seg-source><mrk mtype="seg" mid="10">Android is a trademark of Google Inc. The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="10">Android - Google Inc. Söwda markasydyr. Android robot Google tarapyndan döredilen we paýlaşylan we Creative Commons 3.0 Attribution ygtyýarnamada suratlandyrylan şertler boýunça ulanylýar.</mrk></target>
+        
+      <note from="developer">For about device page</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-error_getting_application_stateError getting application state">
+        <source>Error getting application state</source><seg-source><mrk mtype="seg" mid="11">Error getting application state</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="11">Goýma ýagdaýy alyp bolmady</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-app_versionVersion %1">
+        <source>Version %1</source><seg-source><mrk mtype="seg" mid="12">Version %1</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="12">Wersiýa %1</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-allow_background_service_startAllow application background services to start on bootup">
+        <source>Allow application background services to start on bootup</source><seg-source><mrk mtype="seg" mid="13">Allow application background services to start on bootup</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="13">Goýma fon hyzmatlara başlangyç açmada başlamaga rugsat beriň</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-allow_background_service_start_descriptionWhen this is off, you won't get app notifications">
+        <source>When this is off, you won't get app notifications</source><seg-source><mrk mtype="seg" mid="14">When this is off, you won't get app notifications</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="14">Bu ýapyk bolanda, siz goýma habarnamalary almarsyňyz</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-package_storageStorage">
+        <source>Storage</source><seg-source><mrk mtype="seg" mid="15">Storage</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="15">Toplaýjy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-appsize_totalTotal:">
+        <source>Total:</source><seg-source><mrk mtype="seg" mid="16">Total:</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="16">Jemi</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-appsize_appApp:">
+        <source>App:</source><seg-source><mrk mtype="seg" mid="17">App:</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="17">Goýma</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-appsize_dataData:">
+        <source>Data:</source><seg-source><mrk mtype="seg" mid="18">Data:</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="18">Maglumat</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-appsize_cacheCache:">
+        <source>Cache:</source><seg-source><mrk mtype="seg" mid="19">Cache:</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="19">Keş</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-package_actionsActions">
+        <source>Actions</source><seg-source><mrk mtype="seg" mid="20">Actions</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="20">Hereketler</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-package_clear_cache_descriptionThis clears the temporary cache used by the app. It does not affect your data.The app might take longer to start after clearing the cache.">
+        <source>This clears the temporary cache used by the app. It does not affect your data.The app might take longer to start after clearing the cache.</source><seg-source><mrk mtype="seg" mid="21">This clears the temporary cache used by the app.</mrk> <mrk mtype="seg" mid="22">It does not affect your data.The app might take longer to start after clearing the cache.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="21">Bu goýmanyň ulanýan wagtlaýyn käşe arassalaýar.</mrk> <mrk mtype="seg" mid="22">Ol maglumatyňyza täsir etmez. Käşe arassalandan soň, goýma başlamak üçin has köp wagt alyp biler.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-package_clear_cacheClear cache">
+        <source>Clear cache</source><seg-source><mrk mtype="seg" mid="23">Clear cache</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="23">Käşi boşat</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-clear_data_descriptionThis reverts the app to a clean state as if it was just installed. You will lose all your data in the app (e.g. saved preferences, game scores).">
+        <source>This reverts the app to a clean state as if it was just installed. You will lose all your data in the app (e.g. saved preferences, game scores).</source><seg-source><mrk mtype="seg" mid="24">This reverts the app to a clean state as if it was just installed.</mrk> <mrk mtype="seg" mid="25">You will lose all your data in the app (e.g. saved preferences, game scores).</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="24">Bu ýaňyja gurnalan ýaly goýmany arassa ýagdaýa dolandyrýar.</mrk> <mrk mtype="seg" mid="25">Goýmdaky öz maglumatyňyzy ýitirersiňiz (meselem, ýazdyrylan ileri tutmalaryňyz we oýun utuklaryňyz).</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-package_clear_dataClear data">
+        <source>Clear data</source><seg-source><mrk mtype="seg" mid="26">Clear data</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="26">Maglumaty öçür</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-package_clearing_dataClearing app data">
+        <source>Clearing app data</source><seg-source><mrk mtype="seg" mid="27">Clearing app data</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="27">Goýma maglumaty öçürilmek</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-package_stop_descriptionForce stopping an app will also stop notifications. The app might restart automatically via background processes.">
+        <source>Force stopping an app will also stop notifications. The app might restart automatically via background processes.</source><seg-source><mrk mtype="seg" mid="28">Force stopping an app will also stop notifications.</mrk> <mrk mtype="seg" mid="29">The app might restart automatically via background processes.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="28">Goýmanyň mejbury duruzma goýmany habarnamalary hem duruzar.</mrk> <mrk mtype="seg" mid="29">Fondaky prosesler goýmany awtomatiki ýapyp açyp bilmegi mümkin.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd_settings-la-package_stopForce stop">
+        <source>Force stop</source><seg-source><mrk mtype="seg" mid="30">Force stop</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="30">Zor bilen duruz</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="android_settings-headerAndroid™ App Support">
+        <source>Android™ App Support</source><seg-source><mrk mtype="seg" mid="31">Android™ App Support</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="31">Android™ goýma goldawy</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="android_settings-la-autostartStart Android App Support on bootup">
+        <source>Start Android App Support on bootup</source><seg-source><mrk mtype="seg" mid="32">Start Android App Support on bootup</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="32">Android goýma goldawy başlangyç açmada başlat</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="android_settings-la-autostart_descriptionWhen this is off, you won't get any Android™ app notifications and launching first Android™ app can take a lot of time">
+        <source>When this is off, you won't get any Android™ app notifications and launching first Android™ app can take a lot of time</source><seg-source><mrk mtype="seg" mid="33">When this is off, you won't get any Android™ app notifications and launching first Android™ app can take a lot of time</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="33">Bu ýapyk wagtynda, siz islendik Android goýma habarnamalary almarsyňyz we ilkinji Android goýma başlatmak has uzyn wagt almagy mümkin</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="android_settings-la-permissionsPermissions">
+        <source>Permissions</source><seg-source><mrk mtype="seg" mid="34">Permissions</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="34">Rugsatlar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="android_settings-bt-allow_contact_accessAllow Android™ apps to access your contacts">
+        <source>Allow Android™ apps to access your contacts</source><seg-source><mrk mtype="seg" mid="35">Allow Android™ apps to access your contacts</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="35">Android™ kontaktlara girmegine rugsat ber</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="android_settings-la-contact_access_descriptionWhen this is off, Android™ apps relying on using contacts won't work as they should">
+        <source>When this is off, Android™ apps relying on using contacts won't work as they should</source><seg-source><mrk mtype="seg" mid="36">When this is off, Android™ apps relying on using contacts won't work as they should</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="36">Bu ýapyk wagtynda, Android goýmanyň kontaktlary ulanmagyna daýanmagy bolmaly ýaly işlemeýär.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="android_settings-la-actions_headerActions">
+        <source>Actions</source><seg-source><mrk mtype="seg" mid="37">Actions</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="37">Hereketler</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="android_settings-la-android_start_stop_descriptionStarting Android App Support takes a while. Stopping Android App Support will also stop Android app notifications and other background processes.">
+        <source>Starting Android App Support takes a while. Stopping Android App Support will also stop Android app notifications and other background processes.</source><seg-source><mrk mtype="seg" mid="38">Starting Android App Support takes a while.</mrk> <mrk mtype="seg" mid="39">Stopping Android App Support will also stop Android app notifications and other background processes.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="38">Android goýma goldawy başlatmagy biraz wagt alýar.</mrk> <mrk mtype="seg" mid="39">Android goýma goldawy duruzmak Android goýma habarnamalary we başga fon prosesleri hem duruzar.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="android_settings-bt-start_android_supportStart">
+        <source>Start</source><seg-source><mrk mtype="seg" mid="40">Start</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="40">Başlamak</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="android_settings-bt-stop_android_supportStop">
+        <source>Stop</source><seg-source><mrk mtype="seg" mid="41">Stop</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="41">Dur</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd-app_installation_disallowedInstalling APK disabled by the Sailfish Device Manager.">
+        <source>Installing APK disabled by the Sailfish Device Manager.</source><seg-source><mrk mtype="seg" mid="42">Installing APK disabled by the Sailfish Device Manager.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="42">Sailfish enjam dolandyryjy tarapyndan ýapylan APK gurnalýar</mrk></target>
+        
+      <note from="developer">Notification text shown when the user attempts to install an apk and policy doesn't allow</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd-failed_to_install_non_apk_fileFailed to install a file that is not an Android™ application package.">
+        <source>Failed to install a file that is not an Android™ application package.</source><seg-source><mrk mtype="seg" mid="43">Failed to install a file that is not an Android™ application package.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="43">Android™ goýma paketi bolmaýan faýly gurnap bolmaýar.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd-failed_to_open_android_application_for_installingFailed to open %1 Android™ application package for installing.">
+        <source>Failed to open %1 Android™ application package for installing.</source><seg-source><mrk mtype="seg" mid="44">Failed to open %1 Android™ application package for installing.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="44">%1 Android™ goýma paketi gurnama üçin açyp bolmaýar</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd-applicationApplication">
+        <source>Application</source><seg-source><mrk mtype="seg" mid="45">Application</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="45">Goýma</mrk></target>
+        
+      <note from="developer">Used in app_minimum_requirement_is_not_met when application name cannot be solved.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd-app_minimum_requirement_is_not_met%1 requires Android™ SDK version %2, installed version is %3. Cannot install %1.">
+        <source>%1 requires Android™ SDK version %2, installed version is %3. Cannot install %1.</source><seg-source><mrk mtype="seg" mid="46">%1 requires Android™ SDK version %2, installed version is %3.</mrk> <mrk mtype="seg" mid="47">Cannot install %1.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="46">%1 Android™ SDK %2 wersiýa talap edýär, gurnalan wersiýa - %3.</mrk> <mrk mtype="seg" mid="47">%1 gurnap bolmaýar.</mrk></target>
+        
+      <note from="developer">Notification text shown when the user attempts to install an apk that is not compatible with the Android SDK version.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd-could_not_determine_package_nameCould not determine package name for %1. Aborting installation.">
+        <source>Could not determine package name for %1. Aborting installation.</source><seg-source><mrk mtype="seg" mid="48">Could not determine package name for %1.</mrk> <mrk mtype="seg" mid="49">Aborting installation.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="48">%1 üçin paket ady anyklap bolmady.</mrk> <mrk mtype="seg" mid="49">Gurnaw ýatyrylýar.</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd-app_uninstallation_disallowedUninstalling APK disabled by the Sailfish Device Manager.">
+        <source>Uninstalling APK disabled by the Sailfish Device Manager.</source><seg-source><mrk mtype="seg" mid="50">Uninstalling APK disabled by the Sailfish Device Manager.</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="50">Sailfish enjam dolandyryjy tarapyndan ýapylan APK Gurnawdan aýrylýar.</mrk></target>
+        
+      <note from="developer">Notification text shown when the user attempts to install an apk and policy doesn't allow</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd-no-installed_multiple_include_n%n new application(s) installed">
+        <source>%n new application(s) installed</source><seg-source><mrk mtype="seg" mid="51">%n new application(s) installed</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="51">%n täzr goýma gurnaldy</mrk></target>
+        
+      <note from="developer">Notification text indicating number of apps installed. Include the numeric value.</note></trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd-lb-installed_apps_names%1, ...">
+        <source>%1, ...</source><seg-source><mrk mtype="seg" mid="52">%1, ...</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="52">%1, ...</mrk></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apkd-ap-nameAndroid">
+        <source>Android</source><seg-source><mrk mtype="seg" mid="53">Android</mrk></seg-source>
+        <target state="translated"><mrk mtype="seg" mid="53">Android</mrk></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
